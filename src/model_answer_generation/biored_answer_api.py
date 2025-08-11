@@ -29,22 +29,19 @@ def load_items(input_file):
             # 每行为一个json对象（jsonl）
             return [json.loads(line) for line in f if line.strip()]
 
-def is_rate_limit_error(e):
-    # 检查是不是429速率限制错误
-    msg = str(e)
-    return "429" in msg or "rate limit" in msg or "limit_requests" in msg
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", required=True, help="模型名称")
-    parser.add_argument("--input", required=True, help="输入文件名")
+    parser.add_argument("--input", default="data/evaluation/benchmark/bioRED.json", help="输入文件名")
     parser.add_argument("--output", required=True, help="输出文件名")
-    parser.add_argument("--log", default="run.log", help="日志文件名")
+    parser.add_argument("--log", default="biored-answer.log", help="日志文件名")
     parser.add_argument("--api_key", default=os.getenv("DASHSCOPE_API_KEY"), help="API KEY")
     parser.add_argument("--base_url", default="https://dashscope.aliyuncs.com/compatible-mode/v1", help="API base url")
     parser.add_argument("--threads", type=int, default=1, help="并发线程数，默认单线程")
     parser.add_argument("--max_retries", type=int, default=5, help="每条最大重试次数")
     parser.add_argument("--retry_base_wait", type=float, default=20, help="429出错后等待的基础秒数，指数退避")
+    parser.add_argument("--enable_thinking", action="store_true", help="启用thinking模式（即请求时传extra_body={enable_thinking:False}）")
+
     args = parser.parse_args()
 
     # 配置日志
@@ -79,13 +76,17 @@ def main():
             return {"idx": out_idx, "error": msg}
         for attempt in range(max_retries):
             try:
-                completion = client.chat.completions.create(
+                kwargs = dict(
                     model=args.model,
                     messages=[
                         {"role": "system", "content": sys_prompt},
                         {"role": "user", "content": user_prompt},
-                    ],
+                    ]
                 )
+                if args.enable_thinking:
+                    kwargs["extra_body"] = {"enable_thinking": False}
+                completion = client.chat.completions.create(**kwargs)
+
                 result = completion.choices[0].message.content
                 logging.info(f"第{out_idx + 1}条成功生成。")
                 return {
@@ -95,18 +96,14 @@ def main():
                     "llm_output": result
                 }
             except Exception as e:
-                if is_rate_limit_error(e):
-                    wait_time = retry_base_wait * (2 ** attempt)
-                    errmsg = f"第{out_idx + 1}条请求遇到速率限制(429)，第{attempt + 1}次重试，等待{wait_time:.1f}秒..."
-                    print(errmsg)
-                    logging.warning(errmsg)
-                    time.sleep(wait_time)
-                    continue
-                errmsg = f"第{out_idx + 1}条请求出错：{e}，已跳过。"
+                wait_time = retry_base_wait * (2 ** attempt)
+                errmsg = f"第{out_idx + 1}条请求出错：{e}，第{attempt + 1}次重试，等待{wait_time:.1f}秒..."
                 print(errmsg)
-                logging.error(errmsg)
-                return {"idx": out_idx, "error": errmsg}
-        errmsg = f"第{out_idx + 1}条请求连续{max_retries}次速率限制失败，已跳过。"
+                logging.warning(errmsg)
+                time.sleep(wait_time)
+                continue
+        # 超过最大重试次数，记录错误
+        errmsg = f"第{out_idx + 1}条请求连续{max_retries}次失败，已跳过。最后错误：{e}"
         print(errmsg)
         logging.error(errmsg)
         return {"idx": out_idx, "error": errmsg}
@@ -116,6 +113,8 @@ def main():
             for idx, obj in enumerate(tqdm(items, desc="LLM生成中")):
                 out = process_item(idx, obj)
                 if "error" in out:
+                    fout.write(json.dumps(out, ensure_ascii=False) + "\n")
+                    fout.flush()
                     continue
                 fout.write(json.dumps(out, ensure_ascii=False) + "\n")
                 fout.flush()
@@ -133,7 +132,7 @@ def main():
         with open(args.output, "w", encoding="utf-8") as fout:
             for idx in sorted(results):
                 out = results[idx]
-                if out is None or "error" in out:
+                if out is None:
                     continue
                 fout.write(json.dumps(out, ensure_ascii=False) + "\n")
                 fout.flush()

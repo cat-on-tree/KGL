@@ -1,4 +1,29 @@
 model answer generation 中的脚本用法：
-python src/model_answer_generation/xx.py --model xx --input data/benchmark/xx.json --output data/model_answer/xx.json --threads 4
 
-model performance summary 中的脚本用法： python src/model_performance_summary/xx.py --input data/model_answer/xx.json --output data/model\_test/xx.json --threads 4
+```apache
+python xx.py --model xx --output xx.json --threads 4
+```
+
+对于本地模型推理：
+
+```apache
+python xx.py --model_dir model/自己的模型 --output xx.json --device mps/cuda/cpu
+```
+
+model performance summary 中的脚本用法：
+
+```apache
+python src/model_performance_summary/xx_test_api.py --input data/evaluation/model_answer/xx-answer.json --output data/evaluation/model_test/xx-test.json
+```
+
+模型评测中的脚本用法：
+
+```apache
+python src/model_test/xx.py --test data/evaluation/model_test/xx-test.json --result data/evaluation/model_result/xx-result.txt
+```
+
+对于模型评测中的bioASQ BERT指标计算：
+
+```apache
+python src/model_test/bioASQ_bert_result.py --answer data/evaluation/model_answer/xx-answer.json --result data/evaluation/model_result/xx-bert.txt
+```
