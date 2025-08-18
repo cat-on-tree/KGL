@@ -1,0 +1,15 @@
+==== Classification Report ====
+                      precision    recall  f1-score   support
+
+         Association       0.75      0.48      0.59       527
+                Bind       0.08      0.44      0.13         9
+          Comparison       0.40      0.80      0.53         5
+          Conversion       0.00      0.00      0.00         1
+         Cotreatment       0.48      0.79      0.59        14
+    Drug_Interaction       0.08      0.50      0.14         2
+Negative_Correlation       0.57      0.60      0.59       156
+Positive_Correlation       0.50      0.71      0.59       276
+
+            accuracy                           0.57       990
+           macro avg       0.36      0.54      0.40       990
+        weighted avg       0.64      0.57      0.58       990

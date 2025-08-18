@@ -1,19 +1,19 @@
 model answer generation 中的脚本用法：
 
 ```apache
-python xx.py --model xx --output xx.json --threads 4
+python xx.py --model xx --output xx.json --threads 4 --log logs/ #enable_thinking (Qwen系列开源模型)
 ```
 
 对于本地模型推理：
 
 ```apache
-python xx.py --model_dir model/自己的模型 --output xx.json --device mps/cuda/cpu
+python xx.py --model_dir model/自己的模型 --output xx.json --device mps/cuda/cpu --log logs/
 ```
 
 model performance summary 中的脚本用法：
 
 ```apache
-python src/model_performance_summary/xx_test_api.py --input data/evaluation/model_answer/xx-answer.json --output data/evaluation/model_test/xx-test.json
+python src/model_performance_summary/xx_test_api.py --input data/evaluation/model_answer/xx-answer.json --output data/evaluation/model_test/xx-test.json --log logs/
 ```
 
 模型评测中的脚本用法：
@@ -25,5 +25,5 @@ python src/model_test/xx.py --test data/evaluation/model_test/xx-test.json --res
 对于模型评测中的bioASQ BERT指标计算：
 
 ```apache
-python src/model_test/bioASQ_bert_result.py --answer data/evaluation/model_answer/xx-answer.json --result data/evaluation/model_result/xx-bert.txt
+python src/model_test/bioASQ_bert_result.py --answer data/evaluation/model_answer/xx-answer.json --result data/evaluation/model_result/xx-bert.txt --log logs/
 ```

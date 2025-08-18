@@ -8,9 +8,6 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 def clean_context(text, supporting_sentences=None):
-    """
-    清洗 context 字段，去除 <answer> ... <context> 部分、<answer> ...、<context> 标签，以及 supporting_sentences 中的内容。
-    """
     text = re.sub(r"<answer>.*?<context>", "", text, flags=re.DOTALL)
     text = re.sub(r"<answer>.*?(\n|$)", "", text, flags=re.DOTALL)
     text = text.replace("<context>", "")
@@ -61,22 +58,70 @@ def resolve_device(device_str):
         print(f"Warning: Requested device '{device_str}' not available. Falling back to CPU.")
         return "cpu"
 
-def local_generate(model, tokenizer, prompt, max_new_tokens=512, device="cpu"):
-    inputs = tokenizer(prompt, return_tensors="pt").to(device)
-    with torch.no_grad():
-        outputs = model.generate(
-            **inputs,
-            max_new_tokens=max_new_tokens,
-            do_sample=False,
-            pad_token_id=tokenizer.eos_token_id
+def extract_assistant_response(result):
+    """
+    用正则从输出中提取assistant后的内容，去掉冗余的system/user段。
+    支持常见三种格式（assistant、ASSISTANT、<|im_start|>assistant）。
+    若未命中，则返回原文。
+    """
+    match = re.search(r"(?:^|\n)assistant\s*\n(.*)", result, re.DOTALL | re.IGNORECASE)
+    if match:
+        return match.group(1).strip()
+    match = re.search(r"<\|im_start\|>assistant\s*(.*?)<\|im_end\|>", result, re.DOTALL | re.IGNORECASE)
+    if match:
+        return match.group(1).strip()
+    return result.strip()
+
+def remove_think_tags(text):
+    # 支持多组<think>...</think>，并允许换行
+    return re.sub(r"<think>\s*?</think>\s*", "", text, flags=re.DOTALL)
+
+def local_generate(model, tokenizer, system_prompt, user_prompt, max_new_tokens=4096, device="cpu", enable_thinking=None, use_qwen_template=False, stream=False):
+    # Qwen/chat模板兼容
+    if use_qwen_template and hasattr(tokenizer, "apply_chat_template"):
+        messages = [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+        chat_template_kwargs = dict(
+            conversation=messages,
+            tokenize=False,
+            add_generation_prompt=True
         )
-    result = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    if result.startswith(prompt):
-        result = result[len(prompt):].strip()
-    return result
+        if enable_thinking is not None:
+            chat_template_kwargs["enable_thinking"] = enable_thinking
+        prompt = tokenizer.apply_chat_template(**chat_template_kwargs)
+    else:
+        prompt = system_prompt + "\n" + user_prompt
+
+    inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    if stream and hasattr(model, "generate") and "stream" in model.generate.__code__.co_varnames:
+        # Qwen系列和transformers>=4.38支持流式输出（假设stream参数）
+        output_text = ""
+        with torch.no_grad():
+            for outputs in model.generate(
+                **inputs,
+                max_new_tokens=max_new_tokens,
+                do_sample=False,
+                pad_token_id=tokenizer.eos_token_id,
+                stream=True
+            ):
+                output_text += tokenizer.decode(outputs[0][-1:], skip_special_tokens=True)
+        result = output_text
+    else:
+        with torch.no_grad():
+            outputs = model.generate(
+                **inputs,
+                max_new_tokens=max_new_tokens,
+                do_sample=False,
+                pad_token_id=tokenizer.eos_token_id
+            )
+        result = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    assistant_result = extract_assistant_response(result)
+    assistant_result = remove_think_tags(assistant_result)
+    return assistant_result
 
 def get_done_set(output_path):
-    """从output文件收集所有已经完成的idx"""
     done_set = set()
     if not os.path.exists(output_path):
         return done_set
@@ -92,16 +137,34 @@ def get_done_set(output_path):
                 continue
     return done_set
 
+def str2bool_or_none(v):
+    if v is None:
+        return None
+    if isinstance(v, bool):
+        return v
+    v = str(v).lower()
+    if v in ('yes', 'true', 't', 'y', '1'):
+        return True
+    if v in ('no', 'false', 'f', 'n', '0'):
+        return False
+    return None
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_dir", required=True, help="本地transformers模型目录")
     parser.add_argument("--input", default="data/evaluation/benchmark/BioASQ.json", help="输入文件名")
     parser.add_argument("--output", required=True, help="输出文件名")
     parser.add_argument("--log", default="BioASQ-answer.log", help="日志文件名")
-    parser.add_argument("--max_new_tokens", type=int, default=128)
+    parser.add_argument("--max_new_tokens", type=int, default=4096)
     parser.add_argument("--device", default="cpu", help="cpu、cuda 或 mps")
     parser.add_argument("--threads", type=int, default=1, help="并发线程数，默认单线程")
+    parser.add_argument("--enable_thinking_round1", nargs='?', const=False, default=None, help="第一轮enable_thinking，True/False，不传则None，只写参数名为False")
+    parser.add_argument("--enable_thinking_round2", nargs='?', const=False, default=None, help="第二轮enable_thinking，True/False，不传则None，只写参数名为False")
+    parser.add_argument("--stream", action="store_true", help="强制流式解码（如模型支持），否则仅在enable_thinking为True时自动流式")
     args = parser.parse_args()
+
+    args.enable_thinking_round1 = str2bool_or_none(args.enable_thinking_round1)
+    args.enable_thinking_round2 = str2bool_or_none(args.enable_thinking_round2)
 
     logging.basicConfig(
         filename=args.log,
@@ -123,6 +186,10 @@ def main():
         model = model.to(torch.float32)
     model = model.to(device).eval()
 
+    # 判断是否Qwen系列（兼容大小写）
+    model_type = getattr(model.config, "model_type", "").lower()
+    use_qwen_template = "qwen" in model_type
+
     with open(args.output, "a", encoding="utf-8") as fout:
         for idx, obj in enumerate(tqdm(items, desc="本地模型推理中")):
             if "idx" not in obj:
@@ -138,10 +205,15 @@ def main():
             context = clean_context(raw_context, supporting_sentences=supporting_sentences)
 
             # 第一轮
-            messages1 = system_prompt_round1() + "\n" + f"Context: {context}\nQuestion: {question}\nPlease answer the question directly and concisely."
+            user_prompt1 = f"Context: {context}\nQuestion: {question}\nPlease answer the question directly and concisely."
             try:
                 answer1 = local_generate(
-                    model, tokenizer, messages1, max_new_tokens=args.max_new_tokens, device=device
+                    model, tokenizer,
+                    system_prompt_round1(), user_prompt1,
+                    max_new_tokens=args.max_new_tokens, device=device,
+                    enable_thinking=args.enable_thinking_round1,
+                    use_qwen_template=use_qwen_template,
+                    stream=args.stream or (args.enable_thinking_round1 is True)
                 )
                 answer1 = answer1.strip()
                 logging.info(f"第{out_idx}条Q1本地模型生成成功。")
@@ -152,10 +224,15 @@ def main():
                 continue
 
             # 第二轮
-            messages2 = system_prompt_round2() + "\n" + f"Context: {context}\nQuestion: {question}\nAnswer: {answer1}\nPlease quote the supporting sentence from the context."
+            user_prompt2 = f"Context: {context}\nQuestion: {question}\nAnswer: {answer1}\nPlease quote the supporting sentence from the context."
             try:
                 answer2 = local_generate(
-                    model, tokenizer, messages2, max_new_tokens=args.max_new_tokens, device=device
+                    model, tokenizer,
+                    system_prompt_round2(), user_prompt2,
+                    max_new_tokens=args.max_new_tokens, device=device,
+                    enable_thinking=args.enable_thinking_round2,
+                    use_qwen_template=use_qwen_template,
+                    stream=args.stream or (args.enable_thinking_round2 is True)
                 )
                 answer2 = answer2.strip()
                 logging.info(f"第{out_idx}条Q2本地模型生成成功。")
@@ -173,9 +250,9 @@ def main():
             out = {
                 "idx": out_idx,
                 "system_round1": system_prompt_round1(),
-                "user_round1": f"Context: {context}\nQuestion: {question}\nPlease answer the question directly and concisely.",
+                "user_round1": user_prompt1,
                 "system_round2": system_prompt_round2(),
-                "user_round2": f"Context: {context}\nQuestion: {question}\nAnswer: {answer1}\nPlease quote the supporting sentence from the context.",
+                "user_round2": user_prompt2,
                 "llm_output": llm_output
             }
             fout.write(json.dumps(out, ensure_ascii=False) + "\n")

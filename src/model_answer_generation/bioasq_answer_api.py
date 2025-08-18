@@ -9,22 +9,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 
 def clean_context(text, supporting_sentences=None):
-    """
-    清洗 context 字段，去除 <answer> ... <context> 部分、<answer> ...、<context> 标签，以及 supporting_sentences 中的内容。
-    """
-    # 去除 <answer> ... <context> 之间内容
     text = re.sub(r"<answer>.*?<context>", "", text, flags=re.DOTALL)
-    # 去除单独 <answer> ...，防止没有<context>标签的情况
     text = re.sub(r"<answer>.*?(\n|$)", "", text, flags=re.DOTALL)
-    # 去除 <context> 标签
     text = text.replace("<context>", "")
-    # 去除 supporting_sentences 里的所有句子
     if supporting_sentences:
         for sent in supporting_sentences:
             sent = sent.strip()
-            # 仅完全匹配的句子会被去除，如需模糊删除可用正则
             text = text.replace(sent, "")
-    # 去除多余空行和首尾空格
     text = re.sub(r"\n{2,}", "\n", text)
     return text.strip()
 
@@ -48,7 +39,6 @@ def system_prompt_round2():
     )
 
 def load_items(input_file):
-    # 兼容json和jsonl
     with open(input_file, "r", encoding="utf-8") as f:
         first = f.read(1)
         f.seek(0)
@@ -58,7 +48,6 @@ def load_items(input_file):
             return [json.loads(line) for line in f if line.strip()]
 
 def get_done_set(output_path):
-    """从output文件收集所有已经完成的idx"""
     done_set = set()
     if not os.path.exists(output_path):
         return done_set
@@ -73,6 +62,37 @@ def get_done_set(output_path):
             except Exception:
                 continue
     return done_set
+
+def str2bool_or_none(v):
+    if v is None:
+        return None
+    if isinstance(v, bool):
+        return v
+    v = str(v).lower()
+    if v in ('yes', 'true', 't', 'y', '1'):
+        return True
+    if v in ('no', 'false', 'f', 'n', '0'):
+        return False
+    return None
+
+def chat_completion_with_stream(client, **kwargs):
+    """
+    调用流式接口，返回完整内容
+    """
+    stream_options = kwargs.pop("stream_options", None)
+    # Qwen平台建议加上if chunk.choices判断
+    completion = client.chat.completions.create(stream=True, **kwargs)
+    full_content = ""
+    for chunk in completion:
+        if hasattr(chunk, "choices") and chunk.choices:
+            delta = chunk.choices[0].delta
+            if hasattr(delta, "content") and delta.content:
+                full_content += delta.content
+    return full_content
+
+def chat_completion_with_sync(client, **kwargs):
+    completion = client.chat.completions.create(**kwargs)
+    return completion.choices[0].message.content.strip()
 
 def process_item(idx, obj, args, client):
     max_retries = args.max_retries
@@ -101,10 +121,16 @@ def process_item(idx, obj, args, client):
     for attempt in range(max_retries):
         try:
             kwargs = dict(model=args.model, messages=messages1)
-            if args.enable_thinking:
-                kwargs["extra_body"] = {"enable_thinking": False}
-            completion1 = client.chat.completions.create(**kwargs)
-            answer1 = completion1.choices[0].message.content.strip()
+            # 判断是否需要流式
+            if args.enable_thinking_round1 is not None:
+                kwargs["extra_body"] = {"enable_thinking": args.enable_thinking_round1}
+                if args.enable_thinking_round1:
+                    answer1 = chat_completion_with_stream(client, **kwargs)
+                else:
+                    answer1 = chat_completion_with_sync(client, **kwargs)
+            else:
+                answer1 = chat_completion_with_sync(client, **kwargs)
+            answer1 = answer1.strip()
             break
         except Exception as e:
             wait_time = retry_base_wait * (2 ** attempt)
@@ -131,10 +157,15 @@ def process_item(idx, obj, args, client):
     for attempt in range(max_retries):
         try:
             kwargs = dict(model=args.model, messages=messages2)
-            if args.enable_thinking:
-                kwargs["extra_body"] = {"enable_thinking": False}
-            completion2 = client.chat.completions.create(**kwargs)
-            answer2 = completion2.choices[0].message.content.strip()
+            if args.enable_thinking_round2 is not None:
+                kwargs["extra_body"] = {"enable_thinking": args.enable_thinking_round2}
+                if args.enable_thinking_round2:
+                    answer2 = chat_completion_with_stream(client, **kwargs)
+                else:
+                    answer2 = chat_completion_with_sync(client, **kwargs)
+            else:
+                answer2 = chat_completion_with_sync(client, **kwargs)
+            answer2 = answer2.strip()
             break
         except Exception as e:
             wait_time = retry_base_wait * (2 ** attempt)
@@ -174,9 +205,13 @@ def main():
     parser.add_argument("--threads", type=int, default=1, help="并发线程数，默认单线程")
     parser.add_argument("--max_retries", type=int, default=5, help="每条最大重试次数")
     parser.add_argument("--retry_base_wait", type=float, default=20, help="429出错后等待的基础秒数，指数退避")
-    parser.add_argument("--enable_thinking", action="store_true", help="启用thinking模式（即请求时传extra_body={enable_thinking:False}）")
-
+    parser.add_argument("--enable_thinking_round1", nargs='?', const=False, default=None, help="第一轮enable_thinking，True/False，不传则None，只写参数名为False")
+    parser.add_argument("--enable_thinking_round2", nargs='?', const=False, default=None, help="第二轮enable_thinking，True/False，不传则None，只写参数名为False")
     args = parser.parse_args()
+
+    # 转换字符串为布尔值或None
+    args.enable_thinking_round1 = str2bool_or_none(args.enable_thinking_round1)
+    args.enable_thinking_round2 = str2bool_or_none(args.enable_thinking_round2)
 
     logging.basicConfig(
         filename=args.log,
