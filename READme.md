@@ -32,5 +32,5 @@ python src/model_test/bioASQ_bert_result.py --answer data/evaluation/model_answe
 之后是计算gpt score：
 
 ```apache
-python src/gpt_test/xx_gpt_api.py --answer data/evaluation/model_answer/xx-answer.json --result data/evaluation/gpt_test/model_data-gpt.json --log logs/
+python src/gpt_test/xx_gpt_api.py --answer data/evaluation/model_answer/xx-answer.json --output data/evaluation/gpt_test/model_data-gpt.json --log logs/
 ```
