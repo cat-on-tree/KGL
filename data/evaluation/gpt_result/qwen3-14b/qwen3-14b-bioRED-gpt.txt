@@ -1,0 +1,4 @@
+score_count: 990
+average_score: 3.8424
+score_2_count: 382
+score_5_count: 608
