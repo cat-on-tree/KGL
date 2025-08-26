@@ -5,6 +5,8 @@ from openai import OpenAI
 from tqdm import tqdm
 import argparse
 import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
 
 def extract_gold_answer(text):
     """
@@ -30,6 +32,77 @@ def extract_predicted_answer(llm_output):
         return answer
     return ""
 
+def judge_one(idx, obj, idx2gold, client, args, system_prompt, max_retries=5):
+    cur_idx = obj.get("idx", idx)
+    gold_obj = idx2gold.get(cur_idx)
+    if not gold_obj:
+        logging.warning(f"没有找到gold标准，idx={cur_idx}")
+        out = {
+            "idx": cur_idx,
+            "error": "No gold standard found for idx."
+        }
+        return cur_idx, out
+
+    question = gold_obj.get("question", "").strip()
+    gold_answer = extract_gold_answer(gold_obj.get("text", ""))
+    llm_output = obj.get("llm_output", "")
+
+    predicted_answer = extract_predicted_answer(llm_output)
+    if not predicted_answer:
+        logging.warning(f"无法提取预测答案, idx={cur_idx}")
+        out = {
+            "idx": cur_idx,
+            "error": "No predicted answer found."
+        }
+        return cur_idx, out
+
+    # 构造system和user prompt
+    user_prompt = (
+        f"Question: {question}\n"
+        f"Gold Answer: {gold_answer}\n"
+        f"Predicted answer: {predicted_answer}\n"
+    )
+
+    wait_times = [5, 10, 15, 20, 25]
+    last_exception = None
+    for attempt in range(max_retries):
+        try:
+            completion = client.chat.completions.create(
+                model=args.model,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                ],
+                response_format={"type": "json_object"},
+            )
+            result = completion.choices[0].message.content
+            logging.info(f"第{cur_idx + 1}条成功生成。")
+            out = {
+                "idx": cur_idx,
+                "label_json": result,
+                "question": question,
+                "gold_answer": gold_answer,
+                "predicted_answer": predicted_answer,
+                "retries": attempt + 1
+            }
+            return cur_idx, out
+        except Exception as e:
+            last_exception = e
+            errmsg = f"第{cur_idx + 1}条第{attempt+1}次请求出错：{e}"
+            print(errmsg)
+            logging.error(errmsg)
+            if attempt < max_retries - 1:
+                time.sleep(wait_times[attempt])
+    out = {
+        "idx": cur_idx,
+        "error": f"请求重试{max_retries}次仍失败: {last_exception}",
+        "question": question,
+        "gold_answer": gold_answer,
+        "predicted_answer": predicted_answer,
+        "retries": max_retries
+    }
+    return cur_idx, out
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", default="qwen-max-latest", help="模型名称")
@@ -39,6 +112,7 @@ def main():
     parser.add_argument("--log", default="bioASQ-test.log", help="日志文件名")
     parser.add_argument("--api_key", default=os.getenv("DASHSCOPE_API_KEY"), help="API KEY")
     parser.add_argument("--base_url", default="https://dashscope.aliyuncs.com/compatible-mode/v1", help="API base url")
+    parser.add_argument("--threads", type=int, default=4, help="并发线程数量")
     args = parser.parse_args()
 
     # 配置日志
@@ -65,83 +139,30 @@ def main():
     with open(args.input, "r", encoding="utf-8") as fin:
         items = [json.loads(line) for line in fin if line.strip()]
 
+    system_prompt = (
+        "You are an expert in biomedical text analysis, specifically in the BioASQ challenge. "
+        "Your task is: given a question and two answers, which contains a gold answer and a predicted answer. "
+        "Determine if the predicted answer is the same to the label.\n"
+        "If yes, output true, otherwise output false.\n"
+        "Here is an example:\n"
+        "Question: What is the gene mutated in the Gaucher disease?\n"
+        "Gold Answer: glucocerebrosidase.\n"
+        "Predicted answer: The gene mutated in Gaucher's disease is glucocerebrosidase (GBA1).\n"
+        "Your answer is: { \"label\": \"True\" }\n"
+        "only output a json contains a label, the output format examples are as follows:\n"
+        "{ \"label\": \"True\" }; { \"label\": \"False\" }\n"
+    )
+
     idx2out = {}
-    for idx, obj in enumerate(tqdm(items, desc="LLM判断正误")):
-        cur_idx = obj.get("idx", idx)
-        gold_obj = idx2gold.get(cur_idx)
-        if not gold_obj:
-            logging.warning(f"没有找到gold标准，idx={cur_idx}")
-            out = {
-                "idx": cur_idx,
-                "error": "No gold standard found for idx."
-            }
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    with ThreadPoolExecutor(max_workers=args.threads) as executor:
+        futures = [
+            executor.submit(judge_one, idx, obj, idx2gold, client, args, system_prompt)
+            for idx, obj in enumerate(items)
+        ]
+        for future in tqdm(as_completed(futures), total=len(futures), desc="LLM判断正误 (并发+重试)"):
+            cur_idx, out = future.result()
             idx2out[cur_idx] = out
-            continue
-
-        question = gold_obj.get("question", "").strip()
-        gold_answer = extract_gold_answer(gold_obj.get("text", ""))
-        llm_output = obj.get("llm_output", "")
-
-        predicted_answer = extract_predicted_answer(llm_output)
-        if not predicted_answer:
-            logging.warning(f"无法提取预测答案, idx={cur_idx}")
-            out = {
-                "idx": cur_idx,
-                "error": "No predicted answer found."
-            }
-            idx2out[cur_idx] = out
-            continue
-
-        # 构造system和user prompt
-        system_prompt = (
-            "You are an expert in biomedical text analysis, specifically in the BioASQ challenge. "
-            "Your task is: given a question and two answers, which contains a gold answer and a predicted answer. "
-            "Determine if the predicted answer is the same to the label.\n"
-            "If yes, output true, otherwise output false.\n"
-            "Here is an example:\n"
-            "Question: What is the gene mutated in the Gaucher disease?\n"
-            "Gold Answer: glucocerebrosidase.\n"
-            "Predicted answer: The gene mutated in Gaucher's disease is glucocerebrosidase (GBA1).\n"
-            "Your answer is: { \"label\": \"True\" }\n"
-            "only output a json contains a label, the output format examples are as follows:\n"
-            "{ \"label\": \"True\" }; { \"label\": \"False\" }\n"
-        )
-        user_prompt = (
-            f"Question: {question}\n"
-            f"Gold Answer: {gold_answer}\n"
-            f"Predicted answer: {predicted_answer}\n"
-        )
-
-        try:
-            completion = client.chat.completions.create(
-                model=args.model,
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt},
-                ],
-                response_format={"type": "json_object"},
-            )
-            result = completion.choices[0].message.content
-            logging.info(f"第{cur_idx + 1}条成功生成。")
-            out = {
-                "idx": cur_idx,
-                "label_json": result,
-                "question": question,
-                "gold_answer": gold_answer,
-                "predicted_answer": predicted_answer
-            }
-        except Exception as e:
-            errmsg = f"第{cur_idx + 1}条请求出错：{e}"
-            print(errmsg)
-            logging.error(errmsg)
-            out = {
-                "idx": cur_idx,
-                "error": errmsg,
-                "question": question,
-                "gold_answer": gold_answer,
-                "predicted_answer": predicted_answer
-            }
-        idx2out[cur_idx] = out
 
     with open(args.output, "w", encoding="utf-8") as fout:
         for obj in items:

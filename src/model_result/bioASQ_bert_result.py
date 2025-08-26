@@ -79,10 +79,11 @@ def main(gold_json_file, llm_json_file, report_file="supporting_sentence_report.
         P, R, F1 = bert_score(
             pred_sents,
             gold_sents,
-            lang="en",
-            model_type="bert-base-uncased",
+            model_type="./model/bert-base-uncased",
             device=device,
-            verbose=True
+            verbose=True,
+            rescale_with_baseline=False,
+            num_layers=12
         )
         bert_f1s = F1.tolist()
     else:
