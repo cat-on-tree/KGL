@@ -118,69 +118,92 @@ def main():
     client = OpenAI(api_key=args.api_key, base_url=args.base_url)
 
     # 放宽标准的few-shot评分示例
+    GOLD_ANSWER = "glucocerebrosidase"
+    GOLD_SUPPORT = "Gaucher's disease (GD) results from a deficiency of the lysosomal enzyme glucocerebrosidase and, in very rare occasions, a deficiency of its activator, the saposin C."
+
     example_5 = json.dumps({
-        "answer": "glucocerebrosidase",
-        "supporting_sentence": "Gaucher's disease (GD) results from a deficiency of the lysosomal enzyme glucocerebrosidase.",
+        "answer": "The enzyme deficient in Gaucher's disease is glucocerebrosidase.",
+        "supporting_sentence": "Gaucher's disease (GD) results from a deficiency of the lysosomal enzyme glucocerebrosidase and, in very rare occasions, a deficiency of its activator, the saposin C.",
         "score": 5,
-        "reason": "Answer matches gold standard exactly; supporting sentence is concise, directly relevant and covers the answer logically.",
+        "reason": "The model answer is semantically equivalent to the gold answer and clearly expresses the complete meaning. The supporting sentence is directly extracted from context and fully covers the gold supporting sentence, including all key details. The logical connection between answer and supporting sentence is strong.",
         "match": True
     }, ensure_ascii=False)
+
+    example_5_rich = json.dumps({
+        "answer": "Gaucher's disease is caused by a deficiency of the lysosomal enzyme glucocerebrosidase, which leads to lipid accumulation within cells. In rare cases, deficiency of its activator, saposin C, may also be responsible. Glucocerebrosidase normally helps break down glucocerebroside, and its deficiency results in characteristic clinical manifestations.",
+        "supporting_sentence": "Gaucher's disease results from a deficiency of the lysosomal enzyme glucocerebrosidase and, in very rare occasions, a deficiency of its activator, the saposin C. Glucocerebrosidase acts to cleave glucocerebroside in the lysosome, and its deficiency leads to lipid accumulation.",
+        "score": 5,
+        "reason": "The model answer is semantically equivalent to the gold answer and provides additional scientifically accurate details about the enzyme's function and the consequences of its deficiency. The supporting sentence covers all content of the gold supporting sentence and reasonably supplements it with mechanism and context, forming a stronger logical connection and richer information.",
+        "match": True
+    }, ensure_ascii=False)
+
     example_4 = json.dumps({
-        "answer": "glucocerebrosidase (GBA1)",
-        "supporting_sentence": "Gaucher's disease results from a deficiency of glucocerebrosidase. The complexity of identification and characterization of mutations in the gene of glucocerebrosidase (GBA1) is caused by a great amount of mutated alleles.",
+        "answer": "Gaucher's disease is caused by deficiency of the lysosomal enzyme glucocerebrosidase.",
+        "supporting_sentence": "Gaucher's disease (GD) results from a deficiency of the lysosomal enzyme glucocerebrosidase.",
         "score": 4,
-        "reason": "Answer matches gold standard; supporting sentence contains relevant information, with slight redundancy but overall logical support.",
+        "reason": "The model answer is semantically equivalent to the gold answer and provides a complete explanation. The supporting sentence is directly extracted from context and covers the main part of the gold supporting sentence but omits the detail about saposin C, so coverage is incomplete.",
         "match": True
     }, ensure_ascii=False)
+
     example_3 = json.dumps({
-        "answer": "The gene mutated in Gaucher disease is glucocerebrosidase.",
-        "supporting_sentence": "Gaucher's disease is caused by a deficiency of glucocerebrosidase. The context mentions both glucocerebrosidase and saposin C.",
+        "answer": "The gene mutated in Gaucher's disease is glucocerebrosidase, but sometimes saposin C may also be involved.",
+        "supporting_sentence": "Gaucher's disease (GD) results from a deficiency of the lysosomal enzyme glucocerebrosidase and sometimes saposin C may be deficient.",
         "score": 3,
-        "reason": "Answer is correct but verbose; supporting sentence is somewhat lengthy or mixes relevant and irrelevant facts. Logic is reasonable but could be more concise.",
+        "reason": "The model answer is close in meaning to the gold answer but is verbose and mixes relevant and irrelevant content. The supporting sentence partially overlaps with the gold supporting sentence, but includes some generated information not present in the context.",
         "match": True
     }, ensure_ascii=False)
+
     example_2 = json.dumps({
         "answer": "saposin C",
         "supporting_sentence": "Gaucher's disease may also result from a deficiency of saposin C.",
         "score": 2,
-        "reason": "Answer does not match gold standard but is present in context; supporting sentence is relevant but does not cover gold answer.",
+        "reason": "The model answer is not semantically equivalent to the gold answer but is present in context. The supporting sentence covers only a small part of the gold supporting sentence and does not logically support the main answer for the question.",
         "match": False
     }, ensure_ascii=False)
+
     example_1 = json.dumps({
         "answer": "Gaucher disease is a lysosomal storage disorder.",
         "supporting_sentence": "It is a lysosomal disorder. Mutations may be complex.",
         "score": 1,
-        "reason": "Answer and supporting sentence are irrelevant or overly verbose and do not logically cover the gold answer.",
+        "reason": "The model answer and supporting sentence are irrelevant or mainly generated content, not extracted from context, and do not logically support the gold answer.",
         "match": False
     }, ensure_ascii=False)
 
     system_prompt = f"""
-You are an expert biomedical information extractor.
-Given a question, a context (background knowledge), a model answer, a supporting sentence, a gold answer, and a gold supporting sentence, rate the model's answer and supporting sentence according to the following criteria:
+    You are an expert biomedical information extractor.
+    Given a question, a context (background knowledge), a model answer, a supporting sentence, a gold answer, and a gold supporting sentence, rate the model's answer and supporting sentence according to the following criteria:
 
-Scoring reference:
-- 5: Answer matches gold standard exactly; supporting sentence is concise, directly relevant, covers the answer with clear and logical reasoning. Minor extra details are acceptable if logic is strong and no excessive content.
-- 4: Answer matches gold standard; supporting sentence is relevant and covers the answer, but contains some redundancy or slight verbosity.
-- 3: Answer matches gold standard or is very close; supporting sentence is somewhat lengthy or mixes relevant and irrelevant content, but covers the answer. Logic is reasonable but could be more concise.
-- 2: Answer does not match gold standard but is present in context; supporting sentence is relevant but does not cover gold answer, or is too verbose.
-- 1: Answer and supporting sentence are irrelevant, incorrect, or overly verbose (e.g., quoting two、three or more sentences when one suffices), and do not logically support the gold answer.
+    Scoring reference:
+    - 5: The model answer is semantically equivalent to the gold answer and provides additional, relevant, and accurate details or explanations that go beyond the gold answer, enhancing the scientific or clinical value of the response. The supporting sentence not only fully covers the gold supporting sentence, but also reasonably supplements it with related mechanisms, effects, or context, forming a stronger logical connection and richer information.
+    - 4: The model answer is semantically equivalent to the gold answer and is complete, but does not provide additional relevant details or scientific explanations beyond the gold answer. The supporting sentence covers the main part of the gold supporting sentence, with limited or minor supplemental detail, or contains some unnecessary redundancy.
+    - 3: The model answer is close in meaning to the gold answer, but is either verbose with irrelevant information or lacks key details. The supporting sentence partially covers the gold supporting sentence, may include generated or loosely related information, and provides limited logical support.
+    - 2: The model answer is not semantically equivalent to the gold answer but is present in context. The supporting sentence covers little of the gold supporting sentence and does not logically support the answer; may be mostly generated content.
+    - 1: The model answer and supporting sentence are irrelevant, incorrect, or mainly generated content (not from context), and do not logically support the gold answer.
 
-Output JSON fields:
-- "score": integer, 1 (very poor) to 5 (excellent)
-- "reason": string, explaining your score, especially the reasoning evaluation
-- "match": boolean, true if answer matches gold standard, false otherwise
+    Special notes:
+    - For answer: For 5 points, encourage model answers and supporting sentences that go beyond the gold standard in a scientifically valid way. Do not penalize answers for being lengthy or detailed if the extra information is correct and enhances the response. Penalize only for irrelevant or incorrect expansion.
+    - For supporting sentence: Focus on how much of the gold supporting sentence is covered and whether it is directly extracted from context. Extra credit for scientifically relevant expansion.
+    - Logical connection: Give extra credit if the supporting sentence logically supports both the question and the model answer. Deduct points if this logical connection is weak or absent.
 
-Do NOT include the 'answer' or 'supporting_sentence' fields in your output JSON.  
-The examples below include them for illustration only.
+    The gold answer and gold supporting sentence are for your reference only. DO NOT output or generate them in your result.
 
-Output format examples:
-{example_5}
-{example_4}
-{example_3}
-{example_2}
-{example_1}
+    Output JSON fields:
+    - "score": integer, 1 (very poor) to 5 (excellent)
+    - "reason": string, explaining your score, especially the reasoning evaluation
+    - "match": boolean, true if the model answer is semantically equivalent to the gold answer, false otherwise
 
-Please only output the JSON object with the specified fields.
+    Do NOT include the 'answer' or 'supporting_sentence' fields in your output JSON.
+    The examples below include them for illustration only.
+
+    Output format examples:
+    {example_5}
+    {example_5_rich}
+    {example_4}
+    {example_3}
+    {example_2}
+    {example_1}
+
+    Please only output the JSON object with the specified fields.
     """
 
     # 读取benchmark数据（新结构）
