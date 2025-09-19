@@ -4,6 +4,10 @@ import torch
 from bert_score import score as bert_score
 from rouge_score import rouge_scorer
 import logging
+from transformers import BertTokenizer
+
+MAX_BERT_LEN = 512
+tokenizer = BertTokenizer.from_pretrained("./model/bert-base-uncased")
 
 def extract_gold_supporting_sentences(gold_item):
     return gold_item.get("supporting_sentences", [])
@@ -30,6 +34,15 @@ def choose_device():
     else:
         logging.info("Using CPU for BERTScore evaluation.")
         return "cpu"
+
+def truncate_for_bert(text, max_len=MAX_BERT_LEN):
+    # transformers会自动处理 special tokens，truncation=True 保证总长度不超过 max_len
+    return tokenizer.decode(
+        tokenizer.encode(
+            text, add_special_tokens=True, max_length=max_len, truncation=True
+        ),
+        skip_special_tokens=True
+    )
 
 def main(gold_json_file, llm_json_file, report_file="supporting_sentence_report.txt"):
     logging.info(f"Loading gold file: {gold_json_file}")
@@ -60,8 +73,11 @@ def main(gold_json_file, llm_json_file, report_file="supporting_sentence_report.
             logging.warning(f"Skipped idx={idx}: gold or llm supporting sentence is empty. gold='{gold_support}', llm='{llm_support}'")
             skipped_indices.append(idx)
             continue
-        gold_sents.append(gold_support)
-        pred_sents.append(llm_support)
+        # 加入截断
+        gold_support_trunc = truncate_for_bert(gold_support)
+        llm_support_trunc = truncate_for_bert(llm_support)
+        gold_sents.append(gold_support_trunc)
+        pred_sents.append(llm_support_trunc)
         valid_indices.append(idx)
         coverage = int(gold_support in llm_support or llm_support in gold_support)
         coverages.append(coverage)
@@ -72,6 +88,12 @@ def main(gold_json_file, llm_json_file, report_file="supporting_sentence_report.
         rouge_ls.append(scores["rougeL"].fmeasure)
         logging.info(f"Evaluated idx={idx}: Coverage={coverage}, ROUGE-1={scores['rouge1'].fmeasure:.4f}, "
                      f"ROUGE-2={scores['rouge2'].fmeasure:.4f}, ROUGE-L={scores['rougeL'].fmeasure:.4f}")
+
+    # 检查所有输入长度（可选，调试用，可注释掉）
+    for i, sent in enumerate(pred_sents + gold_sents):
+        ids = tokenizer.encode(sent, add_special_tokens=True)
+        if len(ids) > MAX_BERT_LEN:
+            logging.error(f"Truncated sentence still too long! idx={i}, length={len(ids)}")
 
     device = choose_device()
     logging.info("Starting BERTScore evaluation...")

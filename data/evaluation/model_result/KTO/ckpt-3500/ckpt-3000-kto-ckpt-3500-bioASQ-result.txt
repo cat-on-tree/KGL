@@ -1,0 +1,5 @@
+Label统计：
+True: 832
+False: 168
+总数: 1000
+Accuracy (True占比): 0.8320
