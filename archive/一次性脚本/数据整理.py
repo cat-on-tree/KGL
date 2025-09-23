@@ -23,7 +23,7 @@ import pandas as pd
 from modelscope.msdatasets import MsDataset
 ds =  MsDataset.load('FreedomIntelligence/2023_Pharmacist_Licensure_Examination-Pharmacy_track', subset_name='default', split='train')
 df = pd.DataFrame(ds)
-df = df[df['question_type'] != 'Multiple Choice']
+df = df[df['answer'].apply(lambda x: isinstance(x, str) and len(x) == 1)]
 df['idx'] = range(len(df))
 cols = ['idx'] + [c for c in df.columns if c != 'idx']
 df = df[cols]
