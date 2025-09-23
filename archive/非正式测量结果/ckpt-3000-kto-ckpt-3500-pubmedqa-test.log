@@ -1,0 +1,2001 @@
+2025-09-21 16:01:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:42 [INFO] idx=2 success.
+2025-09-21 16:01:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:42 [INFO] idx=0 success.
+2025-09-21 16:01:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:42 [INFO] idx=3 success.
+2025-09-21 16:01:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:42 [INFO] idx=1 success.
+2025-09-21 16:01:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:42 [INFO] idx=4 success.
+2025-09-21 16:01:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:43 [INFO] idx=5 success.
+2025-09-21 16:01:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:43 [INFO] idx=6 success.
+2025-09-21 16:01:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:43 [INFO] idx=7 success.
+2025-09-21 16:01:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:43 [INFO] idx=8 success.
+2025-09-21 16:01:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:44 [INFO] idx=9 success.
+2025-09-21 16:01:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:44 [INFO] idx=10 success.
+2025-09-21 16:01:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:44 [INFO] idx=11 success.
+2025-09-21 16:01:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:44 [INFO] idx=12 success.
+2025-09-21 16:01:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:44 [INFO] idx=13 success.
+2025-09-21 16:01:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:45 [INFO] idx=14 success.
+2025-09-21 16:01:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:45 [INFO] idx=15 success.
+2025-09-21 16:01:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:45 [INFO] idx=16 success.
+2025-09-21 16:01:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:45 [INFO] idx=17 success.
+2025-09-21 16:01:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:45 [INFO] idx=18 success.
+2025-09-21 16:01:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:46 [INFO] idx=19 success.
+2025-09-21 16:01:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:46 [INFO] idx=21 success.
+2025-09-21 16:01:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:46 [INFO] idx=20 success.
+2025-09-21 16:01:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:46 [INFO] idx=22 success.
+2025-09-21 16:01:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:47 [INFO] idx=23 success.
+2025-09-21 16:01:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:47 [INFO] idx=24 success.
+2025-09-21 16:01:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:47 [INFO] idx=25 success.
+2025-09-21 16:01:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:47 [INFO] idx=26 success.
+2025-09-21 16:01:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:47 [INFO] idx=27 success.
+2025-09-21 16:01:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:48 [INFO] idx=28 success.
+2025-09-21 16:01:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:48 [INFO] idx=29 success.
+2025-09-21 16:01:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:48 [INFO] idx=30 success.
+2025-09-21 16:01:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:49 [INFO] idx=31 success.
+2025-09-21 16:01:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:49 [INFO] idx=33 success.
+2025-09-21 16:01:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:49 [INFO] idx=32 success.
+2025-09-21 16:01:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:49 [INFO] idx=34 success.
+2025-09-21 16:01:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:49 [INFO] idx=35 success.
+2025-09-21 16:01:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:50 [INFO] idx=37 success.
+2025-09-21 16:01:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:50 [INFO] idx=36 success.
+2025-09-21 16:01:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:50 [INFO] idx=38 success.
+2025-09-21 16:01:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:50 [INFO] idx=39 success.
+2025-09-21 16:01:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:50 [INFO] idx=41 success.
+2025-09-21 16:01:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:51 [INFO] idx=40 success.
+2025-09-21 16:01:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:51 [INFO] idx=42 success.
+2025-09-21 16:01:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:51 [INFO] idx=43 success.
+2025-09-21 16:01:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:51 [INFO] idx=44 success.
+2025-09-21 16:01:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:51 [INFO] idx=45 success.
+2025-09-21 16:01:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:52 [INFO] idx=46 success.
+2025-09-21 16:01:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:52 [INFO] idx=48 success.
+2025-09-21 16:01:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:52 [INFO] idx=47 success.
+2025-09-21 16:01:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:52 [INFO] idx=49 success.
+2025-09-21 16:01:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:53 [INFO] idx=50 success.
+2025-09-21 16:01:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:53 [INFO] idx=51 success.
+2025-09-21 16:01:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:53 [INFO] idx=52 success.
+2025-09-21 16:01:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:53 [INFO] idx=53 success.
+2025-09-21 16:01:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:54 [INFO] idx=54 success.
+2025-09-21 16:01:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:54 [INFO] idx=56 success.
+2025-09-21 16:01:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:54 [INFO] idx=55 success.
+2025-09-21 16:01:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:54 [INFO] idx=57 success.
+2025-09-21 16:01:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:55 [INFO] idx=58 success.
+2025-09-21 16:01:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:55 [INFO] idx=60 success.
+2025-09-21 16:01:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:55 [INFO] idx=59 success.
+2025-09-21 16:01:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:55 [INFO] idx=61 success.
+2025-09-21 16:01:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:55 [INFO] idx=62 success.
+2025-09-21 16:01:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:56 [INFO] idx=64 success.
+2025-09-21 16:01:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:56 [INFO] idx=63 success.
+2025-09-21 16:01:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:56 [INFO] idx=65 success.
+2025-09-21 16:01:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:56 [INFO] idx=66 success.
+2025-09-21 16:01:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:57 [INFO] idx=68 success.
+2025-09-21 16:01:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:57 [INFO] idx=67 success.
+2025-09-21 16:01:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:57 [INFO] idx=69 success.
+2025-09-21 16:01:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:57 [INFO] idx=70 success.
+2025-09-21 16:01:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:57 [INFO] idx=71 success.
+2025-09-21 16:01:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:58 [INFO] idx=72 success.
+2025-09-21 16:01:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:58 [INFO] idx=73 success.
+2025-09-21 16:01:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:58 [INFO] idx=74 success.
+2025-09-21 16:01:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:58 [INFO] idx=75 success.
+2025-09-21 16:01:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:59 [INFO] idx=76 success.
+2025-09-21 16:01:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:59 [INFO] idx=77 success.
+2025-09-21 16:01:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:59 [INFO] idx=78 success.
+2025-09-21 16:01:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:01:59 [INFO] idx=79 success.
+2025-09-21 16:02:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:00 [INFO] idx=80 success.
+2025-09-21 16:02:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:00 [INFO] idx=81 success.
+2025-09-21 16:02:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:00 [INFO] idx=82 success.
+2025-09-21 16:02:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:00 [INFO] idx=83 success.
+2025-09-21 16:02:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:01 [INFO] idx=84 success.
+2025-09-21 16:02:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:01 [INFO] idx=85 success.
+2025-09-21 16:02:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:01 [INFO] idx=86 success.
+2025-09-21 16:02:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:01 [INFO] idx=87 success.
+2025-09-21 16:02:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:01 [INFO] idx=88 success.
+2025-09-21 16:02:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:02 [INFO] idx=89 success.
+2025-09-21 16:02:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:02 [INFO] idx=90 success.
+2025-09-21 16:02:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:02 [INFO] idx=91 success.
+2025-09-21 16:02:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:02 [INFO] idx=92 success.
+2025-09-21 16:02:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:03 [INFO] idx=93 success.
+2025-09-21 16:02:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:03 [INFO] idx=94 success.
+2025-09-21 16:02:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:03 [INFO] idx=95 success.
+2025-09-21 16:02:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:03 [INFO] idx=96 success.
+2025-09-21 16:02:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:04 [INFO] idx=98 success.
+2025-09-21 16:02:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:04 [INFO] idx=97 success.
+2025-09-21 16:02:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:04 [INFO] idx=99 success.
+2025-09-21 16:02:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:04 [INFO] idx=100 success.
+2025-09-21 16:02:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:04 [INFO] idx=101 success.
+2025-09-21 16:02:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:05 [INFO] idx=103 success.
+2025-09-21 16:02:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:05 [INFO] idx=102 success.
+2025-09-21 16:02:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:05 [INFO] idx=104 success.
+2025-09-21 16:02:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:05 [INFO] idx=105 success.
+2025-09-21 16:02:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:06 [INFO] idx=106 success.
+2025-09-21 16:02:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:06 [INFO] idx=107 success.
+2025-09-21 16:02:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:06 [INFO] idx=108 success.
+2025-09-21 16:02:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:06 [INFO] idx=109 success.
+2025-09-21 16:02:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:06 [INFO] idx=110 success.
+2025-09-21 16:02:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:07 [INFO] idx=111 success.
+2025-09-21 16:02:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:07 [INFO] idx=112 success.
+2025-09-21 16:02:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:07 [INFO] idx=113 success.
+2025-09-21 16:02:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:07 [INFO] idx=114 success.
+2025-09-21 16:02:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:08 [INFO] idx=116 success.
+2025-09-21 16:02:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:08 [INFO] idx=115 success.
+2025-09-21 16:02:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:08 [INFO] idx=117 success.
+2025-09-21 16:02:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:08 [INFO] idx=118 success.
+2025-09-21 16:02:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:08 [INFO] idx=119 success.
+2025-09-21 16:02:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:09 [INFO] idx=120 success.
+2025-09-21 16:02:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:09 [INFO] idx=121 success.
+2025-09-21 16:02:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:09 [INFO] idx=122 success.
+2025-09-21 16:02:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:09 [INFO] idx=123 success.
+2025-09-21 16:02:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:10 [INFO] idx=124 success.
+2025-09-21 16:02:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:10 [INFO] idx=125 success.
+2025-09-21 16:02:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:10 [INFO] idx=126 success.
+2025-09-21 16:02:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:10 [INFO] idx=127 success.
+2025-09-21 16:02:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:10 [INFO] idx=128 success.
+2025-09-21 16:02:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:11 [INFO] idx=129 success.
+2025-09-21 16:02:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:11 [INFO] idx=130 success.
+2025-09-21 16:02:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:11 [INFO] idx=131 success.
+2025-09-21 16:02:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:12 [INFO] idx=133 success.
+2025-09-21 16:02:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:12 [INFO] idx=132 success.
+2025-09-21 16:02:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:12 [INFO] idx=135 success.
+2025-09-21 16:02:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:12 [INFO] idx=136 success.
+2025-09-21 16:02:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:13 [INFO] idx=137 success.
+2025-09-21 16:02:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:13 [INFO] idx=138 success.
+2025-09-21 16:02:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:13 [INFO] idx=134 success.
+2025-09-21 16:02:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:13 [INFO] idx=139 success.
+2025-09-21 16:02:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:13 [INFO] idx=140 success.
+2025-09-21 16:02:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:14 [INFO] idx=141 success.
+2025-09-21 16:02:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:14 [INFO] idx=142 success.
+2025-09-21 16:02:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:14 [INFO] idx=143 success.
+2025-09-21 16:02:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:14 [INFO] idx=144 success.
+2025-09-21 16:02:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:14 [INFO] idx=145 success.
+2025-09-21 16:02:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:15 [INFO] idx=146 success.
+2025-09-21 16:02:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:15 [INFO] idx=147 success.
+2025-09-21 16:02:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:15 [INFO] idx=148 success.
+2025-09-21 16:02:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:15 [INFO] idx=149 success.
+2025-09-21 16:02:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:15 [INFO] idx=150 success.
+2025-09-21 16:02:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:16 [INFO] idx=151 success.
+2025-09-21 16:02:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:16 [INFO] idx=152 success.
+2025-09-21 16:02:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:16 [INFO] idx=153 success.
+2025-09-21 16:02:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:16 [INFO] idx=154 success.
+2025-09-21 16:02:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:17 [INFO] idx=155 success.
+2025-09-21 16:02:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:17 [INFO] idx=156 success.
+2025-09-21 16:02:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:17 [INFO] idx=157 success.
+2025-09-21 16:02:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:17 [INFO] idx=158 success.
+2025-09-21 16:02:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:17 [INFO] idx=159 success.
+2025-09-21 16:02:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:18 [INFO] idx=160 success.
+2025-09-21 16:02:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:18 [INFO] idx=162 success.
+2025-09-21 16:02:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:18 [INFO] idx=161 success.
+2025-09-21 16:02:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:18 [INFO] idx=163 success.
+2025-09-21 16:02:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:18 [INFO] idx=164 success.
+2025-09-21 16:02:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:19 [INFO] idx=166 success.
+2025-09-21 16:02:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:19 [INFO] idx=165 success.
+2025-09-21 16:02:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:19 [INFO] idx=167 success.
+2025-09-21 16:02:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:20 [INFO] idx=169 success.
+2025-09-21 16:02:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:20 [INFO] idx=168 success.
+2025-09-21 16:02:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:20 [INFO] idx=170 success.
+2025-09-21 16:02:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:20 [INFO] idx=171 success.
+2025-09-21 16:02:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:20 [INFO] idx=172 success.
+2025-09-21 16:02:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:21 [INFO] idx=173 success.
+2025-09-21 16:02:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:21 [INFO] idx=174 success.
+2025-09-21 16:02:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:21 [INFO] idx=175 success.
+2025-09-21 16:02:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:21 [INFO] idx=176 success.
+2025-09-21 16:02:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:22 [INFO] idx=178 success.
+2025-09-21 16:02:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:22 [INFO] idx=177 success.
+2025-09-21 16:02:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:22 [INFO] idx=179 success.
+2025-09-21 16:02:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:22 [INFO] idx=180 success.
+2025-09-21 16:02:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:22 [INFO] idx=181 success.
+2025-09-21 16:02:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:22 [INFO] idx=182 success.
+2025-09-21 16:02:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:23 [INFO] idx=183 success.
+2025-09-21 16:02:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:23 [INFO] idx=184 success.
+2025-09-21 16:02:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:23 [INFO] idx=186 success.
+2025-09-21 16:02:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:23 [INFO] idx=185 success.
+2025-09-21 16:02:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:24 [INFO] idx=187 success.
+2025-09-21 16:02:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:24 [INFO] idx=189 success.
+2025-09-21 16:02:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:24 [INFO] idx=188 success.
+2025-09-21 16:02:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:24 [INFO] idx=190 success.
+2025-09-21 16:02:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:24 [INFO] idx=191 success.
+2025-09-21 16:02:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:25 [INFO] idx=192 success.
+2025-09-21 16:02:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:25 [INFO] idx=193 success.
+2025-09-21 16:02:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:25 [INFO] idx=194 success.
+2025-09-21 16:02:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:25 [INFO] idx=195 success.
+2025-09-21 16:02:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:26 [INFO] idx=196 success.
+2025-09-21 16:02:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:26 [INFO] idx=197 success.
+2025-09-21 16:02:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:26 [INFO] idx=198 success.
+2025-09-21 16:02:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:26 [INFO] idx=199 success.
+2025-09-21 16:02:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:27 [INFO] idx=200 success.
+2025-09-21 16:02:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:27 [INFO] idx=201 success.
+2025-09-21 16:02:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:27 [INFO] idx=202 success.
+2025-09-21 16:02:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:27 [INFO] idx=203 success.
+2025-09-21 16:02:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:27 [INFO] idx=204 success.
+2025-09-21 16:02:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:28 [INFO] idx=205 success.
+2025-09-21 16:02:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:28 [INFO] idx=206 success.
+2025-09-21 16:02:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:28 [INFO] idx=207 success.
+2025-09-21 16:02:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:28 [INFO] idx=208 success.
+2025-09-21 16:02:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:29 [INFO] idx=209 success.
+2025-09-21 16:02:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:29 [INFO] idx=210 success.
+2025-09-21 16:02:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:29 [INFO] idx=211 success.
+2025-09-21 16:02:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:29 [INFO] idx=212 success.
+2025-09-21 16:02:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:30 [INFO] idx=213 success.
+2025-09-21 16:02:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:30 [INFO] idx=215 success.
+2025-09-21 16:02:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:30 [INFO] idx=214 success.
+2025-09-21 16:02:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:30 [INFO] idx=216 success.
+2025-09-21 16:02:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:30 [INFO] idx=217 success.
+2025-09-21 16:02:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:31 [INFO] idx=218 success.
+2025-09-21 16:02:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:31 [INFO] idx=219 success.
+2025-09-21 16:02:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:31 [INFO] idx=220 success.
+2025-09-21 16:02:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:31 [INFO] idx=221 success.
+2025-09-21 16:02:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:31 [INFO] idx=222 success.
+2025-09-21 16:02:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:32 [INFO] idx=224 success.
+2025-09-21 16:02:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:32 [INFO] idx=223 success.
+2025-09-21 16:02:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:32 [INFO] idx=225 success.
+2025-09-21 16:02:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:32 [INFO] idx=226 success.
+2025-09-21 16:02:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:32 [INFO] idx=227 success.
+2025-09-21 16:02:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:33 [INFO] idx=228 success.
+2025-09-21 16:02:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:33 [INFO] idx=229 success.
+2025-09-21 16:02:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:33 [INFO] idx=231 success.
+2025-09-21 16:02:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:33 [INFO] idx=230 success.
+2025-09-21 16:02:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:34 [INFO] idx=232 success.
+2025-09-21 16:02:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:34 [INFO] idx=233 success.
+2025-09-21 16:02:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:34 [INFO] idx=234 success.
+2025-09-21 16:02:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:34 [INFO] idx=235 success.
+2025-09-21 16:02:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:35 [INFO] idx=236 success.
+2025-09-21 16:02:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:35 [INFO] idx=237 success.
+2025-09-21 16:02:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:35 [INFO] idx=238 success.
+2025-09-21 16:02:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:35 [INFO] idx=240 success.
+2025-09-21 16:02:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:36 [INFO] idx=239 success.
+2025-09-21 16:02:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:36 [INFO] idx=241 success.
+2025-09-21 16:02:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:36 [INFO] idx=242 success.
+2025-09-21 16:02:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:36 [INFO] idx=243 success.
+2025-09-21 16:02:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:37 [INFO] idx=244 success.
+2025-09-21 16:02:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:37 [INFO] idx=245 success.
+2025-09-21 16:02:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:37 [INFO] idx=246 success.
+2025-09-21 16:02:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:37 [INFO] idx=248 success.
+2025-09-21 16:02:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:37 [INFO] idx=249 success.
+2025-09-21 16:02:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:38 [INFO] idx=250 success.
+2025-09-21 16:02:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:38 [INFO] idx=247 success.
+2025-09-21 16:02:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:38 [INFO] idx=252 success.
+2025-09-21 16:02:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:38 [INFO] idx=251 success.
+2025-09-21 16:02:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:39 [INFO] idx=253 success.
+2025-09-21 16:02:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:39 [INFO] idx=254 success.
+2025-09-21 16:02:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:39 [INFO] idx=255 success.
+2025-09-21 16:02:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:39 [INFO] idx=256 success.
+2025-09-21 16:02:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:40 [INFO] idx=257 success.
+2025-09-21 16:02:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:40 [INFO] idx=258 success.
+2025-09-21 16:02:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:40 [INFO] idx=259 success.
+2025-09-21 16:02:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:40 [INFO] idx=260 success.
+2025-09-21 16:02:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:41 [INFO] idx=261 success.
+2025-09-21 16:02:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:41 [INFO] idx=262 success.
+2025-09-21 16:02:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:41 [INFO] idx=263 success.
+2025-09-21 16:02:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:41 [INFO] idx=264 success.
+2025-09-21 16:02:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:42 [INFO] idx=266 success.
+2025-09-21 16:02:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:42 [INFO] idx=265 success.
+2025-09-21 16:02:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:42 [INFO] idx=267 success.
+2025-09-21 16:02:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:42 [INFO] idx=268 success.
+2025-09-21 16:02:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:43 [INFO] idx=269 success.
+2025-09-21 16:02:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:43 [INFO] idx=270 success.
+2025-09-21 16:02:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:43 [INFO] idx=271 success.
+2025-09-21 16:02:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:43 [INFO] idx=272 success.
+2025-09-21 16:02:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:43 [INFO] idx=273 success.
+2025-09-21 16:02:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:43 [INFO] idx=274 success.
+2025-09-21 16:02:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:43 [INFO] idx=275 success.
+2025-09-21 16:02:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:44 [INFO] idx=276 success.
+2025-09-21 16:02:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:44 [INFO] idx=277 success.
+2025-09-21 16:02:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:44 [INFO] idx=278 success.
+2025-09-21 16:02:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:44 [INFO] idx=279 success.
+2025-09-21 16:02:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:45 [INFO] idx=280 success.
+2025-09-21 16:02:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:45 [INFO] idx=281 success.
+2025-09-21 16:02:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:45 [INFO] idx=282 success.
+2025-09-21 16:02:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:45 [INFO] idx=283 success.
+2025-09-21 16:02:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:46 [INFO] idx=284 success.
+2025-09-21 16:02:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:46 [INFO] idx=285 success.
+2025-09-21 16:02:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:46 [INFO] idx=286 success.
+2025-09-21 16:02:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:46 [INFO] idx=287 success.
+2025-09-21 16:02:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:46 [INFO] idx=288 success.
+2025-09-21 16:02:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:47 [INFO] idx=289 success.
+2025-09-21 16:02:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:47 [INFO] idx=291 success.
+2025-09-21 16:02:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:47 [INFO] idx=290 success.
+2025-09-21 16:02:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:48 [INFO] idx=292 success.
+2025-09-21 16:02:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:48 [INFO] idx=293 success.
+2025-09-21 16:02:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:48 [INFO] idx=294 success.
+2025-09-21 16:02:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:48 [INFO] idx=296 success.
+2025-09-21 16:02:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:48 [INFO] idx=295 success.
+2025-09-21 16:02:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:48 [INFO] idx=297 success.
+2025-09-21 16:02:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:49 [INFO] idx=298 success.
+2025-09-21 16:02:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:49 [INFO] idx=300 success.
+2025-09-21 16:02:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:49 [INFO] idx=301 success.
+2025-09-21 16:02:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:49 [INFO] idx=299 success.
+2025-09-21 16:02:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:50 [INFO] idx=304 success.
+2025-09-21 16:02:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:50 [INFO] idx=305 success.
+2025-09-21 16:02:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:50 [INFO] idx=302 success.
+2025-09-21 16:02:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:51 [INFO] idx=303 success.
+2025-09-21 16:02:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:51 [INFO] idx=306 success.
+2025-09-21 16:02:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:51 [INFO] idx=308 success.
+2025-09-21 16:02:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:51 [INFO] idx=307 success.
+2025-09-21 16:02:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:51 [INFO] idx=309 success.
+2025-09-21 16:02:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:52 [INFO] idx=310 success.
+2025-09-21 16:02:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:52 [INFO] idx=312 success.
+2025-09-21 16:02:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:52 [INFO] idx=311 success.
+2025-09-21 16:02:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:52 [INFO] idx=313 success.
+2025-09-21 16:02:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:53 [INFO] idx=314 success.
+2025-09-21 16:02:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:53 [INFO] idx=315 success.
+2025-09-21 16:02:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:53 [INFO] idx=316 success.
+2025-09-21 16:02:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:53 [INFO] idx=317 success.
+2025-09-21 16:02:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:54 [INFO] idx=318 success.
+2025-09-21 16:02:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:54 [INFO] idx=319 success.
+2025-09-21 16:02:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:54 [INFO] idx=320 success.
+2025-09-21 16:02:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:54 [INFO] idx=321 success.
+2025-09-21 16:02:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:54 [INFO] idx=322 success.
+2025-09-21 16:02:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:55 [INFO] idx=323 success.
+2025-09-21 16:02:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:55 [INFO] idx=324 success.
+2025-09-21 16:02:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:55 [INFO] idx=325 success.
+2025-09-21 16:02:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:55 [INFO] idx=326 success.
+2025-09-21 16:02:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:55 [INFO] idx=327 success.
+2025-09-21 16:02:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:56 [INFO] idx=328 success.
+2025-09-21 16:02:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:56 [INFO] idx=329 success.
+2025-09-21 16:02:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:56 [INFO] idx=330 success.
+2025-09-21 16:02:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:56 [INFO] idx=331 success.
+2025-09-21 16:02:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:56 [INFO] idx=332 success.
+2025-09-21 16:02:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:57 [INFO] idx=333 success.
+2025-09-21 16:02:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:57 [INFO] idx=334 success.
+2025-09-21 16:02:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:57 [INFO] idx=335 success.
+2025-09-21 16:02:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:57 [INFO] idx=336 success.
+2025-09-21 16:02:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:57 [INFO] idx=337 success.
+2025-09-21 16:02:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:58 [INFO] idx=338 success.
+2025-09-21 16:02:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:58 [INFO] idx=341 success.
+2025-09-21 16:02:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:58 [INFO] idx=340 success.
+2025-09-21 16:02:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:59 [INFO] idx=339 success.
+2025-09-21 16:02:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:59 [INFO] idx=342 success.
+2025-09-21 16:02:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:59 [INFO] idx=343 success.
+2025-09-21 16:02:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:59 [INFO] idx=345 success.
+2025-09-21 16:02:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:02:59 [INFO] idx=344 success.
+2025-09-21 16:03:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:00 [INFO] idx=346 success.
+2025-09-21 16:03:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:00 [INFO] idx=347 success.
+2025-09-21 16:03:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:00 [INFO] idx=349 success.
+2025-09-21 16:03:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:00 [INFO] idx=348 success.
+2025-09-21 16:03:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:01 [INFO] idx=350 success.
+2025-09-21 16:03:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:01 [INFO] idx=351 success.
+2025-09-21 16:03:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:01 [INFO] idx=352 success.
+2025-09-21 16:03:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:01 [INFO] idx=353 success.
+2025-09-21 16:03:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:01 [INFO] idx=354 success.
+2025-09-21 16:03:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:02 [INFO] idx=355 success.
+2025-09-21 16:03:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:02 [INFO] idx=356 success.
+2025-09-21 16:03:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:02 [INFO] idx=357 success.
+2025-09-21 16:03:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:02 [INFO] idx=358 success.
+2025-09-21 16:03:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:03 [INFO] idx=359 success.
+2025-09-21 16:03:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:03 [INFO] idx=360 success.
+2025-09-21 16:03:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:03 [INFO] idx=362 success.
+2025-09-21 16:03:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:03 [INFO] idx=361 success.
+2025-09-21 16:03:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:03 [INFO] idx=363 success.
+2025-09-21 16:03:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:04 [INFO] idx=364 success.
+2025-09-21 16:03:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:04 [INFO] idx=366 success.
+2025-09-21 16:03:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:04 [INFO] idx=365 success.
+2025-09-21 16:03:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:04 [INFO] idx=367 success.
+2025-09-21 16:03:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:04 [INFO] idx=368 success.
+2025-09-21 16:03:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:05 [INFO] idx=369 success.
+2025-09-21 16:03:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:05 [INFO] idx=370 success.
+2025-09-21 16:03:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:05 [INFO] idx=372 success.
+2025-09-21 16:03:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:05 [INFO] idx=371 success.
+2025-09-21 16:03:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:06 [INFO] idx=374 success.
+2025-09-21 16:03:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:06 [INFO] idx=373 success.
+2025-09-21 16:03:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:06 [INFO] idx=375 success.
+2025-09-21 16:03:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:07 [INFO] idx=376 success.
+2025-09-21 16:03:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:07 [INFO] idx=377 success.
+2025-09-21 16:03:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:07 [INFO] idx=379 success.
+2025-09-21 16:03:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:07 [INFO] idx=378 success.
+2025-09-21 16:03:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:07 [INFO] idx=380 success.
+2025-09-21 16:03:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:08 [INFO] idx=381 success.
+2025-09-21 16:03:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:08 [INFO] idx=382 success.
+2025-09-21 16:03:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:08 [INFO] idx=383 success.
+2025-09-21 16:03:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:08 [INFO] idx=384 success.
+2025-09-21 16:03:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:09 [INFO] idx=385 success.
+2025-09-21 16:03:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:09 [INFO] idx=386 success.
+2025-09-21 16:03:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:09 [INFO] idx=387 success.
+2025-09-21 16:03:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:09 [INFO] idx=388 success.
+2025-09-21 16:03:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:10 [INFO] idx=389 success.
+2025-09-21 16:03:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:10 [INFO] idx=390 success.
+2025-09-21 16:03:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:10 [INFO] idx=391 success.
+2025-09-21 16:03:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:10 [INFO] idx=392 success.
+2025-09-21 16:03:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:11 [INFO] idx=394 success.
+2025-09-21 16:03:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:11 [INFO] idx=393 success.
+2025-09-21 16:03:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:11 [INFO] idx=395 success.
+2025-09-21 16:03:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:11 [INFO] idx=396 success.
+2025-09-21 16:03:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:11 [INFO] idx=397 success.
+2025-09-21 16:03:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:11 [INFO] idx=398 success.
+2025-09-21 16:03:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:12 [INFO] idx=399 success.
+2025-09-21 16:03:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:12 [INFO] idx=400 success.
+2025-09-21 16:03:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:12 [INFO] idx=401 success.
+2025-09-21 16:03:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:13 [INFO] idx=404 success.
+2025-09-21 16:03:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:13 [INFO] idx=403 success.
+2025-09-21 16:03:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:13 [INFO] idx=402 success.
+2025-09-21 16:03:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:14 [INFO] idx=405 success.
+2025-09-21 16:03:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:14 [INFO] idx=406 success.
+2025-09-21 16:03:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:14 [INFO] idx=407 success.
+2025-09-21 16:03:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:14 [INFO] idx=408 success.
+2025-09-21 16:03:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:14 [INFO] idx=409 success.
+2025-09-21 16:03:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:15 [INFO] idx=411 success.
+2025-09-21 16:03:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:15 [INFO] idx=410 success.
+2025-09-21 16:03:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:15 [INFO] idx=412 success.
+2025-09-21 16:03:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:15 [INFO] idx=413 success.
+2025-09-21 16:03:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:15 [INFO] idx=414 success.
+2025-09-21 16:03:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:16 [INFO] idx=415 success.
+2025-09-21 16:03:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:16 [INFO] idx=416 success.
+2025-09-21 16:03:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:16 [INFO] idx=417 success.
+2025-09-21 16:03:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:16 [INFO] idx=418 success.
+2025-09-21 16:03:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:17 [INFO] idx=419 success.
+2025-09-21 16:03:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:17 [INFO] idx=420 success.
+2025-09-21 16:03:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:17 [INFO] idx=422 success.
+2025-09-21 16:03:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:17 [INFO] idx=421 success.
+2025-09-21 16:03:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:18 [INFO] idx=423 success.
+2025-09-21 16:03:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:18 [INFO] idx=424 success.
+2025-09-21 16:03:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:18 [INFO] idx=426 success.
+2025-09-21 16:03:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:18 [INFO] idx=425 success.
+2025-09-21 16:03:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:18 [INFO] idx=427 success.
+2025-09-21 16:03:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:19 [INFO] idx=428 success.
+2025-09-21 16:03:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:19 [INFO] idx=429 success.
+2025-09-21 16:03:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:19 [INFO] idx=431 success.
+2025-09-21 16:03:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:19 [INFO] idx=430 success.
+2025-09-21 16:03:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:20 [INFO] idx=432 success.
+2025-09-21 16:03:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:20 [INFO] idx=433 success.
+2025-09-21 16:03:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:20 [INFO] idx=434 success.
+2025-09-21 16:03:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:20 [INFO] idx=435 success.
+2025-09-21 16:03:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:21 [INFO] idx=436 success.
+2025-09-21 16:03:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:21 [INFO] idx=437 success.
+2025-09-21 16:03:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:21 [INFO] idx=438 success.
+2025-09-21 16:03:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:21 [INFO] idx=439 success.
+2025-09-21 16:03:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:21 [INFO] idx=441 success.
+2025-09-21 16:03:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:22 [INFO] idx=440 success.
+2025-09-21 16:03:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:22 [INFO] idx=442 success.
+2025-09-21 16:03:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:22 [INFO] idx=444 success.
+2025-09-21 16:03:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:22 [INFO] idx=445 success.
+2025-09-21 16:03:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:23 [INFO] idx=443 success.
+2025-09-21 16:03:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:23 [INFO] idx=446 success.
+2025-09-21 16:03:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:23 [INFO] idx=447 success.
+2025-09-21 16:03:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:23 [INFO] idx=448 success.
+2025-09-21 16:03:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:24 [INFO] idx=449 success.
+2025-09-21 16:03:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:24 [INFO] idx=450 success.
+2025-09-21 16:03:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:24 [INFO] idx=451 success.
+2025-09-21 16:03:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:24 [INFO] idx=452 success.
+2025-09-21 16:03:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:24 [INFO] idx=453 success.
+2025-09-21 16:03:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:25 [INFO] idx=454 success.
+2025-09-21 16:03:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:25 [INFO] idx=456 success.
+2025-09-21 16:03:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:25 [INFO] idx=455 success.
+2025-09-21 16:03:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:25 [INFO] idx=457 success.
+2025-09-21 16:03:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:25 [INFO] idx=458 success.
+2025-09-21 16:03:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:26 [INFO] idx=459 success.
+2025-09-21 16:03:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:26 [INFO] idx=460 success.
+2025-09-21 16:03:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:26 [INFO] idx=461 success.
+2025-09-21 16:03:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:26 [INFO] idx=462 success.
+2025-09-21 16:03:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:27 [INFO] idx=463 success.
+2025-09-21 16:03:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:27 [INFO] idx=464 success.
+2025-09-21 16:03:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:27 [INFO] idx=465 success.
+2025-09-21 16:03:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:27 [INFO] idx=466 success.
+2025-09-21 16:03:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:28 [INFO] idx=468 success.
+2025-09-21 16:03:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:28 [INFO] idx=467 success.
+2025-09-21 16:03:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:28 [INFO] idx=470 success.
+2025-09-21 16:03:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:28 [INFO] idx=469 success.
+2025-09-21 16:03:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:29 [INFO] idx=471 success.
+2025-09-21 16:03:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:29 [INFO] idx=472 success.
+2025-09-21 16:03:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:29 [INFO] idx=473 success.
+2025-09-21 16:03:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:29 [INFO] idx=474 success.
+2025-09-21 16:03:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:29 [INFO] idx=476 success.
+2025-09-21 16:03:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:30 [INFO] idx=475 success.
+2025-09-21 16:03:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:30 [INFO] idx=477 success.
+2025-09-21 16:03:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:30 [INFO] idx=478 success.
+2025-09-21 16:03:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:30 [INFO] idx=479 success.
+2025-09-21 16:03:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:31 [INFO] idx=481 success.
+2025-09-21 16:03:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:31 [INFO] idx=480 success.
+2025-09-21 16:03:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:31 [INFO] idx=482 success.
+2025-09-21 16:03:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:31 [INFO] idx=483 success.
+2025-09-21 16:03:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:31 [INFO] idx=484 success.
+2025-09-21 16:03:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:32 [INFO] idx=485 success.
+2025-09-21 16:03:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:32 [INFO] idx=486 success.
+2025-09-21 16:03:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:32 [INFO] idx=487 success.
+2025-09-21 16:03:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:32 [INFO] idx=488 success.
+2025-09-21 16:03:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:32 [INFO] idx=489 success.
+2025-09-21 16:03:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:33 [INFO] idx=490 success.
+2025-09-21 16:03:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:33 [INFO] idx=491 success.
+2025-09-21 16:03:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:33 [INFO] idx=492 success.
+2025-09-21 16:03:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:33 [INFO] idx=493 success.
+2025-09-21 16:03:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:34 [INFO] idx=494 success.
+2025-09-21 16:03:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:34 [INFO] idx=495 success.
+2025-09-21 16:03:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:34 [INFO] idx=497 success.
+2025-09-21 16:03:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:34 [INFO] idx=496 success.
+2025-09-21 16:03:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:34 [INFO] idx=498 success.
+2025-09-21 16:03:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:35 [INFO] idx=499 success.
+2025-09-21 16:03:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:35 [INFO] idx=500 success.
+2025-09-21 16:03:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:35 [INFO] idx=501 success.
+2025-09-21 16:03:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:35 [INFO] idx=502 success.
+2025-09-21 16:03:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:36 [INFO] idx=504 success.
+2025-09-21 16:03:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:36 [INFO] idx=503 success.
+2025-09-21 16:03:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:36 [INFO] idx=505 success.
+2025-09-21 16:03:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:36 [INFO] idx=506 success.
+2025-09-21 16:03:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:37 [INFO] idx=507 success.
+2025-09-21 16:03:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:37 [INFO] idx=508 success.
+2025-09-21 16:03:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:37 [INFO] idx=510 success.
+2025-09-21 16:03:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:37 [INFO] idx=509 success.
+2025-09-21 16:03:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:37 [INFO] idx=511 success.
+2025-09-21 16:03:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:37 [INFO] idx=512 success.
+2025-09-21 16:03:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:38 [INFO] idx=513 success.
+2025-09-21 16:03:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:38 [INFO] idx=514 success.
+2025-09-21 16:03:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:38 [INFO] idx=515 success.
+2025-09-21 16:03:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:38 [INFO] idx=516 success.
+2025-09-21 16:03:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:39 [INFO] idx=517 success.
+2025-09-21 16:03:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:39 [INFO] idx=518 success.
+2025-09-21 16:03:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:39 [INFO] idx=519 success.
+2025-09-21 16:03:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:39 [INFO] idx=520 success.
+2025-09-21 16:03:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:40 [INFO] idx=521 success.
+2025-09-21 16:03:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:40 [INFO] idx=522 success.
+2025-09-21 16:03:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:40 [INFO] idx=523 success.
+2025-09-21 16:03:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:40 [INFO] idx=524 success.
+2025-09-21 16:03:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:41 [INFO] idx=525 success.
+2025-09-21 16:03:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:41 [INFO] idx=526 success.
+2025-09-21 16:03:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:41 [INFO] idx=528 success.
+2025-09-21 16:03:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:41 [INFO] idx=530 success.
+2025-09-21 16:03:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:42 [INFO] idx=529 success.
+2025-09-21 16:03:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:42 [INFO] idx=527 success.
+2025-09-21 16:03:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:42 [INFO] idx=531 success.
+2025-09-21 16:03:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:42 [INFO] idx=532 success.
+2025-09-21 16:03:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:43 [INFO] idx=533 success.
+2025-09-21 16:03:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:43 [INFO] idx=534 success.
+2025-09-21 16:03:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:43 [INFO] idx=535 success.
+2025-09-21 16:03:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:43 [INFO] idx=536 success.
+2025-09-21 16:03:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:43 [INFO] idx=537 success.
+2025-09-21 16:03:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:44 [INFO] idx=538 success.
+2025-09-21 16:03:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:44 [INFO] idx=539 success.
+2025-09-21 16:03:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:44 [INFO] idx=540 success.
+2025-09-21 16:03:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:44 [INFO] idx=541 success.
+2025-09-21 16:03:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:45 [INFO] idx=542 success.
+2025-09-21 16:03:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:45 [INFO] idx=543 success.
+2025-09-21 16:03:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:45 [INFO] idx=544 success.
+2025-09-21 16:03:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:45 [INFO] idx=545 success.
+2025-09-21 16:03:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:45 [INFO] idx=546 success.
+2025-09-21 16:03:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:46 [INFO] idx=547 success.
+2025-09-21 16:03:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:46 [INFO] idx=548 success.
+2025-09-21 16:03:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:46 [INFO] idx=549 success.
+2025-09-21 16:03:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:46 [INFO] idx=550 success.
+2025-09-21 16:03:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:47 [INFO] idx=551 success.
+2025-09-21 16:03:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:47 [INFO] idx=553 success.
+2025-09-21 16:03:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:47 [INFO] idx=552 success.
+2025-09-21 16:03:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:47 [INFO] idx=554 success.
+2025-09-21 16:03:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:47 [INFO] idx=555 success.
+2025-09-21 16:03:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:48 [INFO] idx=556 success.
+2025-09-21 16:03:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:48 [INFO] idx=557 success.
+2025-09-21 16:03:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:48 [INFO] idx=558 success.
+2025-09-21 16:03:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:48 [INFO] idx=559 success.
+2025-09-21 16:03:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:48 [INFO] idx=560 success.
+2025-09-21 16:03:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:49 [INFO] idx=561 success.
+2025-09-21 16:03:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:49 [INFO] idx=562 success.
+2025-09-21 16:03:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:49 [INFO] idx=563 success.
+2025-09-21 16:03:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:49 [INFO] idx=564 success.
+2025-09-21 16:03:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:49 [INFO] idx=565 success.
+2025-09-21 16:03:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:50 [INFO] idx=566 success.
+2025-09-21 16:03:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:50 [INFO] idx=569 success.
+2025-09-21 16:03:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:50 [INFO] idx=568 success.
+2025-09-21 16:03:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:50 [INFO] idx=570 success.
+2025-09-21 16:03:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:51 [INFO] idx=567 success.
+2025-09-21 16:03:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:51 [INFO] idx=572 success.
+2025-09-21 16:03:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:51 [INFO] idx=571 success.
+2025-09-21 16:03:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:51 [INFO] idx=573 success.
+2025-09-21 16:03:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:52 [INFO] idx=574 success.
+2025-09-21 16:03:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:52 [INFO] idx=575 success.
+2025-09-21 16:03:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:52 [INFO] idx=576 success.
+2025-09-21 16:03:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:53 [INFO] idx=577 success.
+2025-09-21 16:03:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:53 [INFO] idx=578 success.
+2025-09-21 16:03:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:53 [INFO] idx=579 success.
+2025-09-21 16:03:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:53 [INFO] idx=580 success.
+2025-09-21 16:03:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:53 [INFO] idx=581 success.
+2025-09-21 16:03:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:53 [INFO] idx=582 success.
+2025-09-21 16:03:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:54 [INFO] idx=583 success.
+2025-09-21 16:03:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:54 [INFO] idx=586 success.
+2025-09-21 16:03:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:54 [INFO] idx=584 success.
+2025-09-21 16:03:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:54 [INFO] idx=585 success.
+2025-09-21 16:03:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:55 [INFO] idx=587 success.
+2025-09-21 16:03:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:55 [INFO] idx=588 success.
+2025-09-21 16:03:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:55 [INFO] idx=589 success.
+2025-09-21 16:03:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:55 [INFO] idx=590 success.
+2025-09-21 16:03:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:56 [INFO] idx=591 success.
+2025-09-21 16:03:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:56 [INFO] idx=593 success.
+2025-09-21 16:03:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:56 [INFO] idx=592 success.
+2025-09-21 16:03:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:56 [INFO] idx=594 success.
+2025-09-21 16:03:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:57 [INFO] idx=595 success.
+2025-09-21 16:03:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:57 [INFO] idx=596 success.
+2025-09-21 16:03:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:57 [INFO] idx=597 success.
+2025-09-21 16:03:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:57 [INFO] idx=598 success.
+2025-09-21 16:03:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:58 [INFO] idx=599 success.
+2025-09-21 16:03:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:58 [INFO] idx=600 success.
+2025-09-21 16:03:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:58 [INFO] idx=601 success.
+2025-09-21 16:03:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:58 [INFO] idx=602 success.
+2025-09-21 16:03:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:59 [INFO] idx=604 success.
+2025-09-21 16:03:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:59 [INFO] idx=603 success.
+2025-09-21 16:03:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:59 [INFO] idx=606 success.
+2025-09-21 16:03:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:59 [INFO] idx=605 success.
+2025-09-21 16:03:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:03:59 [INFO] idx=608 success.
+2025-09-21 16:04:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:00 [INFO] idx=607 success.
+2025-09-21 16:04:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:00 [INFO] idx=609 success.
+2025-09-21 16:04:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:00 [INFO] idx=610 success.
+2025-09-21 16:04:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:00 [INFO] idx=611 success.
+2025-09-21 16:04:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:00 [INFO] idx=612 success.
+2025-09-21 16:04:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:01 [INFO] idx=613 success.
+2025-09-21 16:04:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:01 [INFO] idx=614 success.
+2025-09-21 16:04:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:01 [INFO] idx=615 success.
+2025-09-21 16:04:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:01 [INFO] idx=616 success.
+2025-09-21 16:04:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:01 [INFO] idx=617 success.
+2025-09-21 16:04:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:01 [INFO] idx=618 success.
+2025-09-21 16:04:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:02 [INFO] idx=619 success.
+2025-09-21 16:04:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:02 [INFO] idx=620 success.
+2025-09-21 16:04:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:02 [INFO] idx=621 success.
+2025-09-21 16:04:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:02 [INFO] idx=622 success.
+2025-09-21 16:04:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:03 [INFO] idx=623 success.
+2025-09-21 16:04:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:03 [INFO] idx=624 success.
+2025-09-21 16:04:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:03 [INFO] idx=625 success.
+2025-09-21 16:04:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:03 [INFO] idx=626 success.
+2025-09-21 16:04:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:04 [INFO] idx=627 success.
+2025-09-21 16:04:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:04 [INFO] idx=628 success.
+2025-09-21 16:04:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:04 [INFO] idx=629 success.
+2025-09-21 16:04:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:04 [INFO] idx=630 success.
+2025-09-21 16:04:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:04 [INFO] idx=631 success.
+2025-09-21 16:04:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:05 [INFO] idx=632 success.
+2025-09-21 16:04:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:05 [INFO] idx=633 success.
+2025-09-21 16:04:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:05 [INFO] idx=634 success.
+2025-09-21 16:04:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:05 [INFO] idx=635 success.
+2025-09-21 16:04:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:06 [INFO] idx=636 success.
+2025-09-21 16:04:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:06 [INFO] idx=638 success.
+2025-09-21 16:04:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:06 [INFO] idx=637 success.
+2025-09-21 16:04:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:06 [INFO] idx=639 success.
+2025-09-21 16:04:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:07 [INFO] idx=640 success.
+2025-09-21 16:04:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:07 [INFO] idx=641 success.
+2025-09-21 16:04:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:07 [INFO] idx=642 success.
+2025-09-21 16:04:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:07 [INFO] idx=643 success.
+2025-09-21 16:04:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:07 [INFO] idx=644 success.
+2025-09-21 16:04:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:08 [INFO] idx=645 success.
+2025-09-21 16:04:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:08 [INFO] idx=646 success.
+2025-09-21 16:04:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:08 [INFO] idx=647 success.
+2025-09-21 16:04:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:08 [INFO] idx=648 success.
+2025-09-21 16:04:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:09 [INFO] idx=650 success.
+2025-09-21 16:04:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:09 [INFO] idx=649 success.
+2025-09-21 16:04:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:09 [INFO] idx=651 success.
+2025-09-21 16:04:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:09 [INFO] idx=652 success.
+2025-09-21 16:04:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:09 [INFO] idx=653 success.
+2025-09-21 16:04:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:10 [INFO] idx=654 success.
+2025-09-21 16:04:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:10 [INFO] idx=655 success.
+2025-09-21 16:04:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:10 [INFO] idx=656 success.
+2025-09-21 16:04:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:10 [INFO] idx=657 success.
+2025-09-21 16:04:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:10 [INFO] idx=659 success.
+2025-09-21 16:04:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:10 [INFO] idx=658 success.
+2025-09-21 16:04:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:11 [INFO] idx=660 success.
+2025-09-21 16:04:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:11 [INFO] idx=661 success.
+2025-09-21 16:04:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:11 [INFO] idx=662 success.
+2025-09-21 16:04:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:11 [INFO] idx=663 success.
+2025-09-21 16:04:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:12 [INFO] idx=664 success.
+2025-09-21 16:04:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:12 [INFO] idx=665 success.
+2025-09-21 16:04:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:12 [INFO] idx=666 success.
+2025-09-21 16:04:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:12 [INFO] idx=667 success.
+2025-09-21 16:04:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:12 [INFO] idx=668 success.
+2025-09-21 16:04:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:13 [INFO] idx=669 success.
+2025-09-21 16:04:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:13 [INFO] idx=670 success.
+2025-09-21 16:04:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:13 [INFO] idx=671 success.
+2025-09-21 16:04:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:13 [INFO] idx=672 success.
+2025-09-21 16:04:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:14 [INFO] idx=673 success.
+2025-09-21 16:04:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:14 [INFO] idx=674 success.
+2025-09-21 16:04:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:14 [INFO] idx=675 success.
+2025-09-21 16:04:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:14 [INFO] idx=676 success.
+2025-09-21 16:04:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:15 [INFO] idx=678 success.
+2025-09-21 16:04:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:15 [INFO] idx=679 success.
+2025-09-21 16:04:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:15 [INFO] idx=677 success.
+2025-09-21 16:04:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:15 [INFO] idx=680 success.
+2025-09-21 16:04:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:16 [INFO] idx=681 success.
+2025-09-21 16:04:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:16 [INFO] idx=684 success.
+2025-09-21 16:04:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:16 [INFO] idx=683 success.
+2025-09-21 16:04:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:16 [INFO] idx=682 success.
+2025-09-21 16:04:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:17 [INFO] idx=685 success.
+2025-09-21 16:04:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:17 [INFO] idx=687 success.
+2025-09-21 16:04:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:17 [INFO] idx=686 success.
+2025-09-21 16:04:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:17 [INFO] idx=688 success.
+2025-09-21 16:04:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:18 [INFO] idx=689 success.
+2025-09-21 16:04:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:18 [INFO] idx=690 success.
+2025-09-21 16:04:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:18 [INFO] idx=691 success.
+2025-09-21 16:04:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:18 [INFO] idx=692 success.
+2025-09-21 16:04:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:18 [INFO] idx=693 success.
+2025-09-21 16:04:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:19 [INFO] idx=696 success.
+2025-09-21 16:04:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:19 [INFO] idx=694 success.
+2025-09-21 16:04:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:19 [INFO] idx=697 success.
+2025-09-21 16:04:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:20 [INFO] idx=698 success.
+2025-09-21 16:04:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:20 [INFO] idx=699 success.
+2025-09-21 16:04:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:20 [INFO] idx=700 success.
+2025-09-21 16:04:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:21 [INFO] idx=695 success.
+2025-09-21 16:04:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:21 [INFO] idx=702 success.
+2025-09-21 16:04:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:21 [INFO] idx=701 success.
+2025-09-21 16:04:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:21 [INFO] idx=703 success.
+2025-09-21 16:04:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:21 [INFO] idx=704 success.
+2025-09-21 16:04:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:22 [INFO] idx=707 success.
+2025-09-21 16:04:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:22 [INFO] idx=705 success.
+2025-09-21 16:04:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:22 [INFO] idx=706 success.
+2025-09-21 16:04:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:22 [INFO] idx=708 success.
+2025-09-21 16:04:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:22 [INFO] idx=710 success.
+2025-09-21 16:04:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:23 [INFO] idx=711 success.
+2025-09-21 16:04:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:23 [INFO] idx=709 success.
+2025-09-21 16:04:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:23 [INFO] idx=712 success.
+2025-09-21 16:04:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:23 [INFO] idx=713 success.
+2025-09-21 16:04:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:24 [INFO] idx=714 success.
+2025-09-21 16:04:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:24 [INFO] idx=715 success.
+2025-09-21 16:04:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:24 [INFO] idx=717 success.
+2025-09-21 16:04:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:24 [INFO] idx=716 success.
+2025-09-21 16:04:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:25 [INFO] idx=719 success.
+2025-09-21 16:04:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:25 [INFO] idx=720 success.
+2025-09-21 16:04:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:25 [INFO] idx=721 success.
+2025-09-21 16:04:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:25 [INFO] idx=718 success.
+2025-09-21 16:04:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:26 [INFO] idx=722 success.
+2025-09-21 16:04:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:26 [INFO] idx=723 success.
+2025-09-21 16:04:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:26 [INFO] idx=724 success.
+2025-09-21 16:04:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:26 [INFO] idx=725 success.
+2025-09-21 16:04:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:26 [INFO] idx=726 success.
+2025-09-21 16:04:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:27 [INFO] idx=727 success.
+2025-09-21 16:04:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:27 [INFO] idx=728 success.
+2025-09-21 16:04:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:27 [INFO] idx=729 success.
+2025-09-21 16:04:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:27 [INFO] idx=730 success.
+2025-09-21 16:04:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:28 [INFO] idx=731 success.
+2025-09-21 16:04:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:28 [INFO] idx=732 success.
+2025-09-21 16:04:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:28 [INFO] idx=733 success.
+2025-09-21 16:04:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:28 [INFO] idx=734 success.
+2025-09-21 16:04:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:29 [INFO] idx=735 success.
+2025-09-21 16:04:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:29 [INFO] idx=736 success.
+2025-09-21 16:04:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:29 [INFO] idx=737 success.
+2025-09-21 16:04:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:29 [INFO] idx=738 success.
+2025-09-21 16:04:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:30 [INFO] idx=739 success.
+2025-09-21 16:04:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:30 [INFO] idx=741 success.
+2025-09-21 16:04:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:30 [INFO] idx=740 success.
+2025-09-21 16:04:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:30 [INFO] idx=742 success.
+2025-09-21 16:04:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:30 [INFO] idx=743 success.
+2025-09-21 16:04:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:31 [INFO] idx=744 success.
+2025-09-21 16:04:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:31 [INFO] idx=745 success.
+2025-09-21 16:04:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:31 [INFO] idx=746 success.
+2025-09-21 16:04:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:31 [INFO] idx=747 success.
+2025-09-21 16:04:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:31 [INFO] idx=748 success.
+2025-09-21 16:04:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:32 [INFO] idx=749 success.
+2025-09-21 16:04:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:32 [INFO] idx=750 success.
+2025-09-21 16:04:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:32 [INFO] idx=751 success.
+2025-09-21 16:04:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:32 [INFO] idx=752 success.
+2025-09-21 16:04:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:32 [INFO] idx=753 success.
+2025-09-21 16:04:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:33 [INFO] idx=754 success.
+2025-09-21 16:04:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:33 [INFO] idx=755 success.
+2025-09-21 16:04:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:33 [INFO] idx=756 success.
+2025-09-21 16:04:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:33 [INFO] idx=757 success.
+2025-09-21 16:04:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:34 [INFO] idx=759 success.
+2025-09-21 16:04:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:34 [INFO] idx=758 success.
+2025-09-21 16:04:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:34 [INFO] idx=760 success.
+2025-09-21 16:04:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:34 [INFO] idx=761 success.
+2025-09-21 16:04:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:35 [INFO] idx=762 success.
+2025-09-21 16:04:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:35 [INFO] idx=763 success.
+2025-09-21 16:04:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:35 [INFO] idx=764 success.
+2025-09-21 16:04:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:35 [INFO] idx=765 success.
+2025-09-21 16:04:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:36 [INFO] idx=766 success.
+2025-09-21 16:04:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:36 [INFO] idx=767 success.
+2025-09-21 16:04:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:36 [INFO] idx=768 success.
+2025-09-21 16:04:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:36 [INFO] idx=769 success.
+2025-09-21 16:04:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:36 [INFO] idx=770 success.
+2025-09-21 16:04:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:37 [INFO] idx=772 success.
+2025-09-21 16:04:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:37 [INFO] idx=771 success.
+2025-09-21 16:04:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:37 [INFO] idx=773 success.
+2025-09-21 16:04:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:37 [INFO] idx=774 success.
+2025-09-21 16:04:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:38 [INFO] idx=775 success.
+2025-09-21 16:04:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:38 [INFO] idx=776 success.
+2025-09-21 16:04:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:38 [INFO] idx=777 success.
+2025-09-21 16:04:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:38 [INFO] idx=778 success.
+2025-09-21 16:04:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:38 [INFO] idx=779 success.
+2025-09-21 16:04:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:39 [INFO] idx=780 success.
+2025-09-21 16:04:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:39 [INFO] idx=781 success.
+2025-09-21 16:04:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:39 [INFO] idx=782 success.
+2025-09-21 16:04:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:39 [INFO] idx=783 success.
+2025-09-21 16:04:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:39 [INFO] idx=784 success.
+2025-09-21 16:04:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:40 [INFO] idx=785 success.
+2025-09-21 16:04:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:40 [INFO] idx=786 success.
+2025-09-21 16:04:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:40 [INFO] idx=787 success.
+2025-09-21 16:04:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:40 [INFO] idx=788 success.
+2025-09-21 16:04:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:41 [INFO] idx=789 success.
+2025-09-21 16:04:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:41 [INFO] idx=790 success.
+2025-09-21 16:04:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:41 [INFO] idx=791 success.
+2025-09-21 16:04:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:41 [INFO] idx=792 success.
+2025-09-21 16:04:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:42 [INFO] idx=793 success.
+2025-09-21 16:04:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:42 [INFO] idx=794 success.
+2025-09-21 16:04:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:42 [INFO] idx=795 success.
+2025-09-21 16:04:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:42 [INFO] idx=796 success.
+2025-09-21 16:04:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:43 [INFO] idx=797 success.
+2025-09-21 16:04:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:43 [INFO] idx=799 success.
+2025-09-21 16:04:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:43 [INFO] idx=798 success.
+2025-09-21 16:04:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:43 [INFO] idx=800 success.
+2025-09-21 16:04:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:43 [INFO] idx=801 success.
+2025-09-21 16:04:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:44 [INFO] idx=803 success.
+2025-09-21 16:04:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:44 [INFO] idx=802 success.
+2025-09-21 16:04:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:44 [INFO] idx=804 success.
+2025-09-21 16:04:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:44 [INFO] idx=805 success.
+2025-09-21 16:04:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:44 [INFO] idx=807 success.
+2025-09-21 16:04:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:45 [INFO] idx=806 success.
+2025-09-21 16:04:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:45 [INFO] idx=808 success.
+2025-09-21 16:04:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:45 [INFO] idx=809 success.
+2025-09-21 16:04:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:45 [INFO] idx=810 success.
+2025-09-21 16:04:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:45 [INFO] idx=811 success.
+2025-09-21 16:04:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:46 [INFO] idx=812 success.
+2025-09-21 16:04:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:46 [INFO] idx=813 success.
+2025-09-21 16:04:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:46 [INFO] idx=815 success.
+2025-09-21 16:04:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:46 [INFO] idx=814 success.
+2025-09-21 16:04:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:46 [INFO] idx=816 success.
+2025-09-21 16:04:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:47 [INFO] idx=817 success.
+2025-09-21 16:04:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:47 [INFO] idx=818 success.
+2025-09-21 16:04:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:47 [INFO] idx=819 success.
+2025-09-21 16:04:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:47 [INFO] idx=820 success.
+2025-09-21 16:04:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:48 [INFO] idx=822 success.
+2025-09-21 16:04:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:48 [INFO] idx=821 success.
+2025-09-21 16:04:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:48 [INFO] idx=823 success.
+2025-09-21 16:04:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:48 [INFO] idx=824 success.
+2025-09-21 16:04:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:49 [INFO] idx=825 success.
+2025-09-21 16:04:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:49 [INFO] idx=826 success.
+2025-09-21 16:04:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:49 [INFO] idx=827 success.
+2025-09-21 16:04:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:49 [INFO] idx=828 success.
+2025-09-21 16:04:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:50 [INFO] idx=829 success.
+2025-09-21 16:04:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:50 [INFO] idx=830 success.
+2025-09-21 16:04:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:50 [INFO] idx=832 success.
+2025-09-21 16:04:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:50 [INFO] idx=831 success.
+2025-09-21 16:04:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:50 [INFO] idx=833 success.
+2025-09-21 16:04:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:51 [INFO] idx=834 success.
+2025-09-21 16:04:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:51 [INFO] idx=836 success.
+2025-09-21 16:04:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:51 [INFO] idx=835 success.
+2025-09-21 16:04:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:51 [INFO] idx=837 success.
+2025-09-21 16:04:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:51 [INFO] idx=838 success.
+2025-09-21 16:04:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:52 [INFO] idx=839 success.
+2025-09-21 16:04:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:52 [INFO] idx=840 success.
+2025-09-21 16:04:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:52 [INFO] idx=841 success.
+2025-09-21 16:04:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:52 [INFO] idx=842 success.
+2025-09-21 16:04:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:53 [INFO] idx=844 success.
+2025-09-21 16:04:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:53 [INFO] idx=843 success.
+2025-09-21 16:04:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:53 [INFO] idx=845 success.
+2025-09-21 16:04:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:53 [INFO] idx=846 success.
+2025-09-21 16:04:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:53 [INFO] idx=848 success.
+2025-09-21 16:04:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:53 [INFO] idx=847 success.
+2025-09-21 16:04:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:54 [INFO] idx=849 success.
+2025-09-21 16:04:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:54 [INFO] idx=850 success.
+2025-09-21 16:04:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:54 [INFO] idx=851 success.
+2025-09-21 16:04:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:54 [INFO] idx=852 success.
+2025-09-21 16:04:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:55 [INFO] idx=853 success.
+2025-09-21 16:04:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:55 [INFO] idx=854 success.
+2025-09-21 16:04:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:55 [INFO] idx=855 success.
+2025-09-21 16:04:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:55 [INFO] idx=856 success.
+2025-09-21 16:04:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:56 [INFO] idx=857 success.
+2025-09-21 16:04:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:56 [INFO] idx=858 success.
+2025-09-21 16:04:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:56 [INFO] idx=859 success.
+2025-09-21 16:04:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:56 [INFO] idx=860 success.
+2025-09-21 16:04:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:56 [INFO] idx=861 success.
+2025-09-21 16:04:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:57 [INFO] idx=862 success.
+2025-09-21 16:04:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:57 [INFO] idx=863 success.
+2025-09-21 16:04:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:57 [INFO] idx=865 success.
+2025-09-21 16:04:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:57 [INFO] idx=864 success.
+2025-09-21 16:04:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:57 [INFO] idx=866 success.
+2025-09-21 16:04:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:58 [INFO] idx=867 success.
+2025-09-21 16:04:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:58 [INFO] idx=868 success.
+2025-09-21 16:04:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:58 [INFO] idx=869 success.
+2025-09-21 16:04:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:58 [INFO] idx=870 success.
+2025-09-21 16:04:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:59 [INFO] idx=871 success.
+2025-09-21 16:04:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:59 [INFO] idx=872 success.
+2025-09-21 16:04:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:59 [INFO] idx=873 success.
+2025-09-21 16:04:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:59 [INFO] idx=874 success.
+2025-09-21 16:04:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:04:59 [INFO] idx=875 success.
+2025-09-21 16:05:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:00 [INFO] idx=877 success.
+2025-09-21 16:05:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:00 [INFO] idx=876 success.
+2025-09-21 16:05:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:00 [INFO] idx=878 success.
+2025-09-21 16:05:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:00 [INFO] idx=879 success.
+2025-09-21 16:05:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:01 [INFO] idx=880 success.
+2025-09-21 16:05:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:01 [INFO] idx=881 success.
+2025-09-21 16:05:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:01 [INFO] idx=882 success.
+2025-09-21 16:05:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:01 [INFO] idx=883 success.
+2025-09-21 16:05:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:01 [INFO] idx=884 success.
+2025-09-21 16:05:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:02 [INFO] idx=885 success.
+2025-09-21 16:05:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:02 [INFO] idx=886 success.
+2025-09-21 16:05:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:02 [INFO] idx=888 success.
+2025-09-21 16:05:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:02 [INFO] idx=889 success.
+2025-09-21 16:05:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:03 [INFO] idx=887 success.
+2025-09-21 16:05:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:03 [INFO] idx=890 success.
+2025-09-21 16:05:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:03 [INFO] idx=891 success.
+2025-09-21 16:05:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:03 [INFO] idx=892 success.
+2025-09-21 16:05:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:04 [INFO] idx=893 success.
+2025-09-21 16:05:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:04 [INFO] idx=894 success.
+2025-09-21 16:05:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:04 [INFO] idx=895 success.
+2025-09-21 16:05:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:04 [INFO] idx=896 success.
+2025-09-21 16:05:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:04 [INFO] idx=897 success.
+2025-09-21 16:05:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:05 [INFO] idx=898 success.
+2025-09-21 16:05:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:05 [INFO] idx=899 success.
+2025-09-21 16:05:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:05 [INFO] idx=900 success.
+2025-09-21 16:05:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:05 [INFO] idx=901 success.
+2025-09-21 16:05:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:06 [INFO] idx=902 success.
+2025-09-21 16:05:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:06 [INFO] idx=904 success.
+2025-09-21 16:05:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:06 [INFO] idx=903 success.
+2025-09-21 16:05:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:06 [INFO] idx=905 success.
+2025-09-21 16:05:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:06 [INFO] idx=906 success.
+2025-09-21 16:05:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:07 [INFO] idx=907 success.
+2025-09-21 16:05:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:07 [INFO] idx=908 success.
+2025-09-21 16:05:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:07 [INFO] idx=909 success.
+2025-09-21 16:05:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:08 [INFO] idx=911 success.
+2025-09-21 16:05:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:08 [INFO] idx=912 success.
+2025-09-21 16:05:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:08 [INFO] idx=910 success.
+2025-09-21 16:05:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:08 [INFO] idx=913 success.
+2025-09-21 16:05:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:08 [INFO] idx=914 success.
+2025-09-21 16:05:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:09 [INFO] idx=915 success.
+2025-09-21 16:05:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:09 [INFO] idx=916 success.
+2025-09-21 16:05:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:09 [INFO] idx=917 success.
+2025-09-21 16:05:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:09 [INFO] idx=919 success.
+2025-09-21 16:05:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:09 [INFO] idx=918 success.
+2025-09-21 16:05:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:10 [INFO] idx=920 success.
+2025-09-21 16:05:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:10 [INFO] idx=921 success.
+2025-09-21 16:05:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:10 [INFO] idx=922 success.
+2025-09-21 16:05:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:10 [INFO] idx=923 success.
+2025-09-21 16:05:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:10 [INFO] idx=924 success.
+2025-09-21 16:05:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:11 [INFO] idx=925 success.
+2025-09-21 16:05:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:11 [INFO] idx=927 success.
+2025-09-21 16:05:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:11 [INFO] idx=928 success.
+2025-09-21 16:05:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:11 [INFO] idx=926 success.
+2025-09-21 16:05:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:11 [INFO] idx=929 success.
+2025-09-21 16:05:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:12 [INFO] idx=930 success.
+2025-09-21 16:05:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:12 [INFO] idx=931 success.
+2025-09-21 16:05:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:12 [INFO] idx=932 success.
+2025-09-21 16:05:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:12 [INFO] idx=933 success.
+2025-09-21 16:05:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:13 [INFO] idx=934 success.
+2025-09-21 16:05:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:13 [INFO] idx=935 success.
+2025-09-21 16:05:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:13 [INFO] idx=936 success.
+2025-09-21 16:05:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:13 [INFO] idx=937 success.
+2025-09-21 16:05:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:14 [INFO] idx=938 success.
+2025-09-21 16:05:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:14 [INFO] idx=939 success.
+2025-09-21 16:05:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:14 [INFO] idx=940 success.
+2025-09-21 16:05:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:14 [INFO] idx=941 success.
+2025-09-21 16:05:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:14 [INFO] idx=942 success.
+2025-09-21 16:05:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:15 [INFO] idx=944 success.
+2025-09-21 16:05:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:15 [INFO] idx=943 success.
+2025-09-21 16:05:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:15 [INFO] idx=945 success.
+2025-09-21 16:05:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:15 [INFO] idx=947 success.
+2025-09-21 16:05:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:15 [INFO] idx=946 success.
+2025-09-21 16:05:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:16 [INFO] idx=949 success.
+2025-09-21 16:05:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:16 [INFO] idx=948 success.
+2025-09-21 16:05:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:16 [INFO] idx=951 success.
+2025-09-21 16:05:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:16 [INFO] idx=952 success.
+2025-09-21 16:05:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:17 [INFO] idx=953 success.
+2025-09-21 16:05:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:17 [INFO] idx=954 success.
+2025-09-21 16:05:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:17 [INFO] idx=955 success.
+2025-09-21 16:05:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:18 [INFO] idx=956 success.
+2025-09-21 16:05:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:18 [INFO] idx=950 success.
+2025-09-21 16:05:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:18 [INFO] idx=957 success.
+2025-09-21 16:05:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:19 [INFO] idx=959 success.
+2025-09-21 16:05:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:19 [INFO] idx=958 success.
+2025-09-21 16:05:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:19 [INFO] idx=960 success.
+2025-09-21 16:05:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:19 [INFO] idx=961 success.
+2025-09-21 16:05:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:19 [INFO] idx=963 success.
+2025-09-21 16:05:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:20 [INFO] idx=962 success.
+2025-09-21 16:05:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:20 [INFO] idx=965 success.
+2025-09-21 16:05:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:20 [INFO] idx=964 success.
+2025-09-21 16:05:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:20 [INFO] idx=966 success.
+2025-09-21 16:05:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:21 [INFO] idx=968 success.
+2025-09-21 16:05:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:21 [INFO] idx=969 success.
+2025-09-21 16:05:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:21 [INFO] idx=967 success.
+2025-09-21 16:05:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:21 [INFO] idx=970 success.
+2025-09-21 16:05:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:21 [INFO] idx=971 success.
+2025-09-21 16:05:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:21 [INFO] idx=972 success.
+2025-09-21 16:05:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:22 [INFO] idx=973 success.
+2025-09-21 16:05:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:22 [INFO] idx=975 success.
+2025-09-21 16:05:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:22 [INFO] idx=976 success.
+2025-09-21 16:05:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:22 [INFO] idx=977 success.
+2025-09-21 16:05:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:23 [INFO] idx=979 success.
+2025-09-21 16:05:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:23 [INFO] idx=978 success.
+2025-09-21 16:05:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:23 [INFO] idx=980 success.
+2025-09-21 16:05:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:24 [INFO] idx=974 success.
+2025-09-21 16:05:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:24 [INFO] idx=983 success.
+2025-09-21 16:05:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:24 [INFO] idx=981 success.
+2025-09-21 16:05:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:24 [INFO] idx=982 success.
+2025-09-21 16:05:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:25 [INFO] idx=984 success.
+2025-09-21 16:05:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:25 [INFO] idx=985 success.
+2025-09-21 16:05:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:25 [INFO] idx=986 success.
+2025-09-21 16:05:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:25 [INFO] idx=987 success.
+2025-09-21 16:05:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:25 [INFO] idx=988 success.
+2025-09-21 16:05:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:26 [INFO] idx=989 success.
+2025-09-21 16:05:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:26 [INFO] idx=990 success.
+2025-09-21 16:05:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:26 [INFO] idx=991 success.
+2025-09-21 16:05:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:26 [INFO] idx=992 success.
+2025-09-21 16:05:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:27 [INFO] idx=993 success.
+2025-09-21 16:05:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:27 [INFO] idx=994 success.
+2025-09-21 16:05:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:27 [INFO] idx=995 success.
+2025-09-21 16:05:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:27 [INFO] idx=996 success.
+2025-09-21 16:05:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:28 [INFO] idx=997 success.
+2025-09-21 16:05:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:28 [INFO] idx=998 success.
+2025-09-21 16:05:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 16:05:28 [INFO] idx=999 success.
+2025-09-21 16:05:28 [INFO] 全部处理完成，结果保存在 data/evaluation/model_test/ckpt-3000-kto-ckpt-3500-pubmedqa-test.json

@@ -21,9 +21,10 @@
 
 import pandas as pd
 from modelscope.msdatasets import MsDataset
-ds = MsDataset.load('hiyouga/PubMedQA', subset_name='default', split='test')
+ds =  MsDataset.load('FreedomIntelligence/2023_Pharmacist_Licensure_Examination-Pharmacy_track', subset_name='default', split='train')
 df = pd.DataFrame(ds)
+df = df[df['question_type'] != 'Multiple Choice']
 df['idx'] = range(len(df))
 cols = ['idx'] + [c for c in df.columns if c != 'idx']
 df = df[cols]
-df.to_json('pubmedqa.json', orient='records', lines=True, force_ascii=False)
+df.to_json('pharmacy_test.json', orient='records', lines=True, force_ascii=False)

@@ -23,10 +23,10 @@ model result中的脚本用法：
 python src/model_result/xx.py --test data/evaluation/model_test/xx-test.json --result data/evaluation/model_result/xx-result.txt
 ```
 
-对于model result中的bioASQ BERT指标计算：
+对于model result中的BERT指标计算：
 
 ```apache
-python src/model_test/bioASQ_bert_result.py --answer data/evaluation/model_answer/xx-answer.json --result data/evaluation/model_result/xx-bert.txt --log logs/xx-bert.log
+python src/model_test/xx_bert_result.py --answer data/evaluation/model_answer/xx-answer.json --result data/evaluation/model_result/xx-bert.txt --log logs/xx-bert.log
 ```
 
 之后是计算gpt score：

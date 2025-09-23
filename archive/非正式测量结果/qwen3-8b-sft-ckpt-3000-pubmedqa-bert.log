@@ -1,0 +1,2006 @@
+2025-09-20 11:40:46,745 [INFO] Loading data file: data/evaluation/model_answer/Qwen3-8B-sft-ckpt-3000-pubmedqa-answer.json
+2025-09-20 11:40:46,753 [INFO] Starting evaluation on 1000 samples.
+2025-09-20 11:40:46,760 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,764 [INFO] Evaluated idx=0: Coverage=0, ROUGE-1=0.3726, ROUGE-2=0.0843, ROUGE-L=0.2205
+2025-09-20 11:40:46,769 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,771 [INFO] Evaluated idx=1: Coverage=0, ROUGE-1=0.2266, ROUGE-2=0.0896, ROUGE-L=0.1675
+2025-09-20 11:40:46,775 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,778 [INFO] Evaluated idx=2: Coverage=0, ROUGE-1=0.0946, ROUGE-2=0.0274, ROUGE-L=0.0811
+2025-09-20 11:40:46,783 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,787 [INFO] Evaluated idx=3: Coverage=0, ROUGE-1=0.3203, ROUGE-2=0.0786, ROUGE-L=0.1818
+2025-09-20 11:40:46,793 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,797 [INFO] Evaluated idx=4: Coverage=0, ROUGE-1=0.4692, ROUGE-2=0.1395, ROUGE-L=0.2538
+2025-09-20 11:40:46,804 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,807 [INFO] Evaluated idx=5: Coverage=0, ROUGE-1=0.1232, ROUGE-2=0.0365, ROUGE-L=0.0942
+2025-09-20 11:40:46,812 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,816 [INFO] Evaluated idx=6: Coverage=0, ROUGE-1=0.3784, ROUGE-2=0.0727, ROUGE-L=0.1712
+2025-09-20 11:40:46,821 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,825 [INFO] Evaluated idx=7: Coverage=0, ROUGE-1=0.3614, ROUGE-2=0.1619, ROUGE-L=0.2329
+2025-09-20 11:40:46,829 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,831 [INFO] Evaluated idx=8: Coverage=0, ROUGE-1=0.0982, ROUGE-2=0.0124, ROUGE-L=0.0736
+2025-09-20 11:40:46,837 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,841 [INFO] Evaluated idx=9: Coverage=0, ROUGE-1=0.2051, ROUGE-2=0.0387, ROUGE-L=0.1474
+2025-09-20 11:40:46,845 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,848 [INFO] Evaluated idx=10: Coverage=0, ROUGE-1=0.2500, ROUGE-2=0.0808, ROUGE-L=0.1800
+2025-09-20 11:40:46,853 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,855 [INFO] Evaluated idx=11: Coverage=0, ROUGE-1=0.1935, ROUGE-2=0.0435, ROUGE-L=0.1398
+2025-09-20 11:40:46,860 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,862 [INFO] Evaluated idx=12: Coverage=0, ROUGE-1=0.2632, ROUGE-2=0.0745, ROUGE-L=0.1368
+2025-09-20 11:40:46,869 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,872 [INFO] Evaluated idx=13: Coverage=0, ROUGE-1=0.1877, ROUGE-2=0.0582, ROUGE-L=0.1372
+2025-09-20 11:40:46,876 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,877 [INFO] Evaluated idx=14: Coverage=0, ROUGE-1=0.3611, ROUGE-2=0.1549, ROUGE-L=0.2500
+2025-09-20 11:40:46,882 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,884 [INFO] Evaluated idx=15: Coverage=0, ROUGE-1=0.1436, ROUGE-2=0.0829, ROUGE-L=0.1231
+2025-09-20 11:40:46,888 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,890 [INFO] Evaluated idx=16: Coverage=0, ROUGE-1=0.3503, ROUGE-2=0.0229, ROUGE-L=0.2147
+2025-09-20 11:40:46,893 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,895 [INFO] Evaluated idx=17: Coverage=0, ROUGE-1=0.0752, ROUGE-2=0.0000, ROUGE-L=0.0451
+2025-09-20 11:40:46,898 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,899 [INFO] Evaluated idx=18: Coverage=0, ROUGE-1=0.1967, ROUGE-2=0.0333, ROUGE-L=0.1311
+2025-09-20 11:40:46,905 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,907 [INFO] Evaluated idx=19: Coverage=0, ROUGE-1=0.2033, ROUGE-2=0.0984, ROUGE-L=0.1301
+2025-09-20 11:40:46,912 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,914 [INFO] Evaluated idx=20: Coverage=0, ROUGE-1=0.2917, ROUGE-2=0.0842, ROUGE-L=0.1979
+2025-09-20 11:40:46,917 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,919 [INFO] Evaluated idx=21: Coverage=0, ROUGE-1=0.3256, ROUGE-2=0.2047, ROUGE-L=0.2481
+2025-09-20 11:40:46,925 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,929 [INFO] Evaluated idx=22: Coverage=0, ROUGE-1=0.1689, ROUGE-2=0.0272, ROUGE-L=0.1216
+2025-09-20 11:40:46,933 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,935 [INFO] Evaluated idx=23: Coverage=0, ROUGE-1=0.2195, ROUGE-2=0.0988, ROUGE-L=0.1463
+2025-09-20 11:40:46,939 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,942 [INFO] Evaluated idx=24: Coverage=0, ROUGE-1=0.3810, ROUGE-2=0.1818, ROUGE-L=0.2540
+2025-09-20 11:40:46,949 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,954 [INFO] Evaluated idx=25: Coverage=0, ROUGE-1=0.2034, ROUGE-2=0.0739, ROUGE-L=0.1469
+2025-09-20 11:40:46,959 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,962 [INFO] Evaluated idx=26: Coverage=0, ROUGE-1=0.2342, ROUGE-2=0.0636, ROUGE-L=0.1622
+2025-09-20 11:40:46,965 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,967 [INFO] Evaluated idx=27: Coverage=0, ROUGE-1=0.2016, ROUGE-2=0.1102, ROUGE-L=0.1705
+2025-09-20 11:40:46,969 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,971 [INFO] Evaluated idx=28: Coverage=0, ROUGE-1=0.1379, ROUGE-2=0.0000, ROUGE-L=0.1034
+2025-09-20 11:40:46,974 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,977 [INFO] Evaluated idx=29: Coverage=0, ROUGE-1=0.4734, ROUGE-2=0.2874, ROUGE-L=0.4142
+2025-09-20 11:40:46,982 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,984 [INFO] Evaluated idx=30: Coverage=0, ROUGE-1=0.1743, ROUGE-2=0.0370, ROUGE-L=0.0826
+2025-09-20 11:40:46,987 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,989 [INFO] Evaluated idx=31: Coverage=0, ROUGE-1=0.1560, ROUGE-2=0.0576, ROUGE-L=0.1135
+2025-09-20 11:40:46,992 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,994 [INFO] Evaluated idx=32: Coverage=0, ROUGE-1=0.2395, ROUGE-2=0.0242, ROUGE-L=0.1437
+2025-09-20 11:40:46,997 [INFO] Using default tokenizer.
+2025-09-20 11:40:46,998 [INFO] Evaluated idx=33: Coverage=0, ROUGE-1=0.2947, ROUGE-2=0.0860, ROUGE-L=0.1895
+2025-09-20 11:40:47,006 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,011 [INFO] Evaluated idx=34: Coverage=0, ROUGE-1=0.1441, ROUGE-2=0.0423, ROUGE-L=0.0901
+2025-09-20 11:40:47,015 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,019 [INFO] Evaluated idx=35: Coverage=0, ROUGE-1=0.3162, ROUGE-2=0.0239, ROUGE-L=0.1423
+2025-09-20 11:40:47,026 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,028 [INFO] Evaluated idx=36: Coverage=0, ROUGE-1=0.2082, ROUGE-2=0.1199, ROUGE-L=0.1413
+2025-09-20 11:40:47,033 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,036 [INFO] Evaluated idx=37: Coverage=0, ROUGE-1=0.3077, ROUGE-2=0.1359, ROUGE-L=0.2404
+2025-09-20 11:40:47,041 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,044 [INFO] Evaluated idx=38: Coverage=0, ROUGE-1=0.3056, ROUGE-2=0.0748, ROUGE-L=0.2037
+2025-09-20 11:40:47,049 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,051 [INFO] Evaluated idx=39: Coverage=0, ROUGE-1=0.1809, ROUGE-2=0.0645, ROUGE-L=0.1170
+2025-09-20 11:40:47,060 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,066 [INFO] Evaluated idx=40: Coverage=0, ROUGE-1=0.1838, ROUGE-2=0.0815, ROUGE-L=0.1081
+2025-09-20 11:40:47,070 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,072 [INFO] Evaluated idx=41: Coverage=0, ROUGE-1=0.2069, ROUGE-2=0.1163, ROUGE-L=0.1264
+2025-09-20 11:40:47,077 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,079 [INFO] Evaluated idx=42: Coverage=0, ROUGE-1=0.1143, ROUGE-2=0.0288, ROUGE-L=0.0762
+2025-09-20 11:40:47,087 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,092 [INFO] Evaluated idx=43: Coverage=0, ROUGE-1=0.1823, ROUGE-2=0.0366, ROUGE-L=0.0938
+2025-09-20 11:40:47,098 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,102 [INFO] Evaluated idx=44: Coverage=0, ROUGE-1=0.2977, ROUGE-2=0.0846, ROUGE-L=0.1450
+2025-09-20 11:40:47,105 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,107 [INFO] Evaluated idx=45: Coverage=0, ROUGE-1=0.1452, ROUGE-2=0.0984, ROUGE-L=0.1129
+2025-09-20 11:40:47,110 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,111 [INFO] Evaluated idx=46: Coverage=0, ROUGE-1=0.3438, ROUGE-2=0.0476, ROUGE-L=0.1875
+2025-09-20 11:40:47,115 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,117 [INFO] Evaluated idx=47: Coverage=0, ROUGE-1=0.3462, ROUGE-2=0.1299, ROUGE-L=0.1923
+2025-09-20 11:40:47,120 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,122 [INFO] Evaluated idx=48: Coverage=0, ROUGE-1=0.3210, ROUGE-2=0.1000, ROUGE-L=0.2469
+2025-09-20 11:40:47,131 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,136 [INFO] Evaluated idx=49: Coverage=0, ROUGE-1=0.1456, ROUGE-2=0.0596, ROUGE-L=0.0970
+2025-09-20 11:40:47,140 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,141 [INFO] Evaluated idx=50: Coverage=0, ROUGE-1=0.1667, ROUGE-2=0.0563, ROUGE-L=0.1250
+2025-09-20 11:40:47,148 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,152 [INFO] Evaluated idx=51: Coverage=0, ROUGE-1=0.2953, ROUGE-2=0.1554, ROUGE-L=0.2081
+2025-09-20 11:40:47,156 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,159 [INFO] Evaluated idx=52: Coverage=0, ROUGE-1=0.3200, ROUGE-2=0.0578, ROUGE-L=0.1943
+2025-09-20 11:40:47,163 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,164 [INFO] Evaluated idx=53: Coverage=0, ROUGE-1=0.0879, ROUGE-2=0.0111, ROUGE-L=0.0659
+2025-09-20 11:40:47,168 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,171 [INFO] Evaluated idx=54: Coverage=0, ROUGE-1=0.2486, ROUGE-2=0.0437, ROUGE-L=0.1622
+2025-09-20 11:40:47,176 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,178 [INFO] Evaluated idx=55: Coverage=0, ROUGE-1=0.3209, ROUGE-2=0.1514, ROUGE-L=0.2139
+2025-09-20 11:40:47,181 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,182 [INFO] Evaluated idx=56: Coverage=0, ROUGE-1=0.2456, ROUGE-2=0.1250, ROUGE-L=0.1930
+2025-09-20 11:40:47,186 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,188 [INFO] Evaluated idx=57: Coverage=0, ROUGE-1=0.1932, ROUGE-2=0.0575, ROUGE-L=0.1364
+2025-09-20 11:40:47,194 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,199 [INFO] Evaluated idx=58: Coverage=0, ROUGE-1=0.3203, ROUGE-2=0.0329, ROUGE-L=0.1699
+2025-09-20 11:40:47,203 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,204 [INFO] Evaluated idx=59: Coverage=0, ROUGE-1=0.3333, ROUGE-2=0.1176, ROUGE-L=0.2319
+2025-09-20 11:40:47,210 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,212 [INFO] Evaluated idx=60: Coverage=0, ROUGE-1=0.2182, ROUGE-2=0.0550, ROUGE-L=0.1182
+2025-09-20 11:40:47,217 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,219 [INFO] Evaluated idx=61: Coverage=0, ROUGE-1=0.3776, ROUGE-2=0.0825, ROUGE-L=0.1837
+2025-09-20 11:40:47,223 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,225 [INFO] Evaluated idx=62: Coverage=0, ROUGE-1=0.2825, ROUGE-2=0.1143, ROUGE-L=0.1808
+2025-09-20 11:40:47,229 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,231 [INFO] Evaluated idx=63: Coverage=0, ROUGE-1=0.2771, ROUGE-2=0.0732, ROUGE-L=0.1807
+2025-09-20 11:40:47,236 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,239 [INFO] Evaluated idx=64: Coverage=0, ROUGE-1=0.2254, ROUGE-2=0.0284, ROUGE-L=0.1315
+2025-09-20 11:40:47,249 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,255 [INFO] Evaluated idx=65: Coverage=0, ROUGE-1=0.1636, ROUGE-2=0.0141, ROUGE-L=0.0841
+2025-09-20 11:40:47,261 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,264 [INFO] Evaluated idx=66: Coverage=0, ROUGE-1=0.2031, ROUGE-2=0.0787, ROUGE-L=0.1250
+2025-09-20 11:40:47,269 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,271 [INFO] Evaluated idx=67: Coverage=0, ROUGE-1=0.2167, ROUGE-2=0.0896, ROUGE-L=0.1478
+2025-09-20 11:40:47,276 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,278 [INFO] Evaluated idx=68: Coverage=0, ROUGE-1=0.1674, ROUGE-2=0.0563, ROUGE-L=0.1209
+2025-09-20 11:40:47,282 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,283 [INFO] Evaluated idx=69: Coverage=0, ROUGE-1=0.2270, ROUGE-2=0.0288, ROUGE-L=0.1418
+2025-09-20 11:40:47,287 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,289 [INFO] Evaluated idx=70: Coverage=0, ROUGE-1=0.3125, ROUGE-2=0.1013, ROUGE-L=0.2125
+2025-09-20 11:40:47,294 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,296 [INFO] Evaluated idx=71: Coverage=0, ROUGE-1=0.2842, ROUGE-2=0.0957, ROUGE-L=0.1579
+2025-09-20 11:40:47,301 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,303 [INFO] Evaluated idx=72: Coverage=0, ROUGE-1=0.3913, ROUGE-2=0.0769, ROUGE-L=0.1739
+2025-09-20 11:40:47,309 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,314 [INFO] Evaluated idx=73: Coverage=0, ROUGE-1=0.3772, ROUGE-2=0.1290, ROUGE-L=0.1993
+2025-09-20 11:40:47,318 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,321 [INFO] Evaluated idx=74: Coverage=0, ROUGE-1=0.3027, ROUGE-2=0.1202, ROUGE-L=0.2054
+2025-09-20 11:40:47,323 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,324 [INFO] Evaluated idx=75: Coverage=0, ROUGE-1=0.4444, ROUGE-2=0.1519, ROUGE-L=0.3210
+2025-09-20 11:40:47,331 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,336 [INFO] Evaluated idx=76: Coverage=0, ROUGE-1=0.1802, ROUGE-2=0.0665, ROUGE-L=0.1261
+2025-09-20 11:40:47,339 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,341 [INFO] Evaluated idx=77: Coverage=0, ROUGE-1=0.1139, ROUGE-2=0.0256, ROUGE-L=0.0886
+2025-09-20 11:40:47,346 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,349 [INFO] Evaluated idx=78: Coverage=0, ROUGE-1=0.3598, ROUGE-2=0.0963, ROUGE-L=0.1693
+2025-09-20 11:40:47,353 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,356 [INFO] Evaluated idx=79: Coverage=0, ROUGE-1=0.2800, ROUGE-2=0.1414, ROUGE-L=0.1700
+2025-09-20 11:40:47,362 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,366 [INFO] Evaluated idx=80: Coverage=0, ROUGE-1=0.3416, ROUGE-2=0.1434, ROUGE-L=0.1851
+2025-09-20 11:40:47,370 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,371 [INFO] Evaluated idx=81: Coverage=0, ROUGE-1=0.1679, ROUGE-2=0.0310, ROUGE-L=0.1221
+2025-09-20 11:40:47,373 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,375 [INFO] Evaluated idx=82: Coverage=0, ROUGE-1=0.4742, ROUGE-2=0.1684, ROUGE-L=0.3299
+2025-09-20 11:40:47,380 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,383 [INFO] Evaluated idx=83: Coverage=0, ROUGE-1=0.2277, ROUGE-2=0.0200, ROUGE-L=0.1089
+2025-09-20 11:40:47,389 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,394 [INFO] Evaluated idx=84: Coverage=0, ROUGE-1=0.4655, ROUGE-2=0.1685, ROUGE-L=0.2327
+2025-09-20 11:40:47,398 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,401 [INFO] Evaluated idx=85: Coverage=0, ROUGE-1=0.4064, ROUGE-2=0.1946, ROUGE-L=0.2888
+2025-09-20 11:40:47,406 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,409 [INFO] Evaluated idx=86: Coverage=0, ROUGE-1=0.3407, ROUGE-2=0.1222, ROUGE-L=0.1978
+2025-09-20 11:40:47,412 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,414 [INFO] Evaluated idx=87: Coverage=0, ROUGE-1=0.2722, ROUGE-2=0.0719, ROUGE-L=0.1657
+2025-09-20 11:40:47,418 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,419 [INFO] Evaluated idx=88: Coverage=0, ROUGE-1=0.2500, ROUGE-2=0.0746, ROUGE-L=0.1765
+2025-09-20 11:40:47,423 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,425 [INFO] Evaluated idx=89: Coverage=0, ROUGE-1=0.1884, ROUGE-2=0.0147, ROUGE-L=0.1449
+2025-09-20 11:40:47,430 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,433 [INFO] Evaluated idx=90: Coverage=0, ROUGE-1=0.1634, ROUGE-2=0.0627, ROUGE-L=0.1012
+2025-09-20 11:40:47,439 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,442 [INFO] Evaluated idx=91: Coverage=0, ROUGE-1=0.2205, ROUGE-2=0.1190, ROUGE-L=0.1732
+2025-09-20 11:40:47,445 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,446 [INFO] Evaluated idx=92: Coverage=0, ROUGE-1=0.3051, ROUGE-2=0.0862, ROUGE-L=0.1525
+2025-09-20 11:40:47,450 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,452 [INFO] Evaluated idx=93: Coverage=0, ROUGE-1=0.3041, ROUGE-2=0.0710, ROUGE-L=0.1988
+2025-09-20 11:40:47,456 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,458 [INFO] Evaluated idx=94: Coverage=0, ROUGE-1=0.3152, ROUGE-2=0.1209, ROUGE-L=0.1739
+2025-09-20 11:40:47,464 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,468 [INFO] Evaluated idx=95: Coverage=0, ROUGE-1=0.3409, ROUGE-2=0.0763, ROUGE-L=0.1742
+2025-09-20 11:40:47,472 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,474 [INFO] Evaluated idx=96: Coverage=0, ROUGE-1=0.1931, ROUGE-2=0.0839, ROUGE-L=0.1379
+2025-09-20 11:40:47,481 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,485 [INFO] Evaluated idx=97: Coverage=0, ROUGE-1=0.3507, ROUGE-2=0.1203, ROUGE-L=0.2164
+2025-09-20 11:40:47,490 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,492 [INFO] Evaluated idx=98: Coverage=0, ROUGE-1=0.1569, ROUGE-2=0.0693, ROUGE-L=0.1078
+2025-09-20 11:40:47,496 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,498 [INFO] Evaluated idx=99: Coverage=0, ROUGE-1=0.4314, ROUGE-2=0.2252, ROUGE-L=0.2614
+2025-09-20 11:40:47,502 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,504 [INFO] Evaluated idx=100: Coverage=0, ROUGE-1=0.3352, ROUGE-2=0.1356, ROUGE-L=0.2346
+2025-09-20 11:40:47,508 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,510 [INFO] Evaluated idx=101: Coverage=0, ROUGE-1=0.2911, ROUGE-2=0.1026, ROUGE-L=0.2278
+2025-09-20 11:40:47,514 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,517 [INFO] Evaluated idx=102: Coverage=0, ROUGE-1=0.2925, ROUGE-2=0.0857, ROUGE-L=0.1887
+2025-09-20 11:40:47,522 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,525 [INFO] Evaluated idx=103: Coverage=0, ROUGE-1=0.2952, ROUGE-2=0.1058, ROUGE-L=0.2190
+2025-09-20 11:40:47,530 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,533 [INFO] Evaluated idx=104: Coverage=0, ROUGE-1=0.1379, ROUGE-2=0.0299, ROUGE-L=0.0887
+2025-09-20 11:40:47,537 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,539 [INFO] Evaluated idx=105: Coverage=0, ROUGE-1=0.2162, ROUGE-2=0.0874, ROUGE-L=0.1405
+2025-09-20 11:40:47,542 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,544 [INFO] Evaluated idx=106: Coverage=0, ROUGE-1=0.1818, ROUGE-2=0.0308, ROUGE-L=0.1061
+2025-09-20 11:40:47,549 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,551 [INFO] Evaluated idx=107: Coverage=0, ROUGE-1=0.2621, ROUGE-2=0.0980, ROUGE-L=0.1650
+2025-09-20 11:40:47,556 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,558 [INFO] Evaluated idx=108: Coverage=0, ROUGE-1=0.1132, ROUGE-2=0.0286, ROUGE-L=0.0849
+2025-09-20 11:40:47,563 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,565 [INFO] Evaluated idx=109: Coverage=0, ROUGE-1=0.2054, ROUGE-2=0.1421, ROUGE-L=0.1514
+2025-09-20 11:40:47,569 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,571 [INFO] Evaluated idx=110: Coverage=0, ROUGE-1=0.3006, ROUGE-2=0.0936, ROUGE-L=0.1734
+2025-09-20 11:40:47,576 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,578 [INFO] Evaluated idx=111: Coverage=0, ROUGE-1=0.1587, ROUGE-2=0.0321, ROUGE-L=0.1376
+2025-09-20 11:40:47,582 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,584 [INFO] Evaluated idx=112: Coverage=0, ROUGE-1=0.2619, ROUGE-2=0.1084, ROUGE-L=0.1667
+2025-09-20 11:40:47,589 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,592 [INFO] Evaluated idx=113: Coverage=0, ROUGE-1=0.2185, ROUGE-2=0.0593, ROUGE-L=0.1429
+2025-09-20 11:40:47,596 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,598 [INFO] Evaluated idx=114: Coverage=0, ROUGE-1=0.1693, ROUGE-2=0.0856, ROUGE-L=0.1270
+2025-09-20 11:40:47,603 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,605 [INFO] Evaluated idx=115: Coverage=0, ROUGE-1=0.2700, ROUGE-2=0.0404, ROUGE-L=0.1400
+2025-09-20 11:40:47,609 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,610 [INFO] Evaluated idx=116: Coverage=0, ROUGE-1=0.3043, ROUGE-2=0.1618, ROUGE-L=0.2319
+2025-09-20 11:40:47,614 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,616 [INFO] Evaluated idx=117: Coverage=0, ROUGE-1=0.2993, ROUGE-2=0.1793, ROUGE-L=0.2313
+2025-09-20 11:40:47,622 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,628 [INFO] Evaluated idx=118: Coverage=0, ROUGE-1=0.2939, ROUGE-2=0.0707, ROUGE-L=0.1406
+2025-09-20 11:40:47,632 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,635 [INFO] Evaluated idx=119: Coverage=0, ROUGE-1=0.2513, ROUGE-2=0.0741, ROUGE-L=0.1571
+2025-09-20 11:40:47,641 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,643 [INFO] Evaluated idx=120: Coverage=0, ROUGE-1=0.2305, ROUGE-2=0.0664, ROUGE-L=0.1235
+2025-09-20 11:40:47,648 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,650 [INFO] Evaluated idx=121: Coverage=0, ROUGE-1=0.2078, ROUGE-2=0.0395, ROUGE-L=0.1429
+2025-09-20 11:40:47,654 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,657 [INFO] Evaluated idx=122: Coverage=0, ROUGE-1=0.2902, ROUGE-2=0.0838, ROUGE-L=0.1969
+2025-09-20 11:40:47,661 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,662 [INFO] Evaluated idx=123: Coverage=0, ROUGE-1=0.2038, ROUGE-2=0.0903, ROUGE-L=0.1911
+2025-09-20 11:40:47,669 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,672 [INFO] Evaluated idx=124: Coverage=0, ROUGE-1=0.1172, ROUGE-2=0.0394, ROUGE-L=0.0938
+2025-09-20 11:40:47,676 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,679 [INFO] Evaluated idx=125: Coverage=0, ROUGE-1=0.2933, ROUGE-2=0.1076, ROUGE-L=0.1689
+2025-09-20 11:40:47,682 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,683 [INFO] Evaluated idx=126: Coverage=0, ROUGE-1=0.2830, ROUGE-2=0.1923, ROUGE-L=0.2642
+2025-09-20 11:40:47,687 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,689 [INFO] Evaluated idx=127: Coverage=0, ROUGE-1=0.1875, ROUGE-2=0.0632, ROUGE-L=0.1250
+2025-09-20 11:40:47,693 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,695 [INFO] Evaluated idx=128: Coverage=0, ROUGE-1=0.2051, ROUGE-2=0.0519, ROUGE-L=0.1154
+2025-09-20 11:40:47,699 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,702 [INFO] Evaluated idx=129: Coverage=0, ROUGE-1=0.3429, ROUGE-2=0.1058, ROUGE-L=0.1810
+2025-09-20 11:40:47,709 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,712 [INFO] Evaluated idx=130: Coverage=0, ROUGE-1=0.1574, ROUGE-2=0.0330, ROUGE-L=0.1049
+2025-09-20 11:40:47,716 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,718 [INFO] Evaluated idx=131: Coverage=0, ROUGE-1=0.1548, ROUGE-2=0.0482, ROUGE-L=0.1190
+2025-09-20 11:40:47,723 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,726 [INFO] Evaluated idx=132: Coverage=0, ROUGE-1=0.1867, ROUGE-2=0.0179, ROUGE-L=0.1067
+2025-09-20 11:40:47,732 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,735 [INFO] Evaluated idx=133: Coverage=0, ROUGE-1=0.2598, ROUGE-2=0.1111, ROUGE-L=0.1732
+2025-09-20 11:40:47,740 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,744 [INFO] Evaluated idx=134: Coverage=0, ROUGE-1=0.5495, ROUGE-2=0.1909, ROUGE-L=0.2252
+2025-09-20 11:40:47,747 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,749 [INFO] Evaluated idx=135: Coverage=0, ROUGE-1=0.2188, ROUGE-2=0.1368, ROUGE-L=0.1667
+2025-09-20 11:40:47,754 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,756 [INFO] Evaluated idx=136: Coverage=0, ROUGE-1=0.1809, ROUGE-2=0.0645, ROUGE-L=0.1277
+2025-09-20 11:40:47,762 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,766 [INFO] Evaluated idx=137: Coverage=0, ROUGE-1=0.3704, ROUGE-2=0.1245, ROUGE-L=0.1975
+2025-09-20 11:40:47,772 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,775 [INFO] Evaluated idx=138: Coverage=0, ROUGE-1=0.2165, ROUGE-2=0.0699, ROUGE-L=0.1472
+2025-09-20 11:40:47,779 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,781 [INFO] Evaluated idx=139: Coverage=0, ROUGE-1=0.2838, ROUGE-2=0.1370, ROUGE-L=0.2432
+2025-09-20 11:40:47,786 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,788 [INFO] Evaluated idx=140: Coverage=0, ROUGE-1=0.1137, ROUGE-2=0.0096, ROUGE-L=0.0758
+2025-09-20 11:40:47,792 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,794 [INFO] Evaluated idx=141: Coverage=0, ROUGE-1=0.2515, ROUGE-2=0.1333, ROUGE-L=0.1796
+2025-09-20 11:40:47,798 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,800 [INFO] Evaluated idx=142: Coverage=0, ROUGE-1=0.2873, ROUGE-2=0.1006, ROUGE-L=0.2210
+2025-09-20 11:40:47,803 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,804 [INFO] Evaluated idx=143: Coverage=0, ROUGE-1=0.2500, ROUGE-2=0.0847, ROUGE-L=0.1167
+2025-09-20 11:40:47,810 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,812 [INFO] Evaluated idx=144: Coverage=0, ROUGE-1=0.1402, ROUGE-2=0.0094, ROUGE-L=0.0935
+2025-09-20 11:40:47,817 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,819 [INFO] Evaluated idx=145: Coverage=0, ROUGE-1=0.1099, ROUGE-2=0.0333, ROUGE-L=0.0879
+2025-09-20 11:40:47,822 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,825 [INFO] Evaluated idx=146: Coverage=0, ROUGE-1=0.4049, ROUGE-2=0.0870, ROUGE-L=0.1963
+2025-09-20 11:40:47,831 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,834 [INFO] Evaluated idx=147: Coverage=0, ROUGE-1=0.3089, ROUGE-2=0.1012, ROUGE-L=0.1853
+2025-09-20 11:40:47,838 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,840 [INFO] Evaluated idx=148: Coverage=0, ROUGE-1=0.3226, ROUGE-2=0.0654, ROUGE-L=0.1806
+2025-09-20 11:40:47,843 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,845 [INFO] Evaluated idx=149: Coverage=0, ROUGE-1=0.2314, ROUGE-2=0.0672, ROUGE-L=0.1488
+2025-09-20 11:40:47,848 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,850 [INFO] Evaluated idx=150: Coverage=0, ROUGE-1=0.4027, ROUGE-2=0.1361, ROUGE-L=0.2416
+2025-09-20 11:40:47,854 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,856 [INFO] Evaluated idx=151: Coverage=0, ROUGE-1=0.3086, ROUGE-2=0.2081, ROUGE-L=0.2514
+2025-09-20 11:40:47,861 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,864 [INFO] Evaluated idx=152: Coverage=0, ROUGE-1=0.3063, ROUGE-2=0.0818, ROUGE-L=0.1532
+2025-09-20 11:40:47,869 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,871 [INFO] Evaluated idx=153: Coverage=0, ROUGE-1=0.2400, ROUGE-2=0.0808, ROUGE-L=0.1800
+2025-09-20 11:40:47,875 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,877 [INFO] Evaluated idx=154: Coverage=0, ROUGE-1=0.5286, ROUGE-2=0.2609, ROUGE-L=0.3714
+2025-09-20 11:40:47,880 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,882 [INFO] Evaluated idx=155: Coverage=0, ROUGE-1=0.2838, ROUGE-2=0.1781, ROUGE-L=0.2162
+2025-09-20 11:40:47,887 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,889 [INFO] Evaluated idx=156: Coverage=0, ROUGE-1=0.1782, ROUGE-2=0.0700, ROUGE-L=0.1188
+2025-09-20 11:40:47,898 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,903 [INFO] Evaluated idx=157: Coverage=0, ROUGE-1=0.1279, ROUGE-2=0.0514, ROUGE-L=0.0870
+2025-09-20 11:40:47,907 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,909 [INFO] Evaluated idx=158: Coverage=0, ROUGE-1=0.1768, ROUGE-2=0.0335, ROUGE-L=0.0884
+2025-09-20 11:40:47,913 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,915 [INFO] Evaluated idx=159: Coverage=0, ROUGE-1=0.4025, ROUGE-2=0.1783, ROUGE-L=0.2138
+2025-09-20 11:40:47,919 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,921 [INFO] Evaluated idx=160: Coverage=0, ROUGE-1=0.3394, ROUGE-2=0.0859, ROUGE-L=0.1818
+2025-09-20 11:40:47,926 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,929 [INFO] Evaluated idx=161: Coverage=0, ROUGE-1=0.3744, ROUGE-2=0.1290, ROUGE-L=0.2466
+2025-09-20 11:40:47,934 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,937 [INFO] Evaluated idx=162: Coverage=0, ROUGE-1=0.2584, ROUGE-2=0.0580, ROUGE-L=0.1531
+2025-09-20 11:40:47,942 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,946 [INFO] Evaluated idx=163: Coverage=0, ROUGE-1=0.4135, ROUGE-2=0.1617, ROUGE-L=0.2278
+2025-09-20 11:40:47,951 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,953 [INFO] Evaluated idx=164: Coverage=0, ROUGE-1=0.1554, ROUGE-2=0.0419, ROUGE-L=0.1140
+2025-09-20 11:40:47,957 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,959 [INFO] Evaluated idx=165: Coverage=0, ROUGE-1=0.2086, ROUGE-2=0.0994, ROUGE-L=0.1227
+2025-09-20 11:40:47,962 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,963 [INFO] Evaluated idx=166: Coverage=0, ROUGE-1=0.1920, ROUGE-2=0.0976, ROUGE-L=0.1440
+2025-09-20 11:40:47,967 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,968 [INFO] Evaluated idx=167: Coverage=0, ROUGE-1=0.1892, ROUGE-2=0.1370, ROUGE-L=0.1622
+2025-09-20 11:40:47,972 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,973 [INFO] Evaluated idx=168: Coverage=0, ROUGE-1=0.3111, ROUGE-2=0.1053, ROUGE-L=0.2074
+2025-09-20 11:40:47,978 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,981 [INFO] Evaluated idx=169: Coverage=0, ROUGE-1=0.3105, ROUGE-2=0.1198, ROUGE-L=0.1553
+2025-09-20 11:40:47,986 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,990 [INFO] Evaluated idx=170: Coverage=0, ROUGE-1=0.2544, ROUGE-2=0.1062, ROUGE-L=0.1667
+2025-09-20 11:40:47,993 [INFO] Using default tokenizer.
+2025-09-20 11:40:47,995 [INFO] Evaluated idx=171: Coverage=0, ROUGE-1=0.1678, ROUGE-2=0.0709, ROUGE-L=0.1399
+2025-09-20 11:40:47,999 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,003 [INFO] Evaluated idx=172: Coverage=0, ROUGE-1=0.4182, ROUGE-2=0.1376, ROUGE-L=0.2455
+2025-09-20 11:40:48,007 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,008 [INFO] Evaluated idx=173: Coverage=0, ROUGE-1=0.1796, ROUGE-2=0.0606, ROUGE-L=0.1198
+2025-09-20 11:40:48,014 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,018 [INFO] Evaluated idx=174: Coverage=0, ROUGE-1=0.3686, ROUGE-2=0.1423, ROUGE-L=0.2353
+2025-09-20 11:40:48,023 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,025 [INFO] Evaluated idx=175: Coverage=0, ROUGE-1=0.1711, ROUGE-2=0.0216, ROUGE-L=0.1283
+2025-09-20 11:40:48,030 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,033 [INFO] Evaluated idx=176: Coverage=0, ROUGE-1=0.2925, ROUGE-2=0.0857, ROUGE-L=0.1887
+2025-09-20 11:40:48,036 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,038 [INFO] Evaluated idx=177: Coverage=0, ROUGE-1=0.2065, ROUGE-2=0.1307, ROUGE-L=0.2065
+2025-09-20 11:40:48,043 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,044 [INFO] Evaluated idx=178: Coverage=0, ROUGE-1=0.2762, ROUGE-2=0.0782, ROUGE-L=0.1768
+2025-09-20 11:40:48,050 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,054 [INFO] Evaluated idx=179: Coverage=0, ROUGE-1=0.1831, ROUGE-2=0.0922, ROUGE-L=0.1549
+2025-09-20 11:40:48,057 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,059 [INFO] Evaluated idx=180: Coverage=0, ROUGE-1=0.2614, ROUGE-2=0.0927, ROUGE-L=0.1699
+2025-09-20 11:40:48,063 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,065 [INFO] Evaluated idx=181: Coverage=0, ROUGE-1=0.3908, ROUGE-2=0.1163, ROUGE-L=0.2529
+2025-09-20 11:40:48,071 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,074 [INFO] Evaluated idx=182: Coverage=0, ROUGE-1=0.2719, ROUGE-2=0.0531, ROUGE-L=0.1316
+2025-09-20 11:40:48,081 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,086 [INFO] Evaluated idx=183: Coverage=0, ROUGE-1=0.1627, ROUGE-2=0.0545, ROUGE-L=0.1265
+2025-09-20 11:40:48,090 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,092 [INFO] Evaluated idx=184: Coverage=0, ROUGE-1=0.3108, ROUGE-2=0.0548, ROUGE-L=0.2027
+2025-09-20 11:40:48,096 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,099 [INFO] Evaluated idx=185: Coverage=0, ROUGE-1=0.4762, ROUGE-2=0.2246, ROUGE-L=0.3069
+2025-09-20 11:40:48,103 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,105 [INFO] Evaluated idx=186: Coverage=0, ROUGE-1=0.2924, ROUGE-2=0.1183, ROUGE-L=0.1988
+2025-09-20 11:40:48,111 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,113 [INFO] Evaluated idx=187: Coverage=0, ROUGE-1=0.1532, ROUGE-2=0.0364, ROUGE-L=0.1351
+2025-09-20 11:40:48,120 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,124 [INFO] Evaluated idx=188: Coverage=0, ROUGE-1=0.1206, ROUGE-2=0.0575, ROUGE-L=0.1016
+2025-09-20 11:40:48,128 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,130 [INFO] Evaluated idx=189: Coverage=0, ROUGE-1=0.3229, ROUGE-2=0.1053, ROUGE-L=0.1875
+2025-09-20 11:40:48,134 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,136 [INFO] Evaluated idx=190: Coverage=0, ROUGE-1=0.1961, ROUGE-2=0.0397, ROUGE-L=0.1307
+2025-09-20 11:40:48,139 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,140 [INFO] Evaluated idx=191: Coverage=0, ROUGE-1=0.2443, ROUGE-2=0.1240, ROUGE-L=0.1832
+2025-09-20 11:40:48,145 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,147 [INFO] Evaluated idx=192: Coverage=0, ROUGE-1=0.1538, ROUGE-2=0.0680, ROUGE-L=0.1058
+2025-09-20 11:40:48,152 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,156 [INFO] Evaluated idx=193: Coverage=0, ROUGE-1=0.3697, ROUGE-2=0.1780, ROUGE-L=0.2437
+2025-09-20 11:40:48,160 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,163 [INFO] Evaluated idx=194: Coverage=0, ROUGE-1=0.1925, ROUGE-2=0.0649, ROUGE-L=0.1390
+2025-09-20 11:40:48,170 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,181 [INFO] Evaluated idx=195: Coverage=0, ROUGE-1=0.1661, ROUGE-2=0.0334, ROUGE-L=0.0930
+2025-09-20 11:40:48,191 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,196 [INFO] Evaluated idx=196: Coverage=0, ROUGE-1=0.0746, ROUGE-2=0.0264, ROUGE-L=0.0570
+2025-09-20 11:40:48,201 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,203 [INFO] Evaluated idx=197: Coverage=0, ROUGE-1=0.0985, ROUGE-2=0.0398, ROUGE-L=0.0788
+2025-09-20 11:40:48,208 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,211 [INFO] Evaluated idx=198: Coverage=0, ROUGE-1=0.3028, ROUGE-2=0.1574, ROUGE-L=0.2477
+2025-09-20 11:40:48,215 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,216 [INFO] Evaluated idx=199: Coverage=0, ROUGE-1=0.1633, ROUGE-2=0.0552, ROUGE-L=0.1088
+2025-09-20 11:40:48,220 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,223 [INFO] Evaluated idx=200: Coverage=0, ROUGE-1=0.2258, ROUGE-2=0.0978, ROUGE-L=0.1505
+2025-09-20 11:40:48,226 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,228 [INFO] Evaluated idx=201: Coverage=0, ROUGE-1=0.2745, ROUGE-2=0.0795, ROUGE-L=0.1830
+2025-09-20 11:40:48,233 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,236 [INFO] Evaluated idx=202: Coverage=0, ROUGE-1=0.3500, ROUGE-2=0.1010, ROUGE-L=0.2600
+2025-09-20 11:40:48,240 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,242 [INFO] Evaluated idx=203: Coverage=0, ROUGE-1=0.1361, ROUGE-2=0.0635, ROUGE-L=0.1361
+2025-09-20 11:40:48,244 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,246 [INFO] Evaluated idx=204: Coverage=0, ROUGE-1=0.3151, ROUGE-2=0.1806, ROUGE-L=0.2603
+2025-09-20 11:40:48,250 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,252 [INFO] Evaluated idx=205: Coverage=0, ROUGE-1=0.2469, ROUGE-2=0.0375, ROUGE-L=0.1481
+2025-09-20 11:40:48,259 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,262 [INFO] Evaluated idx=206: Coverage=0, ROUGE-1=0.1678, ROUGE-2=0.0845, ROUGE-L=0.1259
+2025-09-20 11:40:48,267 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,270 [INFO] Evaluated idx=207: Coverage=0, ROUGE-1=0.2364, ROUGE-2=0.0550, ROUGE-L=0.1455
+2025-09-20 11:40:48,280 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,288 [INFO] Evaluated idx=208: Coverage=0, ROUGE-1=0.1760, ROUGE-2=0.0474, ROUGE-L=0.1116
+2025-09-20 11:40:48,292 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,295 [INFO] Evaluated idx=209: Coverage=0, ROUGE-1=0.3585, ROUGE-2=0.1238, ROUGE-L=0.2170
+2025-09-20 11:40:48,301 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,304 [INFO] Evaluated idx=210: Coverage=0, ROUGE-1=0.2093, ROUGE-2=0.0469, ROUGE-L=0.1318
+2025-09-20 11:40:48,307 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,308 [INFO] Evaluated idx=211: Coverage=0, ROUGE-1=0.2162, ROUGE-2=0.0917, ROUGE-L=0.1802
+2025-09-20 11:40:48,313 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,316 [INFO] Evaluated idx=212: Coverage=0, ROUGE-1=0.2913, ROUGE-2=0.0882, ROUGE-L=0.1942
+2025-09-20 11:40:48,319 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,321 [INFO] Evaluated idx=213: Coverage=0, ROUGE-1=0.2025, ROUGE-2=0.0897, ROUGE-L=0.1392
+2025-09-20 11:40:48,330 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,334 [INFO] Evaluated idx=214: Coverage=0, ROUGE-1=0.1562, ROUGE-2=0.0725, ROUGE-L=0.1021
+2025-09-20 11:40:48,337 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,338 [INFO] Evaluated idx=215: Coverage=0, ROUGE-1=0.2000, ROUGE-2=0.1017, ROUGE-L=0.1833
+2025-09-20 11:40:48,348 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,352 [INFO] Evaluated idx=216: Coverage=0, ROUGE-1=0.0854, ROUGE-2=0.0101, ROUGE-L=0.0603
+2025-09-20 11:40:48,357 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,360 [INFO] Evaluated idx=217: Coverage=0, ROUGE-1=0.2110, ROUGE-2=0.0370, ROUGE-L=0.1284
+2025-09-20 11:40:48,363 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,365 [INFO] Evaluated idx=218: Coverage=0, ROUGE-1=0.3000, ROUGE-2=0.0380, ROUGE-L=0.1250
+2025-09-20 11:40:48,371 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,374 [INFO] Evaluated idx=219: Coverage=0, ROUGE-1=0.2414, ROUGE-2=0.0609, ROUGE-L=0.1293
+2025-09-20 11:40:48,381 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,384 [INFO] Evaluated idx=220: Coverage=0, ROUGE-1=0.1672, ROUGE-2=0.0471, ROUGE-L=0.1003
+2025-09-20 11:40:48,387 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,389 [INFO] Evaluated idx=221: Coverage=0, ROUGE-1=0.3217, ROUGE-2=0.1135, ROUGE-L=0.1818
+2025-09-20 11:40:48,395 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,399 [INFO] Evaluated idx=222: Coverage=0, ROUGE-1=0.2703, ROUGE-2=0.1012, ROUGE-L=0.1699
+2025-09-20 11:40:48,403 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,404 [INFO] Evaluated idx=223: Coverage=0, ROUGE-1=0.2568, ROUGE-2=0.0548, ROUGE-L=0.1351
+2025-09-20 11:40:48,408 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,410 [INFO] Evaluated idx=224: Coverage=0, ROUGE-1=0.3827, ROUGE-2=0.1625, ROUGE-L=0.2346
+2025-09-20 11:40:48,414 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,417 [INFO] Evaluated idx=225: Coverage=0, ROUGE-1=0.2784, ROUGE-2=0.0938, ROUGE-L=0.1856
+2025-09-20 11:40:48,422 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,425 [INFO] Evaluated idx=226: Coverage=0, ROUGE-1=0.3303, ROUGE-2=0.1389, ROUGE-L=0.1927
+2025-09-20 11:40:48,429 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,431 [INFO] Evaluated idx=227: Coverage=0, ROUGE-1=0.1429, ROUGE-2=0.0778, ROUGE-L=0.1099
+2025-09-20 11:40:48,436 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,439 [INFO] Evaluated idx=228: Coverage=0, ROUGE-1=0.2593, ROUGE-2=0.0654, ROUGE-L=0.1759
+2025-09-20 11:40:48,442 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,443 [INFO] Evaluated idx=229: Coverage=0, ROUGE-1=0.2069, ROUGE-2=0.0420, ROUGE-L=0.1379
+2025-09-20 11:40:48,450 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,455 [INFO] Evaluated idx=230: Coverage=0, ROUGE-1=0.2432, ROUGE-2=0.0748, ROUGE-L=0.1554
+2025-09-20 11:40:48,461 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,466 [INFO] Evaluated idx=231: Coverage=0, ROUGE-1=0.3309, ROUGE-2=0.0942, ROUGE-L=0.1942
+2025-09-20 11:40:48,472 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,475 [INFO] Evaluated idx=232: Coverage=0, ROUGE-1=0.2335, ROUGE-2=0.0706, ROUGE-L=0.1245
+2025-09-20 11:40:48,480 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,482 [INFO] Evaluated idx=233: Coverage=0, ROUGE-1=0.2732, ROUGE-2=0.1478, ROUGE-L=0.2244
+2025-09-20 11:40:48,484 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,485 [INFO] Evaluated idx=234: Coverage=0, ROUGE-1=0.3200, ROUGE-2=0.0548, ROUGE-L=0.1867
+2025-09-20 11:40:48,490 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,492 [INFO] Evaluated idx=235: Coverage=0, ROUGE-1=0.2353, ROUGE-2=0.0324, ROUGE-L=0.1283
+2025-09-20 11:40:48,498 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,501 [INFO] Evaluated idx=236: Coverage=0, ROUGE-1=0.2203, ROUGE-2=0.0427, ROUGE-L=0.1271
+2025-09-20 11:40:48,505 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,508 [INFO] Evaluated idx=237: Coverage=0, ROUGE-1=0.2523, ROUGE-2=0.1321, ROUGE-L=0.1776
+2025-09-20 11:40:48,512 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,514 [INFO] Evaluated idx=238: Coverage=0, ROUGE-1=0.1765, ROUGE-2=0.0495, ROUGE-L=0.1373
+2025-09-20 11:40:48,521 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,525 [INFO] Evaluated idx=239: Coverage=0, ROUGE-1=0.3521, ROUGE-2=0.1277, ROUGE-L=0.1972
+2025-09-20 11:40:48,530 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,532 [INFO] Evaluated idx=240: Coverage=0, ROUGE-1=0.1677, ROUGE-2=0.0242, ROUGE-L=0.0958
+2025-09-20 11:40:48,536 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,538 [INFO] Evaluated idx=241: Coverage=0, ROUGE-1=0.3086, ROUGE-2=0.0250, ROUGE-L=0.1481
+2025-09-20 11:40:48,541 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,544 [INFO] Evaluated idx=242: Coverage=0, ROUGE-1=0.2791, ROUGE-2=0.0353, ROUGE-L=0.1628
+2025-09-20 11:40:48,549 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,552 [INFO] Evaluated idx=243: Coverage=0, ROUGE-1=0.3175, ROUGE-2=0.0749, ROUGE-L=0.1481
+2025-09-20 11:40:48,557 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,558 [INFO] Evaluated idx=244: Coverage=0, ROUGE-1=0.1622, ROUGE-2=0.0984, ROUGE-L=0.1297
+2025-09-20 11:40:48,561 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,563 [INFO] Evaluated idx=245: Coverage=0, ROUGE-1=0.3077, ROUGE-2=0.0781, ROUGE-L=0.1692
+2025-09-20 11:40:48,566 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,567 [INFO] Evaluated idx=246: Coverage=0, ROUGE-1=0.1875, ROUGE-2=0.0317, ROUGE-L=0.1406
+2025-09-20 11:40:48,573 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,577 [INFO] Evaluated idx=247: Coverage=0, ROUGE-1=0.2667, ROUGE-2=0.0373, ROUGE-L=0.1259
+2025-09-20 11:40:48,580 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,581 [INFO] Evaluated idx=248: Coverage=0, ROUGE-1=0.3273, ROUGE-2=0.1296, ROUGE-L=0.2182
+2025-09-20 11:40:48,585 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,586 [INFO] Evaluated idx=249: Coverage=0, ROUGE-1=0.3034, ROUGE-2=0.1259, ROUGE-L=0.2207
+2025-09-20 11:40:48,590 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,592 [INFO] Evaluated idx=250: Coverage=0, ROUGE-1=0.2222, ROUGE-2=0.0141, ROUGE-L=0.0972
+2025-09-20 11:40:48,597 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,601 [INFO] Evaluated idx=251: Coverage=0, ROUGE-1=0.2891, ROUGE-2=0.0945, ROUGE-L=0.1562
+2025-09-20 11:40:48,607 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,610 [INFO] Evaluated idx=252: Coverage=0, ROUGE-1=0.2774, ROUGE-2=0.0588, ROUGE-L=0.1460
+2025-09-20 11:40:48,614 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,616 [INFO] Evaluated idx=253: Coverage=0, ROUGE-1=0.3908, ROUGE-2=0.1860, ROUGE-L=0.2874
+2025-09-20 11:40:48,620 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,623 [INFO] Evaluated idx=254: Coverage=0, ROUGE-1=0.2308, ROUGE-2=0.0444, ROUGE-L=0.1538
+2025-09-20 11:40:48,627 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,629 [INFO] Evaluated idx=255: Coverage=0, ROUGE-1=0.4339, ROUGE-2=0.2139, ROUGE-L=0.2540
+2025-09-20 11:40:48,633 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,635 [INFO] Evaluated idx=256: Coverage=0, ROUGE-1=0.2222, ROUGE-2=0.1060, ROUGE-L=0.1961
+2025-09-20 11:40:48,638 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,640 [INFO] Evaluated idx=257: Coverage=0, ROUGE-1=0.2699, ROUGE-2=0.1118, ROUGE-L=0.1963
+2025-09-20 11:40:48,646 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,648 [INFO] Evaluated idx=258: Coverage=0, ROUGE-1=0.0992, ROUGE-2=0.0750, ROUGE-L=0.0826
+2025-09-20 11:40:48,654 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,658 [INFO] Evaluated idx=259: Coverage=0, ROUGE-1=0.2753, ROUGE-2=0.0898, ROUGE-L=0.1215
+2025-09-20 11:40:48,664 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,668 [INFO] Evaluated idx=260: Coverage=0, ROUGE-1=0.3048, ROUGE-2=0.0824, ROUGE-L=0.1487
+2025-09-20 11:40:48,673 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,675 [INFO] Evaluated idx=261: Coverage=0, ROUGE-1=0.2140, ROUGE-2=0.0657, ROUGE-L=0.1302
+2025-09-20 11:40:48,681 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,685 [INFO] Evaluated idx=262: Coverage=0, ROUGE-1=0.1320, ROUGE-2=0.0199, ROUGE-L=0.0726
+2025-09-20 11:40:48,688 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,689 [INFO] Evaluated idx=263: Coverage=0, ROUGE-1=0.2366, ROUGE-2=0.0879, ROUGE-L=0.1935
+2025-09-20 11:40:48,696 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,699 [INFO] Evaluated idx=264: Coverage=0, ROUGE-1=0.0633, ROUGE-2=0.0064, ROUGE-L=0.0506
+2025-09-20 11:40:48,703 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,705 [INFO] Evaluated idx=265: Coverage=0, ROUGE-1=0.2811, ROUGE-2=0.0656, ROUGE-L=0.1514
+2025-09-20 11:40:48,709 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,711 [INFO] Evaluated idx=266: Coverage=0, ROUGE-1=0.2577, ROUGE-2=0.0870, ROUGE-L=0.1963
+2025-09-20 11:40:48,714 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,716 [INFO] Evaluated idx=267: Coverage=0, ROUGE-1=0.3425, ROUGE-2=0.0972, ROUGE-L=0.2192
+2025-09-20 11:40:48,721 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,723 [INFO] Evaluated idx=268: Coverage=0, ROUGE-1=0.2286, ROUGE-2=0.0481, ROUGE-L=0.0952
+2025-09-20 11:40:48,728 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,732 [INFO] Evaluated idx=269: Coverage=0, ROUGE-1=0.4541, ROUGE-2=0.1938, ROUGE-L=0.2795
+2025-09-20 11:40:48,735 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,737 [INFO] Evaluated idx=270: Coverage=0, ROUGE-1=0.3910, ROUGE-2=0.1832, ROUGE-L=0.2857
+2025-09-20 11:40:48,747 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,755 [INFO] Evaluated idx=271: Coverage=0, ROUGE-1=0.1691, ROUGE-2=0.0382, ROUGE-L=0.1142
+2025-09-20 11:40:48,760 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,763 [INFO] Evaluated idx=272: Coverage=0, ROUGE-1=0.3033, ROUGE-2=0.0766, ROUGE-L=0.1896
+2025-09-20 11:40:48,767 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,769 [INFO] Evaluated idx=273: Coverage=0, ROUGE-1=0.2543, ROUGE-2=0.1170, ROUGE-L=0.2081
+2025-09-20 11:40:48,772 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,774 [INFO] Evaluated idx=274: Coverage=0, ROUGE-1=0.2293, ROUGE-2=0.1290, ROUGE-L=0.2038
+2025-09-20 11:40:48,778 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,780 [INFO] Evaluated idx=275: Coverage=0, ROUGE-1=0.3974, ROUGE-2=0.0671, ROUGE-L=0.2252
+2025-09-20 11:40:48,785 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,788 [INFO] Evaluated idx=276: Coverage=0, ROUGE-1=0.2727, ROUGE-2=0.0917, ROUGE-L=0.1818
+2025-09-20 11:40:48,792 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,794 [INFO] Evaluated idx=277: Coverage=0, ROUGE-1=0.3864, ROUGE-2=0.2759, ROUGE-L=0.2386
+2025-09-20 11:40:48,799 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,802 [INFO] Evaluated idx=278: Coverage=0, ROUGE-1=0.3483, ROUGE-2=0.0905, ROUGE-L=0.1990
+2025-09-20 11:40:48,812 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,820 [INFO] Evaluated idx=279: Coverage=0, ROUGE-1=0.1439, ROUGE-2=0.0570, ROUGE-L=0.1061
+2025-09-20 11:40:48,827 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,830 [INFO] Evaluated idx=280: Coverage=0, ROUGE-1=0.1136, ROUGE-2=0.0254, ROUGE-L=0.1009
+2025-09-20 11:40:48,834 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,837 [INFO] Evaluated idx=281: Coverage=0, ROUGE-1=0.1919, ROUGE-2=0.0306, ROUGE-L=0.1111
+2025-09-20 11:40:48,840 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,842 [INFO] Evaluated idx=282: Coverage=0, ROUGE-1=0.1911, ROUGE-2=0.0903, ROUGE-L=0.1274
+2025-09-20 11:40:48,847 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,849 [INFO] Evaluated idx=283: Coverage=0, ROUGE-1=0.2201, ROUGE-2=0.0676, ROUGE-L=0.1722
+2025-09-20 11:40:48,853 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,855 [INFO] Evaluated idx=284: Coverage=0, ROUGE-1=0.2619, ROUGE-2=0.0843, ROUGE-L=0.1429
+2025-09-20 11:40:48,858 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,860 [INFO] Evaluated idx=285: Coverage=0, ROUGE-1=0.3824, ROUGE-2=0.0448, ROUGE-L=0.1765
+2025-09-20 11:40:48,864 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,867 [INFO] Evaluated idx=286: Coverage=0, ROUGE-1=0.3858, ROUGE-2=0.0615, ROUGE-L=0.1929
+2025-09-20 11:40:48,870 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,871 [INFO] Evaluated idx=287: Coverage=0, ROUGE-1=0.1679, ROUGE-2=0.0310, ROUGE-L=0.1069
+2025-09-20 11:40:48,877 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,879 [INFO] Evaluated idx=288: Coverage=0, ROUGE-1=0.1053, ROUGE-2=0.0227, ROUGE-L=0.0827
+2025-09-20 11:40:48,883 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,885 [INFO] Evaluated idx=289: Coverage=0, ROUGE-1=0.2234, ROUGE-2=0.0215, ROUGE-L=0.1277
+2025-09-20 11:40:48,895 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,900 [INFO] Evaluated idx=290: Coverage=0, ROUGE-1=0.1759, ROUGE-2=0.0505, ROUGE-L=0.1106
+2025-09-20 11:40:48,908 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,913 [INFO] Evaluated idx=291: Coverage=0, ROUGE-1=0.1508, ROUGE-2=0.0449, ROUGE-L=0.1117
+2025-09-20 11:40:48,918 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,921 [INFO] Evaluated idx=292: Coverage=0, ROUGE-1=0.2193, ROUGE-2=0.0796, ROUGE-L=0.1404
+2025-09-20 11:40:48,925 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,927 [INFO] Evaluated idx=293: Coverage=0, ROUGE-1=0.4492, ROUGE-2=0.1622, ROUGE-L=0.2246
+2025-09-20 11:40:48,932 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,935 [INFO] Evaluated idx=294: Coverage=0, ROUGE-1=0.1827, ROUGE-2=0.0680, ROUGE-L=0.1346
+2025-09-20 11:40:48,940 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,944 [INFO] Evaluated idx=295: Coverage=0, ROUGE-1=0.4793, ROUGE-2=0.2167, ROUGE-L=0.2975
+2025-09-20 11:40:48,946 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,948 [INFO] Evaluated idx=296: Coverage=0, ROUGE-1=0.2295, ROUGE-2=0.0500, ROUGE-L=0.1148
+2025-09-20 11:40:48,952 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,954 [INFO] Evaluated idx=297: Coverage=0, ROUGE-1=0.2034, ROUGE-2=0.0686, ROUGE-L=0.1356
+2025-09-20 11:40:48,958 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,960 [INFO] Evaluated idx=298: Coverage=0, ROUGE-1=0.2888, ROUGE-2=0.1081, ROUGE-L=0.1497
+2025-09-20 11:40:48,966 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,969 [INFO] Evaluated idx=299: Coverage=0, ROUGE-1=0.2907, ROUGE-2=0.0622, ROUGE-L=0.1498
+2025-09-20 11:40:48,972 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,974 [INFO] Evaluated idx=300: Coverage=0, ROUGE-1=0.2778, ROUGE-2=0.0563, ROUGE-L=0.1806
+2025-09-20 11:40:48,981 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,985 [INFO] Evaluated idx=301: Coverage=0, ROUGE-1=0.2361, ROUGE-2=0.0594, ROUGE-L=0.1574
+2025-09-20 11:40:48,989 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,991 [INFO] Evaluated idx=302: Coverage=0, ROUGE-1=0.2209, ROUGE-2=0.0353, ROUGE-L=0.1395
+2025-09-20 11:40:48,995 [INFO] Using default tokenizer.
+2025-09-20 11:40:48,997 [INFO] Evaluated idx=303: Coverage=0, ROUGE-1=0.2081, ROUGE-2=0.0819, ROUGE-L=0.1618
+2025-09-20 11:40:49,002 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,005 [INFO] Evaluated idx=304: Coverage=0, ROUGE-1=0.1776, ROUGE-2=0.0283, ROUGE-L=0.1121
+2025-09-20 11:40:49,009 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,011 [INFO] Evaluated idx=305: Coverage=0, ROUGE-1=0.1505, ROUGE-2=0.0326, ROUGE-L=0.1075
+2025-09-20 11:40:49,016 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,019 [INFO] Evaluated idx=306: Coverage=0, ROUGE-1=0.1261, ROUGE-2=0.0424, ROUGE-L=0.0924
+2025-09-20 11:40:49,023 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,026 [INFO] Evaluated idx=307: Coverage=0, ROUGE-1=0.2830, ROUGE-2=0.0762, ROUGE-L=0.1887
+2025-09-20 11:40:49,031 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,033 [INFO] Evaluated idx=308: Coverage=0, ROUGE-1=0.2903, ROUGE-2=0.1413, ROUGE-L=0.2043
+2025-09-20 11:40:49,037 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,040 [INFO] Evaluated idx=309: Coverage=0, ROUGE-1=0.2688, ROUGE-2=0.0543, ROUGE-L=0.1828
+2025-09-20 11:40:49,044 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,047 [INFO] Evaluated idx=310: Coverage=0, ROUGE-1=0.2595, ROUGE-2=0.0656, ROUGE-L=0.1838
+2025-09-20 11:40:49,051 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,054 [INFO] Evaluated idx=311: Coverage=0, ROUGE-1=0.3220, ROUGE-2=0.1379, ROUGE-L=0.2244
+2025-09-20 11:40:49,058 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,060 [INFO] Evaluated idx=312: Coverage=0, ROUGE-1=0.2295, ROUGE-2=0.0773, ROUGE-L=0.1421
+2025-09-20 11:40:49,065 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,069 [INFO] Evaluated idx=313: Coverage=0, ROUGE-1=0.3644, ROUGE-2=0.1538, ROUGE-L=0.2797
+2025-09-20 11:40:49,072 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,074 [INFO] Evaluated idx=314: Coverage=0, ROUGE-1=0.2105, ROUGE-2=0.0933, ROUGE-L=0.1447
+2025-09-20 11:40:49,079 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,082 [INFO] Evaluated idx=315: Coverage=0, ROUGE-1=0.3719, ROUGE-2=0.1417, ROUGE-L=0.2397
+2025-09-20 11:40:49,086 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,088 [INFO] Evaluated idx=316: Coverage=0, ROUGE-1=0.3425, ROUGE-2=0.0833, ROUGE-L=0.1781
+2025-09-20 11:40:49,092 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,094 [INFO] Evaluated idx=317: Coverage=0, ROUGE-1=0.2020, ROUGE-2=0.0816, ROUGE-L=0.1313
+2025-09-20 11:40:49,099 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,101 [INFO] Evaluated idx=318: Coverage=0, ROUGE-1=0.1667, ROUGE-2=0.0594, ROUGE-L=0.1373
+2025-09-20 11:40:49,107 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,111 [INFO] Evaluated idx=319: Coverage=0, ROUGE-1=0.2972, ROUGE-2=0.1296, ROUGE-L=0.2169
+2025-09-20 11:40:49,115 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,117 [INFO] Evaluated idx=320: Coverage=0, ROUGE-1=0.2903, ROUGE-2=0.0652, ROUGE-L=0.1613
+2025-09-20 11:40:49,122 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,124 [INFO] Evaluated idx=321: Coverage=0, ROUGE-1=0.2353, ROUGE-2=0.0792, ROUGE-L=0.1765
+2025-09-20 11:40:49,127 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,128 [INFO] Evaluated idx=322: Coverage=0, ROUGE-1=0.2807, ROUGE-2=0.0179, ROUGE-L=0.1754
+2025-09-20 11:40:49,135 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,138 [INFO] Evaluated idx=323: Coverage=0, ROUGE-1=0.1710, ROUGE-2=0.0375, ROUGE-L=0.1190
+2025-09-20 11:40:49,143 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,144 [INFO] Evaluated idx=324: Coverage=0, ROUGE-1=0.1789, ROUGE-2=0.0426, ROUGE-L=0.1263
+2025-09-20 11:40:49,150 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,152 [INFO] Evaluated idx=325: Coverage=0, ROUGE-1=0.4246, ROUGE-2=0.1582, ROUGE-L=0.2346
+2025-09-20 11:40:49,157 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,159 [INFO] Evaluated idx=326: Coverage=0, ROUGE-1=0.2041, ROUGE-2=0.0928, ROUGE-L=0.1429
+2025-09-20 11:40:49,165 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,169 [INFO] Evaluated idx=327: Coverage=0, ROUGE-1=0.2545, ROUGE-2=0.0366, ROUGE-L=0.1164
+2025-09-20 11:40:49,175 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,178 [INFO] Evaluated idx=328: Coverage=0, ROUGE-1=0.0735, ROUGE-2=0.0370, ROUGE-L=0.0662
+2025-09-20 11:40:49,183 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,187 [INFO] Evaluated idx=329: Coverage=0, ROUGE-1=0.2966, ROUGE-2=0.0940, ROUGE-L=0.1864
+2025-09-20 11:40:49,191 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,194 [INFO] Evaluated idx=330: Coverage=0, ROUGE-1=0.1818, ROUGE-2=0.0000, ROUGE-L=0.0957
+2025-09-20 11:40:49,199 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,202 [INFO] Evaluated idx=331: Coverage=0, ROUGE-1=0.4629, ROUGE-2=0.1674, ROUGE-L=0.2445
+2025-09-20 11:40:49,206 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,209 [INFO] Evaluated idx=332: Coverage=0, ROUGE-1=0.3626, ROUGE-2=0.0710, ROUGE-L=0.1637
+2025-09-20 11:40:49,214 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,218 [INFO] Evaluated idx=333: Coverage=0, ROUGE-1=0.2609, ROUGE-2=0.0797, ROUGE-L=0.1739
+2025-09-20 11:40:49,224 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,230 [INFO] Evaluated idx=334: Coverage=0, ROUGE-1=0.2754, ROUGE-2=0.0660, ROUGE-L=0.1836
+2025-09-20 11:40:49,232 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,233 [INFO] Evaluated idx=335: Coverage=0, ROUGE-1=0.2430, ROUGE-2=0.0762, ROUGE-L=0.1495
+2025-09-20 11:40:49,238 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,242 [INFO] Evaluated idx=336: Coverage=0, ROUGE-1=0.3333, ROUGE-2=0.1345, ROUGE-L=0.2000
+2025-09-20 11:40:49,245 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,246 [INFO] Evaluated idx=337: Coverage=0, ROUGE-1=0.3077, ROUGE-2=0.1094, ROUGE-L=0.2000
+2025-09-20 11:40:49,250 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,252 [INFO] Evaluated idx=338: Coverage=0, ROUGE-1=0.3623, ROUGE-2=0.1912, ROUGE-L=0.2899
+2025-09-20 11:40:49,255 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,256 [INFO] Evaluated idx=339: Coverage=0, ROUGE-1=0.1549, ROUGE-2=0.0857, ROUGE-L=0.1408
+2025-09-20 11:40:49,260 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,262 [INFO] Evaluated idx=340: Coverage=0, ROUGE-1=0.2909, ROUGE-2=0.0613, ROUGE-L=0.1939
+2025-09-20 11:40:49,266 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,269 [INFO] Evaluated idx=341: Coverage=0, ROUGE-1=0.3043, ROUGE-2=0.0989, ROUGE-L=0.1522
+2025-09-20 11:40:49,274 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,275 [INFO] Evaluated idx=342: Coverage=0, ROUGE-1=0.0861, ROUGE-2=0.0386, ROUGE-L=0.0766
+2025-09-20 11:40:49,280 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,282 [INFO] Evaluated idx=343: Coverage=0, ROUGE-1=0.2857, ROUGE-2=0.1444, ROUGE-L=0.1758
+2025-09-20 11:40:49,289 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,294 [INFO] Evaluated idx=344: Coverage=0, ROUGE-1=0.2410, ROUGE-2=0.0656, ROUGE-L=0.1694
+2025-09-20 11:40:49,299 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,301 [INFO] Evaluated idx=345: Coverage=0, ROUGE-1=0.3333, ROUGE-2=0.1250, ROUGE-L=0.2095
+2025-09-20 11:40:49,304 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,306 [INFO] Evaluated idx=346: Coverage=0, ROUGE-1=0.2595, ROUGE-2=0.1395, ROUGE-L=0.1221
+2025-09-20 11:40:49,311 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,313 [INFO] Evaluated idx=347: Coverage=0, ROUGE-1=0.2140, ROUGE-2=0.0376, ROUGE-L=0.0930
+2025-09-20 11:40:49,318 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,321 [INFO] Evaluated idx=348: Coverage=0, ROUGE-1=0.2212, ROUGE-2=0.1250, ROUGE-L=0.1681
+2025-09-20 11:40:49,323 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,325 [INFO] Evaluated idx=349: Coverage=0, ROUGE-1=0.2462, ROUGE-2=0.0312, ROUGE-L=0.1538
+2025-09-20 11:40:49,329 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,331 [INFO] Evaluated idx=350: Coverage=0, ROUGE-1=0.2784, ROUGE-2=0.0937, ROUGE-L=0.2062
+2025-09-20 11:40:49,336 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,338 [INFO] Evaluated idx=351: Coverage=0, ROUGE-1=0.2347, ROUGE-2=0.1237, ROUGE-L=0.1633
+2025-09-20 11:40:49,343 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,347 [INFO] Evaluated idx=352: Coverage=0, ROUGE-1=0.3902, ROUGE-2=0.1281, ROUGE-L=0.1756
+2025-09-20 11:40:49,352 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,355 [INFO] Evaluated idx=353: Coverage=0, ROUGE-1=0.2570, ROUGE-2=0.0972, ROUGE-L=0.1446
+2025-09-20 11:40:49,358 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,360 [INFO] Evaluated idx=354: Coverage=0, ROUGE-1=0.1216, ROUGE-2=0.0411, ROUGE-L=0.1081
+2025-09-20 11:40:49,365 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,367 [INFO] Evaluated idx=355: Coverage=0, ROUGE-1=0.3507, ROUGE-2=0.1244, ROUGE-L=0.1991
+2025-09-20 11:40:49,371 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,373 [INFO] Evaluated idx=356: Coverage=0, ROUGE-1=0.3291, ROUGE-2=0.1282, ROUGE-L=0.2278
+2025-09-20 11:40:49,384 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,391 [INFO] Evaluated idx=357: Coverage=0, ROUGE-1=0.1121, ROUGE-2=0.0544, ROUGE-L=0.0976
+2025-09-20 11:40:49,394 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,395 [INFO] Evaluated idx=358: Coverage=0, ROUGE-1=0.2364, ROUGE-2=0.0926, ROUGE-L=0.1273
+2025-09-20 11:40:49,399 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,401 [INFO] Evaluated idx=359: Coverage=0, ROUGE-1=0.2930, ROUGE-2=0.0774, ROUGE-L=0.1911
+2025-09-20 11:40:49,405 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,407 [INFO] Evaluated idx=360: Coverage=0, ROUGE-1=0.2911, ROUGE-2=0.1667, ROUGE-L=0.1772
+2025-09-20 11:40:49,411 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,414 [INFO] Evaluated idx=361: Coverage=0, ROUGE-1=0.2564, ROUGE-2=0.0725, ROUGE-L=0.1641
+2025-09-20 11:40:49,418 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,420 [INFO] Evaluated idx=362: Coverage=0, ROUGE-1=0.4000, ROUGE-2=0.1734, ROUGE-L=0.2743
+2025-09-20 11:40:49,425 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,428 [INFO] Evaluated idx=363: Coverage=0, ROUGE-1=0.1339, ROUGE-2=0.0450, ROUGE-L=0.0893
+2025-09-20 11:40:49,431 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,432 [INFO] Evaluated idx=364: Coverage=0, ROUGE-1=0.3676, ROUGE-2=0.1642, ROUGE-L=0.2353
+2025-09-20 11:40:49,436 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,438 [INFO] Evaluated idx=365: Coverage=0, ROUGE-1=0.2623, ROUGE-2=0.0110, ROUGE-L=0.1421
+2025-09-20 11:40:49,444 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,446 [INFO] Evaluated idx=366: Coverage=0, ROUGE-1=0.1481, ROUGE-2=0.0664, ROUGE-L=0.1070
+2025-09-20 11:40:49,450 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,451 [INFO] Evaluated idx=367: Coverage=0, ROUGE-1=0.2558, ROUGE-2=0.1529, ROUGE-L=0.2209
+2025-09-20 11:40:49,457 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,460 [INFO] Evaluated idx=368: Coverage=0, ROUGE-1=0.4372, ROUGE-2=0.2857, ROUGE-L=0.3239
+2025-09-20 11:40:49,465 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,468 [INFO] Evaluated idx=369: Coverage=0, ROUGE-1=0.2679, ROUGE-2=0.0773, ROUGE-L=0.1531
+2025-09-20 11:40:49,477 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,482 [INFO] Evaluated idx=370: Coverage=0, ROUGE-1=0.1576, ROUGE-2=0.0792, ROUGE-L=0.1133
+2025-09-20 11:40:49,489 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,492 [INFO] Evaluated idx=371: Coverage=0, ROUGE-1=0.2424, ROUGE-2=0.1069, ROUGE-L=0.1667
+2025-09-20 11:40:49,497 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,499 [INFO] Evaluated idx=372: Coverage=0, ROUGE-1=0.1910, ROUGE-2=0.0568, ROUGE-L=0.1685
+2025-09-20 11:40:49,504 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,506 [INFO] Evaluated idx=373: Coverage=0, ROUGE-1=0.1148, ROUGE-2=0.0248, ROUGE-L=0.0738
+2025-09-20 11:40:49,511 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,513 [INFO] Evaluated idx=374: Coverage=0, ROUGE-1=0.2889, ROUGE-2=0.0337, ROUGE-L=0.1889
+2025-09-20 11:40:49,518 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,521 [INFO] Evaluated idx=375: Coverage=0, ROUGE-1=0.3028, ROUGE-2=0.1296, ROUGE-L=0.2385
+2025-09-20 11:40:49,524 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,526 [INFO] Evaluated idx=376: Coverage=0, ROUGE-1=0.2286, ROUGE-2=0.1304, ROUGE-L=0.1857
+2025-09-20 11:40:49,530 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,532 [INFO] Evaluated idx=377: Coverage=0, ROUGE-1=0.2371, ROUGE-2=0.1458, ROUGE-L=0.1959
+2025-09-20 11:40:49,535 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,536 [INFO] Evaluated idx=378: Coverage=0, ROUGE-1=0.3551, ROUGE-2=0.1714, ROUGE-L=0.2991
+2025-09-20 11:40:49,539 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,540 [INFO] Evaluated idx=379: Coverage=0, ROUGE-1=0.3140, ROUGE-2=0.0840, ROUGE-L=0.1653
+2025-09-20 11:40:49,546 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,547 [INFO] Evaluated idx=380: Coverage=0, ROUGE-1=0.3023, ROUGE-2=0.1647, ROUGE-L=0.2442
+2025-09-20 11:40:49,555 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,558 [INFO] Evaluated idx=381: Coverage=0, ROUGE-1=0.0790, ROUGE-2=0.0183, ROUGE-L=0.0669
+2025-09-20 11:40:49,565 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,568 [INFO] Evaluated idx=382: Coverage=0, ROUGE-1=0.1661, ROUGE-2=0.0655, ROUGE-L=0.1300
+2025-09-20 11:40:49,572 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,574 [INFO] Evaluated idx=383: Coverage=0, ROUGE-1=0.2955, ROUGE-2=0.0805, ROUGE-L=0.1932
+2025-09-20 11:40:49,580 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,583 [INFO] Evaluated idx=384: Coverage=0, ROUGE-1=0.2833, ROUGE-2=0.0693, ROUGE-L=0.1803
+2025-09-20 11:40:49,587 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,589 [INFO] Evaluated idx=385: Coverage=0, ROUGE-1=0.2055, ROUGE-2=0.0417, ROUGE-L=0.0959
+2025-09-20 11:40:49,597 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,601 [INFO] Evaluated idx=386: Coverage=0, ROUGE-1=0.2788, ROUGE-2=0.1037, ROUGE-L=0.1515
+2025-09-20 11:40:49,605 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,607 [INFO] Evaluated idx=387: Coverage=0, ROUGE-1=0.2629, ROUGE-2=0.1272, ROUGE-L=0.2286
+2025-09-20 11:40:49,611 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,614 [INFO] Evaluated idx=388: Coverage=0, ROUGE-1=0.2184, ROUGE-2=0.0814, ROUGE-L=0.1609
+2025-09-20 11:40:49,616 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,617 [INFO] Evaluated idx=389: Coverage=0, ROUGE-1=0.2524, ROUGE-2=0.0396, ROUGE-L=0.2136
+2025-09-20 11:40:49,622 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,624 [INFO] Evaluated idx=390: Coverage=0, ROUGE-1=0.2111, ROUGE-2=0.1320, ROUGE-L=0.1608
+2025-09-20 11:40:49,628 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,630 [INFO] Evaluated idx=391: Coverage=0, ROUGE-1=0.2111, ROUGE-2=0.0609, ROUGE-L=0.1206
+2025-09-20 11:40:49,635 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,637 [INFO] Evaluated idx=392: Coverage=0, ROUGE-1=0.2500, ROUGE-2=0.1319, ROUGE-L=0.1957
+2025-09-20 11:40:49,644 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,650 [INFO] Evaluated idx=393: Coverage=0, ROUGE-1=0.2356, ROUGE-2=0.0669, ROUGE-L=0.1511
+2025-09-20 11:40:49,655 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,658 [INFO] Evaluated idx=394: Coverage=0, ROUGE-1=0.2844, ROUGE-2=0.1256, ROUGE-L=0.1867
+2025-09-20 11:40:49,661 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,663 [INFO] Evaluated idx=395: Coverage=0, ROUGE-1=0.2238, ROUGE-2=0.0284, ROUGE-L=0.1399
+2025-09-20 11:40:49,667 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,669 [INFO] Evaluated idx=396: Coverage=0, ROUGE-1=0.2900, ROUGE-2=0.1010, ROUGE-L=0.1500
+2025-09-20 11:40:49,675 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,678 [INFO] Evaluated idx=397: Coverage=0, ROUGE-1=0.2936, ROUGE-2=0.0926, ROUGE-L=0.1835
+2025-09-20 11:40:49,681 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,683 [INFO] Evaluated idx=398: Coverage=0, ROUGE-1=0.1757, ROUGE-2=0.1096, ROUGE-L=0.1622
+2025-09-20 11:40:49,688 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,690 [INFO] Evaluated idx=399: Coverage=0, ROUGE-1=0.2685, ROUGE-2=0.0935, ROUGE-L=0.1852
+2025-09-20 11:40:49,696 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,699 [INFO] Evaluated idx=400: Coverage=0, ROUGE-1=0.2213, ROUGE-2=0.0992, ROUGE-L=0.1803
+2025-09-20 11:40:49,705 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,709 [INFO] Evaluated idx=401: Coverage=0, ROUGE-1=0.2279, ROUGE-2=0.0815, ROUGE-L=0.1618
+2025-09-20 11:40:49,713 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,716 [INFO] Evaluated idx=402: Coverage=0, ROUGE-1=0.4607, ROUGE-2=0.1587, ROUGE-L=0.2304
+2025-09-20 11:40:49,725 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,729 [INFO] Evaluated idx=403: Coverage=0, ROUGE-1=0.0567, ROUGE-2=0.0052, ROUGE-L=0.0515
+2025-09-20 11:40:49,733 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,735 [INFO] Evaluated idx=404: Coverage=0, ROUGE-1=0.2471, ROUGE-2=0.1548, ROUGE-L=0.1882
+2025-09-20 11:40:49,739 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,740 [INFO] Evaluated idx=405: Coverage=0, ROUGE-1=0.3333, ROUGE-2=0.1129, ROUGE-L=0.2381
+2025-09-20 11:40:49,745 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,746 [INFO] Evaluated idx=406: Coverage=0, ROUGE-1=0.2073, ROUGE-2=0.1111, ROUGE-L=0.1341
+2025-09-20 11:40:49,750 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,753 [INFO] Evaluated idx=407: Coverage=0, ROUGE-1=0.2680, ROUGE-2=0.0729, ROUGE-L=0.1753
+2025-09-20 11:40:49,756 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,758 [INFO] Evaluated idx=408: Coverage=0, ROUGE-1=0.1628, ROUGE-2=0.0000, ROUGE-L=0.1047
+2025-09-20 11:40:49,763 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,766 [INFO] Evaluated idx=409: Coverage=0, ROUGE-1=0.4076, ROUGE-2=0.1340, ROUGE-L=0.2275
+2025-09-20 11:40:49,771 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,774 [INFO] Evaluated idx=410: Coverage=0, ROUGE-1=0.3382, ROUGE-2=0.1268, ROUGE-L=0.2029
+2025-09-20 11:40:49,778 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,780 [INFO] Evaluated idx=411: Coverage=0, ROUGE-1=0.1104, ROUGE-2=0.0248, ROUGE-L=0.0613
+2025-09-20 11:40:49,782 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,784 [INFO] Evaluated idx=412: Coverage=0, ROUGE-1=0.2162, ROUGE-2=0.0550, ROUGE-L=0.1441
+2025-09-20 11:40:49,787 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,788 [INFO] Evaluated idx=413: Coverage=0, ROUGE-1=0.1417, ROUGE-2=0.0480, ROUGE-L=0.0945
+2025-09-20 11:40:49,794 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,797 [INFO] Evaluated idx=414: Coverage=0, ROUGE-1=0.2780, ROUGE-2=0.1012, ROUGE-L=0.1699
+2025-09-20 11:40:49,801 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,803 [INFO] Evaluated idx=415: Coverage=0, ROUGE-1=0.2197, ROUGE-2=0.0585, ROUGE-L=0.1156
+2025-09-20 11:40:49,808 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,810 [INFO] Evaluated idx=416: Coverage=0, ROUGE-1=0.2717, ROUGE-2=0.0989, ROUGE-L=0.1739
+2025-09-20 11:40:49,815 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,817 [INFO] Evaluated idx=417: Coverage=0, ROUGE-1=0.2437, ROUGE-2=0.0718, ROUGE-L=0.1726
+2025-09-20 11:40:49,823 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,825 [INFO] Evaluated idx=418: Coverage=0, ROUGE-1=0.1878, ROUGE-2=0.0576, ROUGE-L=0.1224
+2025-09-20 11:40:49,829 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,831 [INFO] Evaluated idx=419: Coverage=0, ROUGE-1=0.2308, ROUGE-2=0.0519, ROUGE-L=0.1667
+2025-09-20 11:40:49,835 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,837 [INFO] Evaluated idx=420: Coverage=0, ROUGE-1=0.2754, ROUGE-2=0.0485, ROUGE-L=0.1796
+2025-09-20 11:40:49,840 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,843 [INFO] Evaluated idx=421: Coverage=0, ROUGE-1=0.3473, ROUGE-2=0.0970, ROUGE-L=0.2275
+2025-09-20 11:40:49,847 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,850 [INFO] Evaluated idx=422: Coverage=0, ROUGE-1=0.2049, ROUGE-2=0.0493, ROUGE-L=0.1561
+2025-09-20 11:40:49,857 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,860 [INFO] Evaluated idx=423: Coverage=0, ROUGE-1=0.1200, ROUGE-2=0.0268, ROUGE-L=0.0867
+2025-09-20 11:40:49,869 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,872 [INFO] Evaluated idx=424: Coverage=0, ROUGE-1=0.0608, ROUGE-2=0.0509, ROUGE-L=0.0608
+2025-09-20 11:40:49,878 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,881 [INFO] Evaluated idx=425: Coverage=0, ROUGE-1=0.1789, ROUGE-2=0.0410, ROUGE-L=0.1220
+2025-09-20 11:40:49,885 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,887 [INFO] Evaluated idx=426: Coverage=0, ROUGE-1=0.2796, ROUGE-2=0.1304, ROUGE-L=0.1613
+2025-09-20 11:40:49,892 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,895 [INFO] Evaluated idx=427: Coverage=0, ROUGE-1=0.2703, ROUGE-2=0.0636, ROUGE-L=0.1441
+2025-09-20 11:40:49,902 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,906 [INFO] Evaluated idx=428: Coverage=0, ROUGE-1=0.1845, ROUGE-2=0.0719, ROUGE-L=0.1190
+2025-09-20 11:40:49,910 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,912 [INFO] Evaluated idx=429: Coverage=0, ROUGE-1=0.3735, ROUGE-2=0.1707, ROUGE-L=0.2771
+2025-09-20 11:40:49,916 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,918 [INFO] Evaluated idx=430: Coverage=0, ROUGE-1=0.3646, ROUGE-2=0.1788, ROUGE-L=0.2210
+2025-09-20 11:40:49,921 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,923 [INFO] Evaluated idx=431: Coverage=0, ROUGE-1=0.1354, ROUGE-2=0.0947, ROUGE-L=0.1250
+2025-09-20 11:40:49,927 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,929 [INFO] Evaluated idx=432: Coverage=0, ROUGE-1=0.2326, ROUGE-2=0.0471, ROUGE-L=0.1279
+2025-09-20 11:40:49,933 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,935 [INFO] Evaluated idx=433: Coverage=0, ROUGE-1=0.1808, ROUGE-2=0.1257, ROUGE-L=0.1808
+2025-09-20 11:40:49,943 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,948 [INFO] Evaluated idx=434: Coverage=0, ROUGE-1=0.2678, ROUGE-2=0.0714, ROUGE-L=0.1858
+2025-09-20 11:40:49,951 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,953 [INFO] Evaluated idx=435: Coverage=0, ROUGE-1=0.3193, ROUGE-2=0.0513, ROUGE-L=0.1849
+2025-09-20 11:40:49,957 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,960 [INFO] Evaluated idx=436: Coverage=0, ROUGE-1=0.3379, ROUGE-2=0.1843, ROUGE-L=0.2831
+2025-09-20 11:40:49,965 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,967 [INFO] Evaluated idx=437: Coverage=0, ROUGE-1=0.2486, ROUGE-2=0.0914, ROUGE-L=0.1921
+2025-09-20 11:40:49,972 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,974 [INFO] Evaluated idx=438: Coverage=0, ROUGE-1=0.2715, ROUGE-2=0.0731, ROUGE-L=0.1448
+2025-09-20 11:40:49,978 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,980 [INFO] Evaluated idx=439: Coverage=0, ROUGE-1=0.3067, ROUGE-2=0.1863, ROUGE-L=0.2209
+2025-09-20 11:40:49,983 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,984 [INFO] Evaluated idx=440: Coverage=0, ROUGE-1=0.2540, ROUGE-2=0.1129, ROUGE-L=0.1905
+2025-09-20 11:40:49,989 [INFO] Using default tokenizer.
+2025-09-20 11:40:49,992 [INFO] Evaluated idx=441: Coverage=0, ROUGE-1=0.5025, ROUGE-2=0.2090, ROUGE-L=0.3153
+2025-09-20 11:40:49,997 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,000 [INFO] Evaluated idx=442: Coverage=0, ROUGE-1=0.2696, ROUGE-2=0.0526, ROUGE-L=0.1478
+2025-09-20 11:40:50,004 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,006 [INFO] Evaluated idx=443: Coverage=0, ROUGE-1=0.2551, ROUGE-2=0.0515, ROUGE-L=0.1429
+2025-09-20 11:40:50,010 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,013 [INFO] Evaluated idx=444: Coverage=0, ROUGE-1=0.2408, ROUGE-2=0.0635, ROUGE-L=0.1675
+2025-09-20 11:40:50,017 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,020 [INFO] Evaluated idx=445: Coverage=0, ROUGE-1=0.2143, ROUGE-2=0.0928, ROUGE-L=0.1429
+2025-09-20 11:40:50,023 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,024 [INFO] Evaluated idx=446: Coverage=0, ROUGE-1=0.1606, ROUGE-2=0.0593, ROUGE-L=0.1460
+2025-09-20 11:40:50,031 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,035 [INFO] Evaluated idx=447: Coverage=0, ROUGE-1=0.1381, ROUGE-2=0.0423, ROUGE-L=0.0901
+2025-09-20 11:40:50,039 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,041 [INFO] Evaluated idx=448: Coverage=0, ROUGE-1=0.2911, ROUGE-2=0.1410, ROUGE-L=0.2025
+2025-09-20 11:40:50,049 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,054 [INFO] Evaluated idx=449: Coverage=0, ROUGE-1=0.2050, ROUGE-2=0.0390, ROUGE-L=0.1108
+2025-09-20 11:40:50,058 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,060 [INFO] Evaluated idx=450: Coverage=0, ROUGE-1=0.1505, ROUGE-2=0.0652, ROUGE-L=0.1398
+2025-09-20 11:40:50,064 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,067 [INFO] Evaluated idx=451: Coverage=0, ROUGE-1=0.4084, ROUGE-2=0.2011, ROUGE-L=0.2513
+2025-09-20 11:40:50,073 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,076 [INFO] Evaluated idx=452: Coverage=0, ROUGE-1=0.1505, ROUGE-2=0.0650, ROUGE-L=0.1147
+2025-09-20 11:40:50,079 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,081 [INFO] Evaluated idx=453: Coverage=0, ROUGE-1=0.3415, ROUGE-2=0.1653, ROUGE-L=0.2276
+2025-09-20 11:40:50,085 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,087 [INFO] Evaluated idx=454: Coverage=0, ROUGE-1=0.2874, ROUGE-2=0.0727, ROUGE-L=0.1677
+2025-09-20 11:40:50,091 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,093 [INFO] Evaluated idx=455: Coverage=0, ROUGE-1=0.2295, ROUGE-2=0.0884, ROUGE-L=0.1639
+2025-09-20 11:40:50,097 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,099 [INFO] Evaluated idx=456: Coverage=0, ROUGE-1=0.3067, ROUGE-2=0.0621, ROUGE-L=0.2209
+2025-09-20 11:40:50,104 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,106 [INFO] Evaluated idx=457: Coverage=0, ROUGE-1=0.3249, ROUGE-2=0.1744, ROUGE-L=0.2335
+2025-09-20 11:40:50,110 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,113 [INFO] Evaluated idx=458: Coverage=0, ROUGE-1=0.2300, ROUGE-2=0.0101, ROUGE-L=0.1300
+2025-09-20 11:40:50,116 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,117 [INFO] Evaluated idx=459: Coverage=0, ROUGE-1=0.4779, ROUGE-2=0.2162, ROUGE-L=0.3540
+2025-09-20 11:40:50,121 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,123 [INFO] Evaluated idx=460: Coverage=0, ROUGE-1=0.2738, ROUGE-2=0.0482, ROUGE-L=0.1429
+2025-09-20 11:40:50,129 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,133 [INFO] Evaluated idx=461: Coverage=0, ROUGE-1=0.2057, ROUGE-2=0.0357, ROUGE-L=0.1206
+2025-09-20 11:40:50,141 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,145 [INFO] Evaluated idx=462: Coverage=0, ROUGE-1=0.1633, ROUGE-2=0.0293, ROUGE-L=0.1050
+2025-09-20 11:40:50,153 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,158 [INFO] Evaluated idx=463: Coverage=0, ROUGE-1=0.3916, ROUGE-2=0.2061, ROUGE-L=0.2470
+2025-09-20 11:40:50,163 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,166 [INFO] Evaluated idx=464: Coverage=0, ROUGE-1=0.3158, ROUGE-2=0.0870, ROUGE-L=0.1914
+2025-09-20 11:40:50,171 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,174 [INFO] Evaluated idx=465: Coverage=0, ROUGE-1=0.3383, ROUGE-2=0.0905, ROUGE-L=0.1891
+2025-09-20 11:40:50,179 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,181 [INFO] Evaluated idx=466: Coverage=0, ROUGE-1=0.2136, ROUGE-2=0.0294, ROUGE-L=0.1359
+2025-09-20 11:40:50,185 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,187 [INFO] Evaluated idx=467: Coverage=0, ROUGE-1=0.2469, ROUGE-2=0.0375, ROUGE-L=0.1358
+2025-09-20 11:40:50,193 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,196 [INFO] Evaluated idx=468: Coverage=0, ROUGE-1=0.2362, ROUGE-2=0.0952, ROUGE-L=0.1890
+2025-09-20 11:40:50,206 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,210 [INFO] Evaluated idx=469: Coverage=0, ROUGE-1=0.0722, ROUGE-2=0.0227, ROUGE-L=0.0451
+2025-09-20 11:40:50,214 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,216 [INFO] Evaluated idx=470: Coverage=0, ROUGE-1=0.2410, ROUGE-2=0.1220, ROUGE-L=0.1928
+2025-09-20 11:40:50,220 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,222 [INFO] Evaluated idx=471: Coverage=0, ROUGE-1=0.3584, ROUGE-2=0.1754, ROUGE-L=0.2890
+2025-09-20 11:40:50,226 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,228 [INFO] Evaluated idx=472: Coverage=0, ROUGE-1=0.3297, ROUGE-2=0.2222, ROUGE-L=0.1648
+2025-09-20 11:40:50,233 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,236 [INFO] Evaluated idx=473: Coverage=0, ROUGE-1=0.2802, ROUGE-2=0.0780, ROUGE-L=0.1739
+2025-09-20 11:40:50,240 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,242 [INFO] Evaluated idx=474: Coverage=0, ROUGE-1=0.0870, ROUGE-2=0.0440, ROUGE-L=0.0761
+2025-09-20 11:40:50,246 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,248 [INFO] Evaluated idx=475: Coverage=0, ROUGE-1=0.2637, ROUGE-2=0.0889, ROUGE-L=0.1648
+2025-09-20 11:40:50,252 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,254 [INFO] Evaluated idx=476: Coverage=0, ROUGE-1=0.1657, ROUGE-2=0.0670, ROUGE-L=0.1105
+2025-09-20 11:40:50,259 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,261 [INFO] Evaluated idx=477: Coverage=0, ROUGE-1=0.1382, ROUGE-2=0.0465, ROUGE-L=0.1014
+2025-09-20 11:40:50,266 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,268 [INFO] Evaluated idx=478: Coverage=0, ROUGE-1=0.2963, ROUGE-2=0.1402, ROUGE-L=0.2315
+2025-09-20 11:40:50,273 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,275 [INFO] Evaluated idx=479: Coverage=0, ROUGE-1=0.2441, ROUGE-2=0.0948, ROUGE-L=0.1408
+2025-09-20 11:40:50,279 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,281 [INFO] Evaluated idx=480: Coverage=0, ROUGE-1=0.2250, ROUGE-2=0.0759, ROUGE-L=0.1500
+2025-09-20 11:40:50,288 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,291 [INFO] Evaluated idx=481: Coverage=0, ROUGE-1=0.1645, ROUGE-2=0.0397, ROUGE-L=0.1053
+2025-09-20 11:40:50,295 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,297 [INFO] Evaluated idx=482: Coverage=0, ROUGE-1=0.1212, ROUGE-2=0.0859, ROUGE-L=0.1091
+2025-09-20 11:40:50,302 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,304 [INFO] Evaluated idx=483: Coverage=0, ROUGE-1=0.3196, ROUGE-2=0.1014, ROUGE-L=0.1826
+2025-09-20 11:40:50,307 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,309 [INFO] Evaluated idx=484: Coverage=0, ROUGE-1=0.2203, ROUGE-2=0.0345, ROUGE-L=0.1525
+2025-09-20 11:40:50,312 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,313 [INFO] Evaluated idx=485: Coverage=0, ROUGE-1=0.1854, ROUGE-2=0.1074, ROUGE-L=0.1457
+2025-09-20 11:40:50,318 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,321 [INFO] Evaluated idx=486: Coverage=0, ROUGE-1=0.2685, ROUGE-2=0.1028, ROUGE-L=0.1574
+2025-09-20 11:40:50,324 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,325 [INFO] Evaluated idx=487: Coverage=0, ROUGE-1=0.2481, ROUGE-2=0.0630, ROUGE-L=0.1705
+2025-09-20 11:40:50,330 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,333 [INFO] Evaluated idx=488: Coverage=0, ROUGE-1=0.2778, ROUGE-2=0.0467, ROUGE-L=0.1481
+2025-09-20 11:40:50,338 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,341 [INFO] Evaluated idx=489: Coverage=0, ROUGE-1=0.2364, ROUGE-2=0.0550, ROUGE-L=0.1636
+2025-09-20 11:40:50,345 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,347 [INFO] Evaluated idx=490: Coverage=0, ROUGE-1=0.2209, ROUGE-2=0.1176, ROUGE-L=0.1628
+2025-09-20 11:40:50,351 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,353 [INFO] Evaluated idx=491: Coverage=0, ROUGE-1=0.2222, ROUGE-2=0.0592, ROUGE-L=0.1404
+2025-09-20 11:40:50,357 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,359 [INFO] Evaluated idx=492: Coverage=0, ROUGE-1=0.1872, ROUGE-2=0.0597, ROUGE-L=0.1478
+2025-09-20 11:40:50,363 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,365 [INFO] Evaluated idx=493: Coverage=0, ROUGE-1=0.3504, ROUGE-2=0.1037, ROUGE-L=0.2336
+2025-09-20 11:40:50,369 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,370 [INFO] Evaluated idx=494: Coverage=0, ROUGE-1=0.1944, ROUGE-2=0.0986, ROUGE-L=0.1528
+2025-09-20 11:40:50,377 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,380 [INFO] Evaluated idx=495: Coverage=0, ROUGE-1=0.2162, ROUGE-2=0.0884, ROUGE-L=0.1486
+2025-09-20 11:40:50,385 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,387 [INFO] Evaluated idx=496: Coverage=0, ROUGE-1=0.3402, ROUGE-2=0.1667, ROUGE-L=0.2268
+2025-09-20 11:40:50,391 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,393 [INFO] Evaluated idx=497: Coverage=0, ROUGE-1=0.2360, ROUGE-2=0.1136, ROUGE-L=0.1910
+2025-09-20 11:40:50,398 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,401 [INFO] Evaluated idx=498: Coverage=0, ROUGE-1=0.1631, ROUGE-2=0.0606, ROUGE-L=0.1373
+2025-09-20 11:40:50,407 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,411 [INFO] Evaluated idx=499: Coverage=0, ROUGE-1=0.3775, ROUGE-2=0.0648, ROUGE-L=0.2008
+2025-09-20 11:40:50,415 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,417 [INFO] Evaluated idx=500: Coverage=0, ROUGE-1=0.2941, ROUGE-2=0.1190, ROUGE-L=0.2118
+2025-09-20 11:40:50,422 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,425 [INFO] Evaluated idx=501: Coverage=0, ROUGE-1=0.4434, ROUGE-2=0.1810, ROUGE-L=0.2736
+2025-09-20 11:40:50,428 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,430 [INFO] Evaluated idx=502: Coverage=0, ROUGE-1=0.3016, ROUGE-2=0.0161, ROUGE-L=0.1587
+2025-09-20 11:40:50,434 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,438 [INFO] Evaluated idx=503: Coverage=0, ROUGE-1=0.3274, ROUGE-2=0.0714, ROUGE-L=0.2124
+2025-09-20 11:40:50,442 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,444 [INFO] Evaluated idx=504: Coverage=0, ROUGE-1=0.2280, ROUGE-2=0.1047, ROUGE-L=0.1762
+2025-09-20 11:40:50,448 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,450 [INFO] Evaluated idx=505: Coverage=0, ROUGE-1=0.3899, ROUGE-2=0.0892, ROUGE-L=0.2264
+2025-09-20 11:40:50,457 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,460 [INFO] Evaluated idx=506: Coverage=0, ROUGE-1=0.1877, ROUGE-2=0.0218, ROUGE-L=0.1155
+2025-09-20 11:40:50,464 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,466 [INFO] Evaluated idx=507: Coverage=0, ROUGE-1=0.2439, ROUGE-2=0.0617, ROUGE-L=0.1585
+2025-09-20 11:40:50,471 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,474 [INFO] Evaluated idx=508: Coverage=0, ROUGE-1=0.3149, ROUGE-2=0.1631, ROUGE-L=0.2128
+2025-09-20 11:40:50,479 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,481 [INFO] Evaluated idx=509: Coverage=0, ROUGE-1=0.4046, ROUGE-2=0.1637, ROUGE-L=0.2428
+2025-09-20 11:40:50,486 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,488 [INFO] Evaluated idx=510: Coverage=0, ROUGE-1=0.3109, ROUGE-2=0.1152, ROUGE-L=0.2280
+2025-09-20 11:40:50,493 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,496 [INFO] Evaluated idx=511: Coverage=0, ROUGE-1=0.2797, ROUGE-2=0.0769, ROUGE-L=0.1610
+2025-09-20 11:40:50,500 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,503 [INFO] Evaluated idx=512: Coverage=0, ROUGE-1=0.2660, ROUGE-2=0.0215, ROUGE-L=0.1277
+2025-09-20 11:40:50,509 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,513 [INFO] Evaluated idx=513: Coverage=0, ROUGE-1=0.4080, ROUGE-2=0.1371, ROUGE-L=0.2400
+2025-09-20 11:40:50,518 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,522 [INFO] Evaluated idx=514: Coverage=0, ROUGE-1=0.3431, ROUGE-2=0.1013, ROUGE-L=0.1925
+2025-09-20 11:40:50,526 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,528 [INFO] Evaluated idx=515: Coverage=0, ROUGE-1=0.2857, ROUGE-2=0.1384, ROUGE-L=0.2236
+2025-09-20 11:40:50,532 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,535 [INFO] Evaluated idx=516: Coverage=0, ROUGE-1=0.2673, ROUGE-2=0.0744, ROUGE-L=0.1659
+2025-09-20 11:40:50,539 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,541 [INFO] Evaluated idx=517: Coverage=0, ROUGE-1=0.3333, ROUGE-2=0.1395, ROUGE-L=0.2069
+2025-09-20 11:40:50,545 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,547 [INFO] Evaluated idx=518: Coverage=0, ROUGE-1=0.1667, ROUGE-2=0.0316, ROUGE-L=0.1354
+2025-09-20 11:40:50,551 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,553 [INFO] Evaluated idx=519: Coverage=0, ROUGE-1=0.2249, ROUGE-2=0.0359, ROUGE-L=0.1065
+2025-09-20 11:40:50,559 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,562 [INFO] Evaluated idx=520: Coverage=0, ROUGE-1=0.2085, ROUGE-2=0.0856, ROUGE-L=0.1313
+2025-09-20 11:40:50,568 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,571 [INFO] Evaluated idx=521: Coverage=0, ROUGE-1=0.2787, ROUGE-2=0.0992, ROUGE-L=0.1803
+2025-09-20 11:40:50,575 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,577 [INFO] Evaluated idx=522: Coverage=0, ROUGE-1=0.1860, ROUGE-2=0.0706, ROUGE-L=0.1395
+2025-09-20 11:40:50,580 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,582 [INFO] Evaluated idx=523: Coverage=0, ROUGE-1=0.4800, ROUGE-2=0.2764, ROUGE-L=0.4320
+2025-09-20 11:40:50,586 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,588 [INFO] Evaluated idx=524: Coverage=0, ROUGE-1=0.2971, ROUGE-2=0.1156, ROUGE-L=0.2400
+2025-09-20 11:40:50,593 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,595 [INFO] Evaluated idx=525: Coverage=0, ROUGE-1=0.0860, ROUGE-2=0.0217, ROUGE-L=0.0753
+2025-09-20 11:40:50,598 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,600 [INFO] Evaluated idx=526: Coverage=0, ROUGE-1=0.3436, ROUGE-2=0.0373, ROUGE-L=0.1840
+2025-09-20 11:40:50,606 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,609 [INFO] Evaluated idx=527: Coverage=0, ROUGE-1=0.2591, ROUGE-2=0.0898, ROUGE-L=0.1457
+2025-09-20 11:40:50,613 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,615 [INFO] Evaluated idx=528: Coverage=0, ROUGE-1=0.2235, ROUGE-2=0.0238, ROUGE-L=0.1412
+2025-09-20 11:40:50,619 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,621 [INFO] Evaluated idx=529: Coverage=0, ROUGE-1=0.3171, ROUGE-2=0.1235, ROUGE-L=0.1951
+2025-09-20 11:40:50,628 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,631 [INFO] Evaluated idx=530: Coverage=0, ROUGE-1=0.0864, ROUGE-2=0.0134, ROUGE-L=0.0598
+2025-09-20 11:40:50,635 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,638 [INFO] Evaluated idx=531: Coverage=0, ROUGE-1=0.1627, ROUGE-2=0.0483, ROUGE-L=0.1435
+2025-09-20 11:40:50,643 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,645 [INFO] Evaluated idx=532: Coverage=0, ROUGE-1=0.2718, ROUGE-2=0.1176, ROUGE-L=0.2330
+2025-09-20 11:40:50,652 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,655 [INFO] Evaluated idx=533: Coverage=0, ROUGE-1=0.1364, ROUGE-2=0.0611, ROUGE-L=0.1136
+2025-09-20 11:40:50,659 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,661 [INFO] Evaluated idx=534: Coverage=0, ROUGE-1=0.3500, ROUGE-2=0.1392, ROUGE-L=0.2625
+2025-09-20 11:40:50,667 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,669 [INFO] Evaluated idx=535: Coverage=0, ROUGE-1=0.1429, ROUGE-2=0.0450, ROUGE-L=0.1071
+2025-09-20 11:40:50,674 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,677 [INFO] Evaluated idx=536: Coverage=0, ROUGE-1=0.3182, ROUGE-2=0.0734, ROUGE-L=0.1636
+2025-09-20 11:40:50,681 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,682 [INFO] Evaluated idx=537: Coverage=0, ROUGE-1=0.2452, ROUGE-2=0.0915, ROUGE-L=0.2065
+2025-09-20 11:40:50,686 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,688 [INFO] Evaluated idx=538: Coverage=0, ROUGE-1=0.2527, ROUGE-2=0.1111, ROUGE-L=0.1648
+2025-09-20 11:40:50,696 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,699 [INFO] Evaluated idx=539: Coverage=0, ROUGE-1=0.0946, ROUGE-2=0.0127, ROUGE-L=0.0757
+2025-09-20 11:40:50,704 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,707 [INFO] Evaluated idx=540: Coverage=0, ROUGE-1=0.3911, ROUGE-2=0.1704, ROUGE-L=0.2222
+2025-09-20 11:40:50,711 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,712 [INFO] Evaluated idx=541: Coverage=0, ROUGE-1=0.2994, ROUGE-2=0.1818, ROUGE-L=0.2395
+2025-09-20 11:40:50,717 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,720 [INFO] Evaluated idx=542: Coverage=0, ROUGE-1=0.1461, ROUGE-2=0.0369, ROUGE-L=0.1096
+2025-09-20 11:40:50,723 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,725 [INFO] Evaluated idx=543: Coverage=0, ROUGE-1=0.3012, ROUGE-2=0.1098, ROUGE-L=0.1928
+2025-09-20 11:40:50,728 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,730 [INFO] Evaluated idx=544: Coverage=0, ROUGE-1=0.2446, ROUGE-2=0.1168, ROUGE-L=0.1295
+2025-09-20 11:40:50,734 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,736 [INFO] Evaluated idx=545: Coverage=0, ROUGE-1=0.3735, ROUGE-2=0.1585, ROUGE-L=0.2410
+2025-09-20 11:40:50,739 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,741 [INFO] Evaluated idx=546: Coverage=0, ROUGE-1=0.3359, ROUGE-2=0.0930, ROUGE-L=0.1985
+2025-09-20 11:40:50,747 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,752 [INFO] Evaluated idx=547: Coverage=0, ROUGE-1=0.1631, ROUGE-2=0.0486, ROUGE-L=0.1269
+2025-09-20 11:40:50,757 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,759 [INFO] Evaluated idx=548: Coverage=0, ROUGE-1=0.2936, ROUGE-2=0.0463, ROUGE-L=0.1743
+2025-09-20 11:40:50,764 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,767 [INFO] Evaluated idx=549: Coverage=0, ROUGE-1=0.2911, ROUGE-2=0.0664, ROUGE-L=0.1784
+2025-09-20 11:40:50,773 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,776 [INFO] Evaluated idx=550: Coverage=0, ROUGE-1=0.1290, ROUGE-2=0.0081, ROUGE-L=0.0726
+2025-09-20 11:40:50,781 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,784 [INFO] Evaluated idx=551: Coverage=0, ROUGE-1=0.3550, ROUGE-2=0.1659, ROUGE-L=0.2078
+2025-09-20 11:40:50,791 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,795 [INFO] Evaluated idx=552: Coverage=0, ROUGE-1=0.2256, ROUGE-2=0.0909, ROUGE-L=0.1729
+2025-09-20 11:40:50,799 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,801 [INFO] Evaluated idx=553: Coverage=0, ROUGE-1=0.1905, ROUGE-2=0.1176, ROUGE-L=0.1799
+2025-09-20 11:40:50,809 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,814 [INFO] Evaluated idx=554: Coverage=0, ROUGE-1=0.3158, ROUGE-2=0.0941, ROUGE-L=0.1228
+2025-09-20 11:40:50,818 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,820 [INFO] Evaluated idx=555: Coverage=0, ROUGE-1=0.2920, ROUGE-2=0.0741, ROUGE-L=0.1606
+2025-09-20 11:40:50,824 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,827 [INFO] Evaluated idx=556: Coverage=0, ROUGE-1=0.3351, ROUGE-2=0.0765, ROUGE-L=0.2162
+2025-09-20 11:40:50,835 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,838 [INFO] Evaluated idx=557: Coverage=0, ROUGE-1=0.2708, ROUGE-2=0.0909, ROUGE-L=0.1458
+2025-09-20 11:40:50,843 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,847 [INFO] Evaluated idx=558: Coverage=0, ROUGE-1=0.2318, ROUGE-2=0.1385, ROUGE-L=0.2060
+2025-09-20 11:40:50,851 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,854 [INFO] Evaluated idx=559: Coverage=0, ROUGE-1=0.2640, ROUGE-2=0.0308, ROUGE-L=0.1320
+2025-09-20 11:40:50,858 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,860 [INFO] Evaluated idx=560: Coverage=0, ROUGE-1=0.1515, ROUGE-2=0.0408, ROUGE-L=0.0808
+2025-09-20 11:40:50,866 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,869 [INFO] Evaluated idx=561: Coverage=0, ROUGE-1=0.2151, ROUGE-2=0.0562, ROUGE-L=0.1434
+2025-09-20 11:40:50,873 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,875 [INFO] Evaluated idx=562: Coverage=0, ROUGE-1=0.1376, ROUGE-2=0.0321, ROUGE-L=0.1058
+2025-09-20 11:40:50,879 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,882 [INFO] Evaluated idx=563: Coverage=0, ROUGE-1=0.4444, ROUGE-2=0.1711, ROUGE-L=0.2328
+2025-09-20 11:40:50,886 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,888 [INFO] Evaluated idx=564: Coverage=0, ROUGE-1=0.2147, ROUGE-2=0.0000, ROUGE-L=0.1017
+2025-09-20 11:40:50,893 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,896 [INFO] Evaluated idx=565: Coverage=0, ROUGE-1=0.3223, ROUGE-2=0.1053, ROUGE-L=0.1991
+2025-09-20 11:40:50,900 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,909 [INFO] Evaluated idx=566: Coverage=0, ROUGE-1=0.2875, ROUGE-2=0.0506, ROUGE-L=0.1625
+2025-09-20 11:40:50,914 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,918 [INFO] Evaluated idx=567: Coverage=0, ROUGE-1=0.1293, ROUGE-2=0.0174, ROUGE-L=0.1207
+2025-09-20 11:40:50,922 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,924 [INFO] Evaluated idx=568: Coverage=0, ROUGE-1=0.3246, ROUGE-2=0.1481, ROUGE-L=0.2094
+2025-09-20 11:40:50,928 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,930 [INFO] Evaluated idx=569: Coverage=0, ROUGE-1=0.2236, ROUGE-2=0.0629, ROUGE-L=0.1615
+2025-09-20 11:40:50,934 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,936 [INFO] Evaluated idx=570: Coverage=0, ROUGE-1=0.3778, ROUGE-2=0.1348, ROUGE-L=0.2111
+2025-09-20 11:40:50,939 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,940 [INFO] Evaluated idx=571: Coverage=0, ROUGE-1=0.1034, ROUGE-2=0.0175, ROUGE-L=0.0862
+2025-09-20 11:40:50,943 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,945 [INFO] Evaluated idx=572: Coverage=0, ROUGE-1=0.2553, ROUGE-2=0.1007, ROUGE-L=0.1844
+2025-09-20 11:40:50,949 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,951 [INFO] Evaluated idx=573: Coverage=0, ROUGE-1=0.1830, ROUGE-2=0.1457, ROUGE-L=0.1699
+2025-09-20 11:40:50,955 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,958 [INFO] Evaluated idx=574: Coverage=0, ROUGE-1=0.1698, ROUGE-2=0.0571, ROUGE-L=0.1226
+2025-09-20 11:40:50,962 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,964 [INFO] Evaluated idx=575: Coverage=0, ROUGE-1=0.1875, ROUGE-2=0.0632, ROUGE-L=0.1250
+2025-09-20 11:40:50,970 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,973 [INFO] Evaluated idx=576: Coverage=0, ROUGE-1=0.1969, ROUGE-2=0.0556, ROUGE-L=0.1102
+2025-09-20 11:40:50,979 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,982 [INFO] Evaluated idx=577: Coverage=0, ROUGE-1=0.3587, ROUGE-2=0.1538, ROUGE-L=0.2422
+2025-09-20 11:40:50,988 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,992 [INFO] Evaluated idx=578: Coverage=0, ROUGE-1=0.1346, ROUGE-2=0.0323, ROUGE-L=0.0962
+2025-09-20 11:40:50,996 [INFO] Using default tokenizer.
+2025-09-20 11:40:50,998 [INFO] Evaluated idx=579: Coverage=0, ROUGE-1=0.1695, ROUGE-2=0.0914, ROUGE-L=0.1243
+2025-09-20 11:40:51,003 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,005 [INFO] Evaluated idx=580: Coverage=0, ROUGE-1=0.1935, ROUGE-2=0.0870, ROUGE-L=0.1720
+2025-09-20 11:40:51,008 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,010 [INFO] Evaluated idx=581: Coverage=0, ROUGE-1=0.1739, ROUGE-2=0.0629, ROUGE-L=0.1739
+2025-09-20 11:40:51,015 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,017 [INFO] Evaluated idx=582: Coverage=0, ROUGE-1=0.2816, ROUGE-2=0.0294, ROUGE-L=0.1359
+2025-09-20 11:40:51,022 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,024 [INFO] Evaluated idx=583: Coverage=0, ROUGE-1=0.2486, ROUGE-2=0.0874, ROUGE-L=0.1838
+2025-09-20 11:40:51,028 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,030 [INFO] Evaluated idx=584: Coverage=0, ROUGE-1=0.2128, ROUGE-2=0.0538, ROUGE-L=0.1383
+2025-09-20 11:40:51,037 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,042 [INFO] Evaluated idx=585: Coverage=0, ROUGE-1=0.2874, ROUGE-2=0.1593, ROUGE-L=0.2111
+2025-09-20 11:40:51,046 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,047 [INFO] Evaluated idx=586: Coverage=0, ROUGE-1=0.2821, ROUGE-2=0.1299, ROUGE-L=0.2051
+2025-09-20 11:40:51,050 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,052 [INFO] Evaluated idx=587: Coverage=0, ROUGE-1=0.3056, ROUGE-2=0.1408, ROUGE-L=0.2361
+2025-09-20 11:40:51,054 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,055 [INFO] Evaluated idx=588: Coverage=0, ROUGE-1=0.3400, ROUGE-2=0.2041, ROUGE-L=0.3000
+2025-09-20 11:40:51,060 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,063 [INFO] Evaluated idx=589: Coverage=0, ROUGE-1=0.4040, ROUGE-2=0.1633, ROUGE-L=0.2121
+2025-09-20 11:40:51,068 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,070 [INFO] Evaluated idx=590: Coverage=0, ROUGE-1=0.2190, ROUGE-2=0.0769, ROUGE-L=0.1810
+2025-09-20 11:40:51,073 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,074 [INFO] Evaluated idx=591: Coverage=0, ROUGE-1=0.1746, ROUGE-2=0.0645, ROUGE-L=0.1587
+2025-09-20 11:40:51,077 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,078 [INFO] Evaluated idx=592: Coverage=0, ROUGE-1=0.4628, ROUGE-2=0.2017, ROUGE-L=0.2975
+2025-09-20 11:40:51,084 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,087 [INFO] Evaluated idx=593: Coverage=0, ROUGE-1=0.3153, ROUGE-2=0.1364, ROUGE-L=0.2162
+2025-09-20 11:40:51,091 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,094 [INFO] Evaluated idx=594: Coverage=0, ROUGE-1=0.2692, ROUGE-2=0.1068, ROUGE-L=0.2212
+2025-09-20 11:40:51,097 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,099 [INFO] Evaluated idx=595: Coverage=0, ROUGE-1=0.1988, ROUGE-2=0.0503, ROUGE-L=0.1366
+2025-09-20 11:40:51,103 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,106 [INFO] Evaluated idx=596: Coverage=0, ROUGE-1=0.2500, ROUGE-2=0.0526, ROUGE-L=0.1354
+2025-09-20 11:40:51,109 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,110 [INFO] Evaluated idx=597: Coverage=0, ROUGE-1=0.3333, ROUGE-2=0.0755, ROUGE-L=0.2593
+2025-09-20 11:40:51,113 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,114 [INFO] Evaluated idx=598: Coverage=0, ROUGE-1=0.3016, ROUGE-2=0.1935, ROUGE-L=0.2381
+2025-09-20 11:40:51,121 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,125 [INFO] Evaluated idx=599: Coverage=0, ROUGE-1=0.2126, ROUGE-2=0.0535, ROUGE-L=0.1262
+2025-09-20 11:40:51,130 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,133 [INFO] Evaluated idx=600: Coverage=0, ROUGE-1=0.4706, ROUGE-2=0.1838, ROUGE-L=0.2246
+2025-09-20 11:40:51,137 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,139 [INFO] Evaluated idx=601: Coverage=0, ROUGE-1=0.3713, ROUGE-2=0.0727, ROUGE-L=0.2036
+2025-09-20 11:40:51,142 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,143 [INFO] Evaluated idx=602: Coverage=0, ROUGE-1=0.1765, ROUGE-2=0.0448, ROUGE-L=0.1324
+2025-09-20 11:40:51,148 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,149 [INFO] Evaluated idx=603: Coverage=0, ROUGE-1=0.1618, ROUGE-2=0.0585, ROUGE-L=0.0925
+2025-09-20 11:40:51,154 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,157 [INFO] Evaluated idx=604: Coverage=0, ROUGE-1=0.2857, ROUGE-2=0.0498, ROUGE-L=0.1576
+2025-09-20 11:40:51,161 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,164 [INFO] Evaluated idx=605: Coverage=0, ROUGE-1=0.2430, ROUGE-2=0.0849, ROUGE-L=0.1776
+2025-09-20 11:40:51,168 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,169 [INFO] Evaluated idx=606: Coverage=0, ROUGE-1=0.3086, ROUGE-2=0.1125, ROUGE-L=0.1605
+2025-09-20 11:40:51,175 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,177 [INFO] Evaluated idx=607: Coverage=0, ROUGE-1=0.1852, ROUGE-2=0.0841, ROUGE-L=0.1574
+2025-09-20 11:40:51,183 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,186 [INFO] Evaluated idx=608: Coverage=0, ROUGE-1=0.2903, ROUGE-2=0.0488, ROUGE-L=0.1613
+2025-09-20 11:40:51,190 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,192 [INFO] Evaluated idx=609: Coverage=0, ROUGE-1=0.2706, ROUGE-2=0.1548, ROUGE-L=0.1647
+2025-09-20 11:40:51,195 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,197 [INFO] Evaluated idx=610: Coverage=0, ROUGE-1=0.2857, ROUGE-2=0.1449, ROUGE-L=0.2000
+2025-09-20 11:40:51,201 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,203 [INFO] Evaluated idx=611: Coverage=0, ROUGE-1=0.1818, ROUGE-2=0.0575, ROUGE-L=0.1591
+2025-09-20 11:40:51,208 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,209 [INFO] Evaluated idx=612: Coverage=0, ROUGE-1=0.1969, ROUGE-2=0.0838, ROUGE-L=0.1658
+2025-09-20 11:40:51,214 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,216 [INFO] Evaluated idx=613: Coverage=0, ROUGE-1=0.2653, ROUGE-2=0.0619, ROUGE-L=0.1837
+2025-09-20 11:40:51,220 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,221 [INFO] Evaluated idx=614: Coverage=0, ROUGE-1=0.2192, ROUGE-2=0.1250, ROUGE-L=0.1644
+2025-09-20 11:40:51,224 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,225 [INFO] Evaluated idx=615: Coverage=0, ROUGE-1=0.2321, ROUGE-2=0.0545, ROUGE-L=0.1607
+2025-09-20 11:40:51,231 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,233 [INFO] Evaluated idx=616: Coverage=0, ROUGE-1=0.3302, ROUGE-2=0.2095, ROUGE-L=0.2358
+2025-09-20 11:40:51,237 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,239 [INFO] Evaluated idx=617: Coverage=0, ROUGE-1=0.3333, ROUGE-2=0.2169, ROUGE-L=0.2738
+2025-09-20 11:40:51,249 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,255 [INFO] Evaluated idx=618: Coverage=0, ROUGE-1=0.1389, ROUGE-2=0.0512, ROUGE-L=0.0926
+2025-09-20 11:40:51,258 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,260 [INFO] Evaluated idx=619: Coverage=0, ROUGE-1=0.1606, ROUGE-2=0.0889, ROUGE-L=0.1314
+2025-09-20 11:40:51,262 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,264 [INFO] Evaluated idx=620: Coverage=0, ROUGE-1=0.2667, ROUGE-2=0.0339, ROUGE-L=0.1333
+2025-09-20 11:40:51,273 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,279 [INFO] Evaluated idx=621: Coverage=0, ROUGE-1=0.1776, ROUGE-2=0.1127, ROUGE-L=0.1449
+2025-09-20 11:40:51,284 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,286 [INFO] Evaluated idx=622: Coverage=0, ROUGE-1=0.2277, ROUGE-2=0.0600, ROUGE-L=0.1287
+2025-09-20 11:40:51,291 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,294 [INFO] Evaluated idx=623: Coverage=0, ROUGE-1=0.2445, ROUGE-2=0.0793, ROUGE-L=0.1397
+2025-09-20 11:40:51,297 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,298 [INFO] Evaluated idx=624: Coverage=0, ROUGE-1=0.1739, ROUGE-2=0.0354, ROUGE-L=0.0870
+2025-09-20 11:40:51,305 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,308 [INFO] Evaluated idx=625: Coverage=0, ROUGE-1=0.3203, ROUGE-2=0.0717, ROUGE-L=0.1993
+2025-09-20 11:40:51,311 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,312 [INFO] Evaluated idx=626: Coverage=0, ROUGE-1=0.2443, ROUGE-2=0.0620, ROUGE-L=0.1527
+2025-09-20 11:40:51,316 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,318 [INFO] Evaluated idx=627: Coverage=0, ROUGE-1=0.2667, ROUGE-2=0.1622, ROUGE-L=0.1467
+2025-09-20 11:40:51,322 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,325 [INFO] Evaluated idx=628: Coverage=0, ROUGE-1=0.2083, ROUGE-2=0.0632, ROUGE-L=0.1354
+2025-09-20 11:40:51,329 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,332 [INFO] Evaluated idx=629: Coverage=0, ROUGE-1=0.1518, ROUGE-2=0.0180, ROUGE-L=0.0804
+2025-09-20 11:40:51,337 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,340 [INFO] Evaluated idx=630: Coverage=0, ROUGE-1=0.1702, ROUGE-2=0.0601, ROUGE-L=0.1362
+2025-09-20 11:40:51,349 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,352 [INFO] Evaluated idx=631: Coverage=0, ROUGE-1=0.0712, ROUGE-2=0.0386, ROUGE-L=0.0712
+2025-09-20 11:40:51,356 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,359 [INFO] Evaluated idx=632: Coverage=0, ROUGE-1=0.3147, ROUGE-2=0.1026, ROUGE-L=0.1624
+2025-09-20 11:40:51,364 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,366 [INFO] Evaluated idx=633: Coverage=0, ROUGE-1=0.1949, ROUGE-2=0.0622, ROUGE-L=0.1128
+2025-09-20 11:40:51,370 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,371 [INFO] Evaluated idx=634: Coverage=0, ROUGE-1=0.1931, ROUGE-2=0.0839, ROUGE-L=0.1655
+2025-09-20 11:40:51,375 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,376 [INFO] Evaluated idx=635: Coverage=0, ROUGE-1=0.1695, ROUGE-2=0.0800, ROUGE-L=0.1356
+2025-09-20 11:40:51,380 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,383 [INFO] Evaluated idx=636: Coverage=0, ROUGE-1=0.3370, ROUGE-2=0.0769, ROUGE-L=0.1522
+2025-09-20 11:40:51,388 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,390 [INFO] Evaluated idx=637: Coverage=0, ROUGE-1=0.2358, ROUGE-2=0.0476, ROUGE-L=0.1415
+2025-09-20 11:40:51,395 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,397 [INFO] Evaluated idx=638: Coverage=0, ROUGE-1=0.1126, ROUGE-2=0.0699, ROUGE-L=0.0866
+2025-09-20 11:40:51,401 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,402 [INFO] Evaluated idx=639: Coverage=0, ROUGE-1=0.2817, ROUGE-2=0.0429, ROUGE-L=0.1549
+2025-09-20 11:40:51,407 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,410 [INFO] Evaluated idx=640: Coverage=0, ROUGE-1=0.2464, ROUGE-2=0.0383, ROUGE-L=0.1327
+2025-09-20 11:40:51,413 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,415 [INFO] Evaluated idx=641: Coverage=0, ROUGE-1=0.3259, ROUGE-2=0.0902, ROUGE-L=0.2074
+2025-09-20 11:40:51,418 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,420 [INFO] Evaluated idx=642: Coverage=0, ROUGE-1=0.3306, ROUGE-2=0.1176, ROUGE-L=0.2149
+2025-09-20 11:40:51,424 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,426 [INFO] Evaluated idx=643: Coverage=0, ROUGE-1=0.2667, ROUGE-2=0.0899, ROUGE-L=0.1889
+2025-09-20 11:40:51,429 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,431 [INFO] Evaluated idx=644: Coverage=0, ROUGE-1=0.1879, ROUGE-2=0.0000, ROUGE-L=0.1342
+2025-09-20 11:40:51,437 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,440 [INFO] Evaluated idx=645: Coverage=0, ROUGE-1=0.3149, ROUGE-2=0.1373, ROUGE-L=0.2213
+2025-09-20 11:40:51,446 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,450 [INFO] Evaluated idx=646: Coverage=0, ROUGE-1=0.2199, ROUGE-2=0.1038, ROUGE-L=0.1443
+2025-09-20 11:40:51,456 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,459 [INFO] Evaluated idx=647: Coverage=0, ROUGE-1=0.2094, ROUGE-2=0.1455, ROUGE-L=0.1661
+2025-09-20 11:40:51,463 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,465 [INFO] Evaluated idx=648: Coverage=0, ROUGE-1=0.3030, ROUGE-2=0.0982, ROUGE-L=0.2061
+2025-09-20 11:40:51,472 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,476 [INFO] Evaluated idx=649: Coverage=0, ROUGE-1=0.5199, ROUGE-2=0.2400, ROUGE-L=0.3249
+2025-09-20 11:40:51,481 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,483 [INFO] Evaluated idx=650: Coverage=0, ROUGE-1=0.2146, ROUGE-2=0.0493, ROUGE-L=0.1463
+2025-09-20 11:40:51,489 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,491 [INFO] Evaluated idx=651: Coverage=0, ROUGE-1=0.2793, ROUGE-2=0.1273, ROUGE-L=0.2252
+2025-09-20 11:40:51,496 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,498 [INFO] Evaluated idx=652: Coverage=0, ROUGE-1=0.0897, ROUGE-2=0.0181, ROUGE-L=0.0628
+2025-09-20 11:40:51,502 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,504 [INFO] Evaluated idx=653: Coverage=0, ROUGE-1=0.2182, ROUGE-2=0.1104, ROUGE-L=0.1333
+2025-09-20 11:40:51,508 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,510 [INFO] Evaluated idx=654: Coverage=0, ROUGE-1=0.4444, ROUGE-2=0.1987, ROUGE-L=0.3399
+2025-09-20 11:40:51,513 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,516 [INFO] Evaluated idx=655: Coverage=0, ROUGE-1=0.2581, ROUGE-2=0.0435, ROUGE-L=0.1398
+2025-09-20 11:40:51,520 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,522 [INFO] Evaluated idx=656: Coverage=0, ROUGE-1=0.3522, ROUGE-2=0.1529, ROUGE-L=0.1887
+2025-09-20 11:40:51,526 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,527 [INFO] Evaluated idx=657: Coverage=0, ROUGE-1=0.1655, ROUGE-2=0.1119, ROUGE-L=0.1379
+2025-09-20 11:40:51,536 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,542 [INFO] Evaluated idx=658: Coverage=0, ROUGE-1=0.2593, ROUGE-2=0.0904, ROUGE-L=0.1376
+2025-09-20 11:40:51,545 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,546 [INFO] Evaluated idx=659: Coverage=0, ROUGE-1=0.2416, ROUGE-2=0.0952, ROUGE-L=0.1879
+2025-09-20 11:40:51,550 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,552 [INFO] Evaluated idx=660: Coverage=0, ROUGE-1=0.2250, ROUGE-2=0.0380, ROUGE-L=0.1250
+2025-09-20 11:40:51,555 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,556 [INFO] Evaluated idx=661: Coverage=0, ROUGE-1=0.2698, ROUGE-2=0.0645, ROUGE-L=0.2222
+2025-09-20 11:40:51,559 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,560 [INFO] Evaluated idx=662: Coverage=0, ROUGE-1=0.2632, ROUGE-2=0.1607, ROUGE-L=0.2281
+2025-09-20 11:40:51,565 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,568 [INFO] Evaluated idx=663: Coverage=0, ROUGE-1=0.2475, ROUGE-2=0.0600, ROUGE-L=0.1584
+2025-09-20 11:40:51,571 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,572 [INFO] Evaluated idx=664: Coverage=0, ROUGE-1=0.3407, ROUGE-2=0.2707, ROUGE-L=0.2815
+2025-09-20 11:40:51,580 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,584 [INFO] Evaluated idx=665: Coverage=0, ROUGE-1=0.1447, ROUGE-2=0.0596, ROUGE-L=0.1184
+2025-09-20 11:40:51,588 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,591 [INFO] Evaluated idx=666: Coverage=0, ROUGE-1=0.1619, ROUGE-2=0.0192, ROUGE-L=0.1143
+2025-09-20 11:40:51,595 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,597 [INFO] Evaluated idx=667: Coverage=0, ROUGE-1=0.3152, ROUGE-2=0.0982, ROUGE-L=0.2182
+2025-09-20 11:40:51,602 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,604 [INFO] Evaluated idx=668: Coverage=0, ROUGE-1=0.1810, ROUGE-2=0.0577, ROUGE-L=0.1048
+2025-09-20 11:40:51,607 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,609 [INFO] Evaluated idx=669: Coverage=0, ROUGE-1=0.3115, ROUGE-2=0.1167, ROUGE-L=0.2459
+2025-09-20 11:40:51,612 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,613 [INFO] Evaluated idx=670: Coverage=0, ROUGE-1=0.2879, ROUGE-2=0.1077, ROUGE-L=0.2273
+2025-09-20 11:40:51,617 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,618 [INFO] Evaluated idx=671: Coverage=0, ROUGE-1=0.1887, ROUGE-2=0.1146, ROUGE-L=0.1635
+2025-09-20 11:40:51,623 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,627 [INFO] Evaluated idx=672: Coverage=0, ROUGE-1=0.3727, ROUGE-2=0.1193, ROUGE-L=0.2091
+2025-09-20 11:40:51,632 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,634 [INFO] Evaluated idx=673: Coverage=0, ROUGE-1=0.3069, ROUGE-2=0.1070, ROUGE-L=0.1905
+2025-09-20 11:40:51,638 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,641 [INFO] Evaluated idx=674: Coverage=0, ROUGE-1=0.2268, ROUGE-2=0.0938, ROUGE-L=0.1649
+2025-09-20 11:40:51,644 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,646 [INFO] Evaluated idx=675: Coverage=0, ROUGE-1=0.2930, ROUGE-2=0.1161, ROUGE-L=0.1783
+2025-09-20 11:40:51,650 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,653 [INFO] Evaluated idx=676: Coverage=0, ROUGE-1=0.3979, ROUGE-2=0.1270, ROUGE-L=0.2199
+2025-09-20 11:40:51,658 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,661 [INFO] Evaluated idx=677: Coverage=0, ROUGE-1=0.2804, ROUGE-2=0.0943, ROUGE-L=0.1682
+2025-09-20 11:40:51,664 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,666 [INFO] Evaluated idx=678: Coverage=0, ROUGE-1=0.1401, ROUGE-2=0.0645, ROUGE-L=0.1146
+2025-09-20 11:40:51,670 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,672 [INFO] Evaluated idx=679: Coverage=0, ROUGE-1=0.3006, ROUGE-2=0.0234, ROUGE-L=0.1618
+2025-09-20 11:40:51,676 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,678 [INFO] Evaluated idx=680: Coverage=0, ROUGE-1=0.3038, ROUGE-2=0.2051, ROUGE-L=0.2025
+2025-09-20 11:40:51,683 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,685 [INFO] Evaluated idx=681: Coverage=0, ROUGE-1=0.2512, ROUGE-2=0.1561, ROUGE-L=0.1739
+2025-09-20 11:40:51,691 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,694 [INFO] Evaluated idx=682: Coverage=0, ROUGE-1=0.2055, ROUGE-2=0.0478, ROUGE-L=0.1423
+2025-09-20 11:40:51,698 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,699 [INFO] Evaluated idx=683: Coverage=0, ROUGE-1=0.1176, ROUGE-2=0.0397, ROUGE-L=0.0915
+2025-09-20 11:40:51,704 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,707 [INFO] Evaluated idx=684: Coverage=0, ROUGE-1=0.3148, ROUGE-2=0.1495, ROUGE-L=0.1852
+2025-09-20 11:40:51,710 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,711 [INFO] Evaluated idx=685: Coverage=0, ROUGE-1=0.2362, ROUGE-2=0.0640, ROUGE-L=0.1417
+2025-09-20 11:40:51,715 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,717 [INFO] Evaluated idx=686: Coverage=0, ROUGE-1=0.3026, ROUGE-2=0.1600, ROUGE-L=0.1711
+2025-09-20 11:40:51,721 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,723 [INFO] Evaluated idx=687: Coverage=0, ROUGE-1=0.1932, ROUGE-2=0.0575, ROUGE-L=0.1250
+2025-09-20 11:40:51,727 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,729 [INFO] Evaluated idx=688: Coverage=0, ROUGE-1=0.3492, ROUGE-2=0.1818, ROUGE-L=0.2434
+2025-09-20 11:40:51,733 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,736 [INFO] Evaluated idx=689: Coverage=0, ROUGE-1=0.3854, ROUGE-2=0.2105, ROUGE-L=0.2604
+2025-09-20 11:40:51,740 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,742 [INFO] Evaluated idx=690: Coverage=0, ROUGE-1=0.1407, ROUGE-2=0.0305, ROUGE-L=0.1106
+2025-09-20 11:40:51,746 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,749 [INFO] Evaluated idx=691: Coverage=0, ROUGE-1=0.4270, ROUGE-2=0.2386, ROUGE-L=0.3258
+2025-09-20 11:40:51,755 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,758 [INFO] Evaluated idx=692: Coverage=0, ROUGE-1=0.2613, ROUGE-2=0.1218, ROUGE-L=0.2010
+2025-09-20 11:40:51,763 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,767 [INFO] Evaluated idx=693: Coverage=0, ROUGE-1=0.2713, ROUGE-2=0.0703, ROUGE-L=0.1318
+2025-09-20 11:40:51,771 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,773 [INFO] Evaluated idx=694: Coverage=0, ROUGE-1=0.1798, ROUGE-2=0.0455, ROUGE-L=0.1348
+2025-09-20 11:40:51,778 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,781 [INFO] Evaluated idx=695: Coverage=0, ROUGE-1=0.2119, ROUGE-2=0.0427, ROUGE-L=0.1356
+2025-09-20 11:40:51,784 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,786 [INFO] Evaluated idx=696: Coverage=0, ROUGE-1=0.2597, ROUGE-2=0.1184, ROUGE-L=0.2078
+2025-09-20 11:40:51,790 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,793 [INFO] Evaluated idx=697: Coverage=0, ROUGE-1=0.2255, ROUGE-2=0.0693, ROUGE-L=0.1275
+2025-09-20 11:40:51,797 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,799 [INFO] Evaluated idx=698: Coverage=0, ROUGE-1=0.1481, ROUGE-2=0.0625, ROUGE-L=0.1235
+2025-09-20 11:40:51,802 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,803 [INFO] Evaluated idx=699: Coverage=0, ROUGE-1=0.1884, ROUGE-2=0.0882, ROUGE-L=0.1449
+2025-09-20 11:40:51,807 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,808 [INFO] Evaluated idx=700: Coverage=0, ROUGE-1=0.1829, ROUGE-2=0.0617, ROUGE-L=0.1220
+2025-09-20 11:40:51,814 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,816 [INFO] Evaluated idx=701: Coverage=0, ROUGE-1=0.1765, ROUGE-2=0.0891, ROUGE-L=0.1176
+2025-09-20 11:40:51,821 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,823 [INFO] Evaluated idx=702: Coverage=0, ROUGE-1=0.3153, ROUGE-2=0.1194, ROUGE-L=0.1970
+2025-09-20 11:40:51,828 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,831 [INFO] Evaluated idx=703: Coverage=0, ROUGE-1=0.2294, ROUGE-2=0.0741, ROUGE-L=0.1468
+2025-09-20 11:40:51,836 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,838 [INFO] Evaluated idx=704: Coverage=0, ROUGE-1=0.2011, ROUGE-2=0.0535, ROUGE-L=0.1270
+2025-09-20 11:40:51,843 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,845 [INFO] Evaluated idx=705: Coverage=0, ROUGE-1=0.2100, ROUGE-2=0.0808, ROUGE-L=0.1200
+2025-09-20 11:40:51,850 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,852 [INFO] Evaluated idx=706: Coverage=0, ROUGE-1=0.1212, ROUGE-2=0.0306, ROUGE-L=0.0808
+2025-09-20 11:40:51,856 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,858 [INFO] Evaluated idx=707: Coverage=0, ROUGE-1=0.2012, ROUGE-2=0.0838, ROUGE-L=0.1538
+2025-09-20 11:40:51,865 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,869 [INFO] Evaluated idx=708: Coverage=0, ROUGE-1=0.2310, ROUGE-2=0.0797, ROUGE-L=0.1452
+2025-09-20 11:40:51,878 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,883 [INFO] Evaluated idx=709: Coverage=0, ROUGE-1=0.2359, ROUGE-2=0.0619, ROUGE-L=0.1333
+2025-09-20 11:40:51,887 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,890 [INFO] Evaluated idx=710: Coverage=0, ROUGE-1=0.2614, ROUGE-2=0.0920, ROUGE-L=0.1705
+2025-09-20 11:40:51,893 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,894 [INFO] Evaluated idx=711: Coverage=0, ROUGE-1=0.2740, ROUGE-2=0.0694, ROUGE-L=0.2055
+2025-09-20 11:40:51,899 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,902 [INFO] Evaluated idx=712: Coverage=0, ROUGE-1=0.3535, ROUGE-2=0.1408, ROUGE-L=0.2140
+2025-09-20 11:40:51,906 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,909 [INFO] Evaluated idx=713: Coverage=0, ROUGE-1=0.2421, ROUGE-2=0.0319, ROUGE-L=0.1368
+2025-09-20 11:40:51,916 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,920 [INFO] Evaluated idx=714: Coverage=0, ROUGE-1=0.3101, ROUGE-2=0.1529, ROUGE-L=0.1772
+2025-09-20 11:40:51,926 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,929 [INFO] Evaluated idx=715: Coverage=0, ROUGE-1=0.2683, ROUGE-2=0.0656, ROUGE-L=0.1545
+2025-09-20 11:40:51,933 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,935 [INFO] Evaluated idx=716: Coverage=0, ROUGE-1=0.2304, ROUGE-2=0.1270, ROUGE-L=0.1466
+2025-09-20 11:40:51,940 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,944 [INFO] Evaluated idx=717: Coverage=0, ROUGE-1=0.3707, ROUGE-2=0.1130, ROUGE-L=0.1810
+2025-09-20 11:40:51,947 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,950 [INFO] Evaluated idx=718: Coverage=0, ROUGE-1=0.1739, ROUGE-2=0.0377, ROUGE-L=0.1242
+2025-09-20 11:40:51,958 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,964 [INFO] Evaluated idx=719: Coverage=0, ROUGE-1=0.2193, ROUGE-2=0.0699, ROUGE-L=0.1390
+2025-09-20 11:40:51,969 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,972 [INFO] Evaluated idx=720: Coverage=0, ROUGE-1=0.2100, ROUGE-2=0.1014, ROUGE-L=0.1644
+2025-09-20 11:40:51,975 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,977 [INFO] Evaluated idx=721: Coverage=0, ROUGE-1=0.3210, ROUGE-2=0.1000, ROUGE-L=0.1975
+2025-09-20 11:40:51,981 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,982 [INFO] Evaluated idx=722: Coverage=0, ROUGE-1=0.1299, ROUGE-2=0.0526, ROUGE-L=0.1169
+2025-09-20 11:40:51,986 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,988 [INFO] Evaluated idx=723: Coverage=0, ROUGE-1=0.1758, ROUGE-2=0.0889, ROUGE-L=0.1538
+2025-09-20 11:40:51,991 [INFO] Using default tokenizer.
+2025-09-20 11:40:51,993 [INFO] Evaluated idx=724: Coverage=0, ROUGE-1=0.5674, ROUGE-2=0.3022, ROUGE-L=0.3404
+2025-09-20 11:40:51,998 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,000 [INFO] Evaluated idx=725: Coverage=0, ROUGE-1=0.3116, ROUGE-2=0.0711, ROUGE-L=0.2010
+2025-09-20 11:40:52,002 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,004 [INFO] Evaluated idx=726: Coverage=0, ROUGE-1=0.3043, ROUGE-2=0.1111, ROUGE-L=0.2174
+2025-09-20 11:40:52,008 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,010 [INFO] Evaluated idx=727: Coverage=0, ROUGE-1=0.1702, ROUGE-2=0.0215, ROUGE-L=0.1277
+2025-09-20 11:40:52,019 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,024 [INFO] Evaluated idx=728: Coverage=0, ROUGE-1=0.1337, ROUGE-2=0.0624, ROUGE-L=0.1002
+2025-09-20 11:40:52,030 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,034 [INFO] Evaluated idx=729: Coverage=0, ROUGE-1=0.2158, ROUGE-2=0.0870, ROUGE-L=0.1511
+2025-09-20 11:40:52,038 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,041 [INFO] Evaluated idx=730: Coverage=0, ROUGE-1=0.3216, ROUGE-2=0.0812, ROUGE-L=0.2010
+2025-09-20 11:40:52,044 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,046 [INFO] Evaluated idx=731: Coverage=0, ROUGE-1=0.3590, ROUGE-2=0.0649, ROUGE-L=0.1795
+2025-09-20 11:40:52,051 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,053 [INFO] Evaluated idx=732: Coverage=0, ROUGE-1=0.1803, ROUGE-2=0.1240, ROUGE-L=0.1639
+2025-09-20 11:40:52,057 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,058 [INFO] Evaluated idx=733: Coverage=0, ROUGE-1=0.1884, ROUGE-2=0.0735, ROUGE-L=0.1594
+2025-09-20 11:40:52,061 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,063 [INFO] Evaluated idx=734: Coverage=0, ROUGE-1=0.3718, ROUGE-2=0.1948, ROUGE-L=0.2821
+2025-09-20 11:40:52,067 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,070 [INFO] Evaluated idx=735: Coverage=0, ROUGE-1=0.2623, ROUGE-2=0.0884, ROUGE-L=0.1858
+2025-09-20 11:40:52,074 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,077 [INFO] Evaluated idx=736: Coverage=0, ROUGE-1=0.5258, ROUGE-2=0.2370, ROUGE-L=0.2723
+2025-09-20 11:40:52,082 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,084 [INFO] Evaluated idx=737: Coverage=0, ROUGE-1=0.2543, ROUGE-2=0.1287, ROUGE-L=0.1503
+2025-09-20 11:40:52,087 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,089 [INFO] Evaluated idx=738: Coverage=0, ROUGE-1=0.3671, ROUGE-2=0.1154, ROUGE-L=0.2405
+2025-09-20 11:40:52,095 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,099 [INFO] Evaluated idx=739: Coverage=0, ROUGE-1=0.2267, ROUGE-2=0.0245, ROUGE-L=0.1053
+2025-09-20 11:40:52,103 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,105 [INFO] Evaluated idx=740: Coverage=0, ROUGE-1=0.2022, ROUGE-2=0.0455, ROUGE-L=0.1461
+2025-09-20 11:40:52,109 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,111 [INFO] Evaluated idx=741: Coverage=0, ROUGE-1=0.2258, ROUGE-2=0.0761, ROUGE-L=0.1935
+2025-09-20 11:40:52,116 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,118 [INFO] Evaluated idx=742: Coverage=0, ROUGE-1=0.2547, ROUGE-2=0.0762, ROUGE-L=0.1415
+2025-09-20 11:40:52,122 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,125 [INFO] Evaluated idx=743: Coverage=0, ROUGE-1=0.2857, ROUGE-2=0.1000, ROUGE-L=0.2088
+2025-09-20 11:40:52,128 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,131 [INFO] Evaluated idx=744: Coverage=0, ROUGE-1=0.2941, ROUGE-2=0.0833, ROUGE-L=0.1765
+2025-09-20 11:40:52,134 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,136 [INFO] Evaluated idx=745: Coverage=0, ROUGE-1=0.2553, ROUGE-2=0.0863, ROUGE-L=0.1560
+2025-09-20 11:40:52,140 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,142 [INFO] Evaluated idx=746: Coverage=0, ROUGE-1=0.3386, ROUGE-2=0.1390, ROUGE-L=0.2116
+2025-09-20 11:40:52,146 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,150 [INFO] Evaluated idx=747: Coverage=0, ROUGE-1=0.2788, ROUGE-2=0.0874, ROUGE-L=0.1923
+2025-09-20 11:40:52,157 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,162 [INFO] Evaluated idx=748: Coverage=0, ROUGE-1=0.3062, ROUGE-2=0.1311, ROUGE-L=0.1694
+2025-09-20 11:40:52,165 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,166 [INFO] Evaluated idx=749: Coverage=0, ROUGE-1=0.1626, ROUGE-2=0.0165, ROUGE-L=0.1301
+2025-09-20 11:40:52,170 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,172 [INFO] Evaluated idx=750: Coverage=0, ROUGE-1=0.2452, ROUGE-2=0.0784, ROUGE-L=0.1548
+2025-09-20 11:40:52,176 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,178 [INFO] Evaluated idx=751: Coverage=0, ROUGE-1=0.2968, ROUGE-2=0.0654, ROUGE-L=0.1419
+2025-09-20 11:40:52,182 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,185 [INFO] Evaluated idx=752: Coverage=0, ROUGE-1=0.2694, ROUGE-2=0.1152, ROUGE-L=0.1347
+2025-09-20 11:40:52,191 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,194 [INFO] Evaluated idx=753: Coverage=0, ROUGE-1=0.2372, ROUGE-2=0.0319, ROUGE-L=0.1581
+2025-09-20 11:40:52,198 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,201 [INFO] Evaluated idx=754: Coverage=0, ROUGE-1=0.4181, ROUGE-2=0.2171, ROUGE-L=0.3051
+2025-09-20 11:40:52,204 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,206 [INFO] Evaluated idx=755: Coverage=0, ROUGE-1=0.2692, ROUGE-2=0.1558, ROUGE-L=0.1795
+2025-09-20 11:40:52,209 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,211 [INFO] Evaluated idx=756: Coverage=0, ROUGE-1=0.2930, ROUGE-2=0.0774, ROUGE-L=0.1783
+2025-09-20 11:40:52,216 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,218 [INFO] Evaluated idx=757: Coverage=0, ROUGE-1=0.1792, ROUGE-2=0.0381, ROUGE-L=0.1226
+2025-09-20 11:40:52,224 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,227 [INFO] Evaluated idx=758: Coverage=0, ROUGE-1=0.1739, ROUGE-2=0.1095, ROUGE-L=0.1159
+2025-09-20 11:40:52,231 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,233 [INFO] Evaluated idx=759: Coverage=0, ROUGE-1=0.2367, ROUGE-2=0.1437, ROUGE-L=0.1657
+2025-09-20 11:40:52,237 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,240 [INFO] Evaluated idx=760: Coverage=0, ROUGE-1=0.2054, ROUGE-2=0.0656, ROUGE-L=0.1081
+2025-09-20 11:40:52,247 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,250 [INFO] Evaluated idx=761: Coverage=0, ROUGE-1=0.2098, ROUGE-2=0.0704, ROUGE-L=0.1259
+2025-09-20 11:40:52,252 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,253 [INFO] Evaluated idx=762: Coverage=0, ROUGE-1=0.3505, ROUGE-2=0.1684, ROUGE-L=0.2474
+2025-09-20 11:40:52,258 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,260 [INFO] Evaluated idx=763: Coverage=0, ROUGE-1=0.2751, ROUGE-2=0.1070, ROUGE-L=0.1799
+2025-09-20 11:40:52,264 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,272 [INFO] Evaluated idx=764: Coverage=0, ROUGE-1=0.1795, ROUGE-2=0.1169, ROUGE-L=0.1538
+2025-09-20 11:40:52,277 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,279 [INFO] Evaluated idx=765: Coverage=0, ROUGE-1=0.2727, ROUGE-2=0.1429, ROUGE-L=0.2020
+2025-09-20 11:40:52,285 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,289 [INFO] Evaluated idx=766: Coverage=0, ROUGE-1=0.3142, ROUGE-2=0.0618, ROUGE-L=0.1609
+2025-09-20 11:40:52,295 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,298 [INFO] Evaluated idx=767: Coverage=0, ROUGE-1=0.3320, ROUGE-2=0.1195, ROUGE-L=0.2134
+2025-09-20 11:40:52,302 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,305 [INFO] Evaluated idx=768: Coverage=0, ROUGE-1=0.2932, ROUGE-2=0.0847, ROUGE-L=0.1571
+2025-09-20 11:40:52,310 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,313 [INFO] Evaluated idx=769: Coverage=0, ROUGE-1=0.3846, ROUGE-2=0.0948, ROUGE-L=0.2137
+2025-09-20 11:40:52,317 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,319 [INFO] Evaluated idx=770: Coverage=0, ROUGE-1=0.1282, ROUGE-2=0.0260, ROUGE-L=0.0897
+2025-09-20 11:40:52,323 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,325 [INFO] Evaluated idx=771: Coverage=0, ROUGE-1=0.2444, ROUGE-2=0.0225, ROUGE-L=0.1556
+2025-09-20 11:40:52,329 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,332 [INFO] Evaluated idx=772: Coverage=0, ROUGE-1=0.2872, ROUGE-2=0.1075, ROUGE-L=0.1702
+2025-09-20 11:40:52,336 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,338 [INFO] Evaluated idx=773: Coverage=0, ROUGE-1=0.1407, ROUGE-2=0.0406, ROUGE-L=0.1005
+2025-09-20 11:40:52,345 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,349 [INFO] Evaluated idx=774: Coverage=0, ROUGE-1=0.1890, ROUGE-2=0.0245, ROUGE-L=0.1037
+2025-09-20 11:40:52,354 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,358 [INFO] Evaluated idx=775: Coverage=0, ROUGE-1=0.3125, ROUGE-2=0.0541, ROUGE-L=0.2143
+2025-09-20 11:40:52,362 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,364 [INFO] Evaluated idx=776: Coverage=0, ROUGE-1=0.2892, ROUGE-2=0.0366, ROUGE-L=0.1928
+2025-09-20 11:40:52,368 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,370 [INFO] Evaluated idx=777: Coverage=0, ROUGE-1=0.4096, ROUGE-2=0.1341, ROUGE-L=0.2651
+2025-09-20 11:40:52,374 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,375 [INFO] Evaluated idx=778: Coverage=0, ROUGE-1=0.2625, ROUGE-2=0.1013, ROUGE-L=0.1875
+2025-09-20 11:40:52,379 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,381 [INFO] Evaluated idx=779: Coverage=0, ROUGE-1=0.2156, ROUGE-2=0.0606, ROUGE-L=0.1078
+2025-09-20 11:40:52,386 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,388 [INFO] Evaluated idx=780: Coverage=0, ROUGE-1=0.2974, ROUGE-2=0.0725, ROUGE-L=0.1846
+2025-09-20 11:40:52,393 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,395 [INFO] Evaluated idx=781: Coverage=0, ROUGE-1=0.2581, ROUGE-2=0.0652, ROUGE-L=0.1720
+2025-09-20 11:40:52,398 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,400 [INFO] Evaluated idx=782: Coverage=0, ROUGE-1=0.3611, ROUGE-2=0.0704, ROUGE-L=0.2500
+2025-09-20 11:40:52,403 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,405 [INFO] Evaluated idx=783: Coverage=0, ROUGE-1=0.2171, ROUGE-2=0.0315, ROUGE-L=0.1705
+2025-09-20 11:40:52,408 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,411 [INFO] Evaluated idx=784: Coverage=0, ROUGE-1=0.2841, ROUGE-2=0.0920, ROUGE-L=0.1932
+2025-09-20 11:40:52,415 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,417 [INFO] Evaluated idx=785: Coverage=0, ROUGE-1=0.1885, ROUGE-2=0.0741, ROUGE-L=0.1571
+2025-09-20 11:40:52,421 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,423 [INFO] Evaluated idx=786: Coverage=0, ROUGE-1=0.0994, ROUGE-2=0.0252, ROUGE-L=0.0621
+2025-09-20 11:40:52,426 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,428 [INFO] Evaluated idx=787: Coverage=0, ROUGE-1=0.2400, ROUGE-2=0.0809, ROUGE-L=0.1486
+2025-09-20 11:40:52,432 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,434 [INFO] Evaluated idx=788: Coverage=0, ROUGE-1=0.2632, ROUGE-2=0.1596, ROUGE-L=0.2421
+2025-09-20 11:40:52,439 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,441 [INFO] Evaluated idx=789: Coverage=0, ROUGE-1=0.2254, ROUGE-2=0.1327, ROUGE-L=0.1878
+2025-09-20 11:40:52,446 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,449 [INFO] Evaluated idx=790: Coverage=0, ROUGE-1=0.2513, ROUGE-2=0.1726, ROUGE-L=0.2211
+2025-09-20 11:40:52,454 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,457 [INFO] Evaluated idx=791: Coverage=0, ROUGE-1=0.2694, ROUGE-2=0.0988, ROUGE-L=0.1633
+2025-09-20 11:40:52,462 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,465 [INFO] Evaluated idx=792: Coverage=0, ROUGE-1=0.2160, ROUGE-2=0.0664, ROUGE-L=0.1502
+2025-09-20 11:40:52,469 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,471 [INFO] Evaluated idx=793: Coverage=0, ROUGE-1=0.1630, ROUGE-2=0.1099, ROUGE-L=0.1304
+2025-09-20 11:40:52,475 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,477 [INFO] Evaluated idx=794: Coverage=0, ROUGE-1=0.2989, ROUGE-2=0.0930, ROUGE-L=0.1494
+2025-09-20 11:40:52,481 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,483 [INFO] Evaluated idx=795: Coverage=0, ROUGE-1=0.1375, ROUGE-2=0.0506, ROUGE-L=0.1125
+2025-09-20 11:40:52,486 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,488 [INFO] Evaluated idx=796: Coverage=0, ROUGE-1=0.1857, ROUGE-2=0.0290, ROUGE-L=0.1000
+2025-09-20 11:40:52,491 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,492 [INFO] Evaluated idx=797: Coverage=0, ROUGE-1=0.2205, ROUGE-2=0.0480, ROUGE-L=0.1575
+2025-09-20 11:40:52,496 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,498 [INFO] Evaluated idx=798: Coverage=0, ROUGE-1=0.1124, ROUGE-2=0.0568, ROUGE-L=0.0787
+2025-09-20 11:40:52,503 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,505 [INFO] Evaluated idx=799: Coverage=0, ROUGE-1=0.1393, ROUGE-2=0.0503, ROUGE-L=0.1095
+2025-09-20 11:40:52,510 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,512 [INFO] Evaluated idx=800: Coverage=0, ROUGE-1=0.2947, ROUGE-2=0.0745, ROUGE-L=0.1474
+2025-09-20 11:40:52,515 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,517 [INFO] Evaluated idx=801: Coverage=0, ROUGE-1=0.1515, ROUGE-2=0.0769, ROUGE-L=0.1212
+2025-09-20 11:40:52,520 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,522 [INFO] Evaluated idx=802: Coverage=0, ROUGE-1=0.2892, ROUGE-2=0.1098, ROUGE-L=0.1566
+2025-09-20 11:40:52,526 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,529 [INFO] Evaluated idx=803: Coverage=0, ROUGE-1=0.2900, ROUGE-2=0.0303, ROUGE-L=0.1700
+2025-09-20 11:40:52,537 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,543 [INFO] Evaluated idx=804: Coverage=0, ROUGE-1=0.1641, ROUGE-2=0.0309, ROUGE-L=0.1077
+2025-09-20 11:40:52,546 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,548 [INFO] Evaluated idx=805: Coverage=0, ROUGE-1=0.1642, ROUGE-2=0.0758, ROUGE-L=0.1493
+2025-09-20 11:40:52,551 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,553 [INFO] Evaluated idx=806: Coverage=0, ROUGE-1=0.3068, ROUGE-2=0.1609, ROUGE-L=0.2159
+2025-09-20 11:40:52,557 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,559 [INFO] Evaluated idx=807: Coverage=0, ROUGE-1=0.1469, ROUGE-2=0.0800, ROUGE-L=0.1130
+2025-09-20 11:40:52,564 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,566 [INFO] Evaluated idx=808: Coverage=0, ROUGE-1=0.3462, ROUGE-2=0.0777, ROUGE-L=0.1827
+2025-09-20 11:40:52,570 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,572 [INFO] Evaluated idx=809: Coverage=0, ROUGE-1=0.0884, ROUGE-2=0.0223, ROUGE-L=0.0884
+2025-09-20 11:40:52,575 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,576 [INFO] Evaluated idx=810: Coverage=0, ROUGE-1=0.1250, ROUGE-2=0.0476, ROUGE-L=0.1094
+2025-09-20 11:40:52,581 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,583 [INFO] Evaluated idx=811: Coverage=0, ROUGE-1=0.3500, ROUGE-2=0.2020, ROUGE-L=0.2600
+2025-09-20 11:40:52,587 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,589 [INFO] Evaluated idx=812: Coverage=0, ROUGE-1=0.2907, ROUGE-2=0.0941, ROUGE-L=0.1628
+2025-09-20 11:40:52,596 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,601 [INFO] Evaluated idx=813: Coverage=0, ROUGE-1=0.3721, ROUGE-2=0.0936, ROUGE-L=0.2060
+2025-09-20 11:40:52,605 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,608 [INFO] Evaluated idx=814: Coverage=0, ROUGE-1=0.2917, ROUGE-2=0.0105, ROUGE-L=0.1562
+2025-09-20 11:40:52,612 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,613 [INFO] Evaluated idx=815: Coverage=0, ROUGE-1=0.2368, ROUGE-2=0.1067, ROUGE-L=0.1711
+2025-09-20 11:40:52,619 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,622 [INFO] Evaluated idx=816: Coverage=0, ROUGE-1=0.1526, ROUGE-2=0.0567, ROUGE-L=0.0964
+2025-09-20 11:40:52,626 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,629 [INFO] Evaluated idx=817: Coverage=0, ROUGE-1=0.2749, ROUGE-2=0.0574, ROUGE-L=0.1327
+2025-09-20 11:40:52,633 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,636 [INFO] Evaluated idx=818: Coverage=0, ROUGE-1=0.4022, ROUGE-2=0.1648, ROUGE-L=0.2717
+2025-09-20 11:40:52,641 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,644 [INFO] Evaluated idx=819: Coverage=0, ROUGE-1=0.3361, ROUGE-2=0.1441, ROUGE-L=0.2185
+2025-09-20 11:40:52,648 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,650 [INFO] Evaluated idx=820: Coverage=0, ROUGE-1=0.1600, ROUGE-2=0.0925, ROUGE-L=0.1486
+2025-09-20 11:40:52,653 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,655 [INFO] Evaluated idx=821: Coverage=0, ROUGE-1=0.3309, ROUGE-2=0.1460, ROUGE-L=0.2302
+2025-09-20 11:40:52,659 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,662 [INFO] Evaluated idx=822: Coverage=0, ROUGE-1=0.4084, ROUGE-2=0.2116, ROUGE-L=0.2827
+2025-09-20 11:40:52,666 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,667 [INFO] Evaluated idx=823: Coverage=0, ROUGE-1=0.2840, ROUGE-2=0.1000, ROUGE-L=0.1605
+2025-09-20 11:40:52,671 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,673 [INFO] Evaluated idx=824: Coverage=0, ROUGE-1=0.1633, ROUGE-2=0.0722, ROUGE-L=0.1327
+2025-09-20 11:40:52,678 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,681 [INFO] Evaluated idx=825: Coverage=0, ROUGE-1=0.2254, ROUGE-2=0.0569, ROUGE-L=0.1315
+2025-09-20 11:40:52,685 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,687 [INFO] Evaluated idx=826: Coverage=0, ROUGE-1=0.1613, ROUGE-2=0.0761, ROUGE-L=0.1505
+2025-09-20 11:40:52,693 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,695 [INFO] Evaluated idx=827: Coverage=0, ROUGE-1=0.3333, ROUGE-2=0.1963, ROUGE-L=0.2500
+2025-09-20 11:40:52,700 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,702 [INFO] Evaluated idx=828: Coverage=0, ROUGE-1=0.2778, ROUGE-2=0.1685, ROUGE-L=0.2333
+2025-09-20 11:40:52,706 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,707 [INFO] Evaluated idx=829: Coverage=0, ROUGE-1=0.3380, ROUGE-2=0.1000, ROUGE-L=0.2113
+2025-09-20 11:40:52,713 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,717 [INFO] Evaluated idx=830: Coverage=0, ROUGE-1=0.4031, ROUGE-2=0.1016, ROUGE-L=0.2248
+2025-09-20 11:40:52,724 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,727 [INFO] Evaluated idx=831: Coverage=0, ROUGE-1=0.1020, ROUGE-2=0.0411, ROUGE-L=0.0816
+2025-09-20 11:40:52,731 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,732 [INFO] Evaluated idx=832: Coverage=0, ROUGE-1=0.1370, ROUGE-2=0.0417, ROUGE-L=0.0822
+2025-09-20 11:40:52,736 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,738 [INFO] Evaluated idx=833: Coverage=0, ROUGE-1=0.2890, ROUGE-2=0.0936, ROUGE-L=0.1965
+2025-09-20 11:40:52,743 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,745 [INFO] Evaluated idx=834: Coverage=0, ROUGE-1=0.1773, ROUGE-2=0.1294, ROUGE-L=0.1773
+2025-09-20 11:40:52,751 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,754 [INFO] Evaluated idx=835: Coverage=0, ROUGE-1=0.1612, ROUGE-2=0.0738, ROUGE-L=0.1245
+2025-09-20 11:40:52,758 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,761 [INFO] Evaluated idx=836: Coverage=0, ROUGE-1=0.2929, ROUGE-2=0.0612, ROUGE-L=0.1818
+2025-09-20 11:40:52,766 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,768 [INFO] Evaluated idx=837: Coverage=0, ROUGE-1=0.1327, ROUGE-2=0.0383, ROUGE-L=0.0948
+2025-09-20 11:40:52,773 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,775 [INFO] Evaluated idx=838: Coverage=0, ROUGE-1=0.1896, ROUGE-2=0.0957, ROUGE-L=0.1137
+2025-09-20 11:40:52,781 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,784 [INFO] Evaluated idx=839: Coverage=0, ROUGE-1=0.1264, ROUGE-2=0.0524, ROUGE-L=0.0892
+2025-09-20 11:40:52,790 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,793 [INFO] Evaluated idx=840: Coverage=0, ROUGE-1=0.2305, ROUGE-2=0.1245, ROUGE-L=0.1811
+2025-09-20 11:40:52,801 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,806 [INFO] Evaluated idx=841: Coverage=0, ROUGE-1=0.2139, ROUGE-2=0.0645, ROUGE-L=0.1390
+2025-09-20 11:40:52,809 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,810 [INFO] Evaluated idx=842: Coverage=0, ROUGE-1=0.2689, ROUGE-2=0.1368, ROUGE-L=0.2017
+2025-09-20 11:40:52,814 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,817 [INFO] Evaluated idx=843: Coverage=0, ROUGE-1=0.3936, ROUGE-2=0.1290, ROUGE-L=0.1915
+2025-09-20 11:40:52,821 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,823 [INFO] Evaluated idx=844: Coverage=0, ROUGE-1=0.2132, ROUGE-2=0.0615, ROUGE-L=0.1320
+2025-09-20 11:40:52,827 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,828 [INFO] Evaluated idx=845: Coverage=0, ROUGE-1=0.2838, ROUGE-2=0.0685, ROUGE-L=0.1622
+2025-09-20 11:40:52,833 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,835 [INFO] Evaluated idx=846: Coverage=0, ROUGE-1=0.2512, ROUGE-2=0.0585, ROUGE-L=0.1159
+2025-09-20 11:40:52,840 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,842 [INFO] Evaluated idx=847: Coverage=0, ROUGE-1=0.3444, ROUGE-2=0.1685, ROUGE-L=0.2667
+2025-09-20 11:40:52,849 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,852 [INFO] Evaluated idx=848: Coverage=0, ROUGE-1=0.1615, ROUGE-2=0.0543, ROUGE-L=0.0923
+2025-09-20 11:40:52,857 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,860 [INFO] Evaluated idx=849: Coverage=0, ROUGE-1=0.1395, ROUGE-2=0.0938, ROUGE-L=0.1085
+2025-09-20 11:40:52,864 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,865 [INFO] Evaluated idx=850: Coverage=0, ROUGE-1=0.1040, ROUGE-2=0.0351, ROUGE-L=0.0925
+2025-09-20 11:40:52,868 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,870 [INFO] Evaluated idx=851: Coverage=0, ROUGE-1=0.1783, ROUGE-2=0.0774, ROUGE-L=0.1146
+2025-09-20 11:40:52,876 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,880 [INFO] Evaluated idx=852: Coverage=0, ROUGE-1=0.2836, ROUGE-2=0.0677, ROUGE-L=0.1642
+2025-09-20 11:40:52,885 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,887 [INFO] Evaluated idx=853: Coverage=0, ROUGE-1=0.2123, ROUGE-2=0.0678, ROUGE-L=0.1117
+2025-09-20 11:40:52,890 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,892 [INFO] Evaluated idx=854: Coverage=0, ROUGE-1=0.3448, ROUGE-2=0.1259, ROUGE-L=0.2207
+2025-09-20 11:40:52,895 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,896 [INFO] Evaluated idx=855: Coverage=0, ROUGE-1=0.2647, ROUGE-2=0.1343, ROUGE-L=0.1765
+2025-09-20 11:40:52,901 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,903 [INFO] Evaluated idx=856: Coverage=0, ROUGE-1=0.3607, ROUGE-2=0.1326, ROUGE-L=0.2295
+2025-09-20 11:40:52,908 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,909 [INFO] Evaluated idx=857: Coverage=0, ROUGE-1=0.1771, ROUGE-2=0.0632, ROUGE-L=0.1146
+2025-09-20 11:40:52,912 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,914 [INFO] Evaluated idx=858: Coverage=0, ROUGE-1=0.2000, ROUGE-2=0.0625, ROUGE-L=0.1538
+2025-09-20 11:40:52,917 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,918 [INFO] Evaluated idx=859: Coverage=0, ROUGE-1=0.1983, ROUGE-2=0.0840, ROUGE-L=0.1488
+2025-09-20 11:40:52,923 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,925 [INFO] Evaluated idx=860: Coverage=0, ROUGE-1=0.1739, ROUGE-2=0.1073, ROUGE-L=0.1546
+2025-09-20 11:40:52,930 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,933 [INFO] Evaluated idx=861: Coverage=0, ROUGE-1=0.3889, ROUGE-2=0.1495, ROUGE-L=0.2593
+2025-09-20 11:40:52,937 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,939 [INFO] Evaluated idx=862: Coverage=0, ROUGE-1=0.1967, ROUGE-2=0.0442, ROUGE-L=0.1202
+2025-09-20 11:40:52,945 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,947 [INFO] Evaluated idx=863: Coverage=0, ROUGE-1=0.1092, ROUGE-2=0.0169, ROUGE-L=0.0756
+2025-09-20 11:40:52,954 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,958 [INFO] Evaluated idx=864: Coverage=0, ROUGE-1=0.1577, ROUGE-2=0.0698, ROUGE-L=0.1009
+2025-09-20 11:40:52,961 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,963 [INFO] Evaluated idx=865: Coverage=0, ROUGE-1=0.2238, ROUGE-2=0.1418, ROUGE-L=0.1958
+2025-09-20 11:40:52,966 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,967 [INFO] Evaluated idx=866: Coverage=0, ROUGE-1=0.1760, ROUGE-2=0.0163, ROUGE-L=0.1120
+2025-09-20 11:40:52,974 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,977 [INFO] Evaluated idx=867: Coverage=0, ROUGE-1=0.1581, ROUGE-2=0.0277, ROUGE-L=0.1168
+2025-09-20 11:40:52,980 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,982 [INFO] Evaluated idx=868: Coverage=0, ROUGE-1=0.2482, ROUGE-2=0.0741, ROUGE-L=0.1898
+2025-09-20 11:40:52,988 [INFO] Using default tokenizer.
+2025-09-20 11:40:52,991 [INFO] Evaluated idx=869: Coverage=0, ROUGE-1=0.1773, ROUGE-2=0.0571, ROUGE-L=0.1348
+2025-09-20 11:40:52,997 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,001 [INFO] Evaluated idx=870: Coverage=0, ROUGE-1=0.4599, ROUGE-2=0.1618, ROUGE-L=0.2701
+2025-09-20 11:40:53,004 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,006 [INFO] Evaluated idx=871: Coverage=0, ROUGE-1=0.3087, ROUGE-2=0.0544, ROUGE-L=0.2148
+2025-09-20 11:40:53,011 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,012 [INFO] Evaluated idx=872: Coverage=0, ROUGE-1=0.1368, ROUGE-2=0.0532, ROUGE-L=0.1053
+2025-09-20 11:40:53,020 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,025 [INFO] Evaluated idx=873: Coverage=0, ROUGE-1=0.1602, ROUGE-2=0.0222, ROUGE-L=0.1050
+2025-09-20 11:40:53,028 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,030 [INFO] Evaluated idx=874: Coverage=0, ROUGE-1=0.2836, ROUGE-2=0.0606, ROUGE-L=0.1791
+2025-09-20 11:40:53,034 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,036 [INFO] Evaluated idx=875: Coverage=0, ROUGE-1=0.1683, ROUGE-2=0.0500, ROUGE-L=0.1287
+2025-09-20 11:40:53,046 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,051 [INFO] Evaluated idx=876: Coverage=0, ROUGE-1=0.1041, ROUGE-2=0.0409, ROUGE-L=0.0814
+2025-09-20 11:40:53,056 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,058 [INFO] Evaluated idx=877: Coverage=0, ROUGE-1=0.1053, ROUGE-2=0.0426, ROUGE-L=0.0842
+2025-09-20 11:40:53,062 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,064 [INFO] Evaluated idx=878: Coverage=0, ROUGE-1=0.1692, ROUGE-2=0.1005, ROUGE-L=0.1493
+2025-09-20 11:40:53,068 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,069 [INFO] Evaluated idx=879: Coverage=0, ROUGE-1=0.3659, ROUGE-2=0.1481, ROUGE-L=0.2195
+2025-09-20 11:40:53,074 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,077 [INFO] Evaluated idx=880: Coverage=0, ROUGE-1=0.2488, ROUGE-2=0.1023, ROUGE-L=0.1751
+2025-09-20 11:40:53,085 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,089 [INFO] Evaluated idx=881: Coverage=0, ROUGE-1=0.1896, ROUGE-2=0.0677, ROUGE-L=0.1346
+2025-09-20 11:40:53,093 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,095 [INFO] Evaluated idx=882: Coverage=0, ROUGE-1=0.3023, ROUGE-2=0.1059, ROUGE-L=0.1860
+2025-09-20 11:40:53,100 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,102 [INFO] Evaluated idx=883: Coverage=0, ROUGE-1=0.2621, ROUGE-2=0.1176, ROUGE-L=0.1942
+2025-09-20 11:40:53,107 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,110 [INFO] Evaluated idx=884: Coverage=0, ROUGE-1=0.2601, ROUGE-2=0.0995, ROUGE-L=0.1973
+2025-09-20 11:40:53,114 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,117 [INFO] Evaluated idx=885: Coverage=0, ROUGE-1=0.3371, ROUGE-2=0.1591, ROUGE-L=0.2022
+2025-09-20 11:40:53,120 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,121 [INFO] Evaluated idx=886: Coverage=0, ROUGE-1=0.2517, ROUGE-2=0.0426, ROUGE-L=0.1958
+2025-09-20 11:40:53,130 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,135 [INFO] Evaluated idx=887: Coverage=0, ROUGE-1=0.1783, ROUGE-2=0.0840, ROUGE-L=0.1448
+2025-09-20 11:40:53,137 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,139 [INFO] Evaluated idx=888: Coverage=0, ROUGE-1=0.3826, ROUGE-2=0.1416, ROUGE-L=0.2435
+2025-09-20 11:40:53,143 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,144 [INFO] Evaluated idx=889: Coverage=0, ROUGE-1=0.1379, ROUGE-2=0.0420, ROUGE-L=0.1103
+2025-09-20 11:40:53,148 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,150 [INFO] Evaluated idx=890: Coverage=0, ROUGE-1=0.0964, ROUGE-2=0.0366, ROUGE-L=0.0843
+2025-09-20 11:40:53,153 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,156 [INFO] Evaluated idx=891: Coverage=0, ROUGE-1=0.3882, ROUGE-2=0.1190, ROUGE-L=0.1882
+2025-09-20 11:40:53,161 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,164 [INFO] Evaluated idx=892: Coverage=0, ROUGE-1=0.1360, ROUGE-2=0.0242, ROUGE-L=0.0880
+2025-09-20 11:40:53,169 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,171 [INFO] Evaluated idx=893: Coverage=0, ROUGE-1=0.1386, ROUGE-2=0.0400, ROUGE-L=0.0990
+2025-09-20 11:40:53,175 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,177 [INFO] Evaluated idx=894: Coverage=0, ROUGE-1=0.2456, ROUGE-2=0.1065, ROUGE-L=0.1754
+2025-09-20 11:40:53,181 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,184 [INFO] Evaluated idx=895: Coverage=0, ROUGE-1=0.3179, ROUGE-2=0.1244, ROUGE-L=0.1846
+2025-09-20 11:40:53,188 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,189 [INFO] Evaluated idx=896: Coverage=0, ROUGE-1=0.2963, ROUGE-2=0.2000, ROUGE-L=0.2222
+2025-09-20 11:40:53,194 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,197 [INFO] Evaluated idx=897: Coverage=0, ROUGE-1=0.2174, ROUGE-2=0.0789, ROUGE-L=0.1391
+2025-09-20 11:40:53,204 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,206 [INFO] Evaluated idx=898: Coverage=0, ROUGE-1=0.1268, ROUGE-2=0.0496, ROUGE-L=0.0704
+2025-09-20 11:40:53,209 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,210 [INFO] Evaluated idx=899: Coverage=0, ROUGE-1=0.2143, ROUGE-2=0.1273, ROUGE-L=0.1429
+2025-09-20 11:40:53,213 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,215 [INFO] Evaluated idx=900: Coverage=0, ROUGE-1=0.2556, ROUGE-2=0.1069, ROUGE-L=0.1955
+2025-09-20 11:40:53,218 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,220 [INFO] Evaluated idx=901: Coverage=0, ROUGE-1=0.2282, ROUGE-2=0.1224, ROUGE-L=0.2013
+2025-09-20 11:40:53,224 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,226 [INFO] Evaluated idx=902: Coverage=0, ROUGE-1=0.1451, ROUGE-2=0.0524, ROUGE-L=0.1036
+2025-09-20 11:40:53,230 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,232 [INFO] Evaluated idx=903: Coverage=0, ROUGE-1=0.2262, ROUGE-2=0.0482, ROUGE-L=0.1190
+2025-09-20 11:40:53,237 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,240 [INFO] Evaluated idx=904: Coverage=0, ROUGE-1=0.3654, ROUGE-2=0.1748, ROUGE-L=0.2308
+2025-09-20 11:40:53,243 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,244 [INFO] Evaluated idx=905: Coverage=0, ROUGE-1=0.2609, ROUGE-2=0.2301, ROUGE-L=0.2609
+2025-09-20 11:40:53,247 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,248 [INFO] Evaluated idx=906: Coverage=0, ROUGE-1=0.1739, ROUGE-2=0.1324, ROUGE-L=0.1739
+2025-09-20 11:40:53,254 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,257 [INFO] Evaluated idx=907: Coverage=0, ROUGE-1=0.2868, ROUGE-2=0.1597, ROUGE-L=0.2038
+2025-09-20 11:40:53,263 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,266 [INFO] Evaluated idx=908: Coverage=0, ROUGE-1=0.2727, ROUGE-2=0.0833, ROUGE-L=0.1322
+2025-09-20 11:40:53,270 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,273 [INFO] Evaluated idx=909: Coverage=0, ROUGE-1=0.2925, ROUGE-2=0.0667, ROUGE-L=0.1792
+2025-09-20 11:40:53,280 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,284 [INFO] Evaluated idx=910: Coverage=0, ROUGE-1=0.2387, ROUGE-2=0.0649, ROUGE-L=0.1419
+2025-09-20 11:40:53,287 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,288 [INFO] Evaluated idx=911: Coverage=0, ROUGE-1=0.2556, ROUGE-2=0.0611, ROUGE-L=0.1805
+2025-09-20 11:40:53,293 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,296 [INFO] Evaluated idx=912: Coverage=0, ROUGE-1=0.3043, ROUGE-2=0.0549, ROUGE-L=0.1522
+2025-09-20 11:40:53,301 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,303 [INFO] Evaluated idx=913: Coverage=0, ROUGE-1=0.3348, ROUGE-2=0.1918, ROUGE-L=0.2443
+2025-09-20 11:40:53,308 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,310 [INFO] Evaluated idx=914: Coverage=0, ROUGE-1=0.4457, ROUGE-2=0.2527, ROUGE-L=0.3478
+2025-09-20 11:40:53,315 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,317 [INFO] Evaluated idx=915: Coverage=0, ROUGE-1=0.2714, ROUGE-2=0.0711, ROUGE-L=0.1608
+2025-09-20 11:40:53,323 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,326 [INFO] Evaluated idx=916: Coverage=0, ROUGE-1=0.2429, ROUGE-2=0.0490, ROUGE-L=0.1538
+2025-09-20 11:40:53,332 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,336 [INFO] Evaluated idx=917: Coverage=0, ROUGE-1=0.3101, ROUGE-2=0.1094, ROUGE-L=0.1938
+2025-09-20 11:40:53,341 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,343 [INFO] Evaluated idx=918: Coverage=0, ROUGE-1=0.2415, ROUGE-2=0.0976, ROUGE-L=0.1449
+2025-09-20 11:40:53,347 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,349 [INFO] Evaluated idx=919: Coverage=0, ROUGE-1=0.1287, ROUGE-2=0.0355, ROUGE-L=0.0936
+2025-09-20 11:40:53,353 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,354 [INFO] Evaluated idx=920: Coverage=0, ROUGE-1=0.3967, ROUGE-2=0.2353, ROUGE-L=0.3802
+2025-09-20 11:40:53,358 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,360 [INFO] Evaluated idx=921: Coverage=0, ROUGE-1=0.1705, ROUGE-2=0.1149, ROUGE-L=0.1364
+2025-09-20 11:40:53,365 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,368 [INFO] Evaluated idx=922: Coverage=0, ROUGE-1=0.2667, ROUGE-2=0.0725, ROUGE-L=0.1744
+2025-09-20 11:40:53,373 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,377 [INFO] Evaluated idx=923: Coverage=0, ROUGE-1=0.2857, ROUGE-2=0.0800, ROUGE-L=0.1587
+2025-09-20 11:40:53,381 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,382 [INFO] Evaluated idx=924: Coverage=0, ROUGE-1=0.3034, ROUGE-2=0.0839, ROUGE-L=0.1793
+2025-09-20 11:40:53,386 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,388 [INFO] Evaluated idx=925: Coverage=0, ROUGE-1=0.3026, ROUGE-2=0.0800, ROUGE-L=0.1974
+2025-09-20 11:40:53,393 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,395 [INFO] Evaluated idx=926: Coverage=0, ROUGE-1=0.2652, ROUGE-2=0.0670, ROUGE-L=0.1547
+2025-09-20 11:40:53,398 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,399 [INFO] Evaluated idx=927: Coverage=0, ROUGE-1=0.2667, ROUGE-2=0.1203, ROUGE-L=0.2074
+2025-09-20 11:40:53,404 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,405 [INFO] Evaluated idx=928: Coverage=0, ROUGE-1=0.1124, ROUGE-2=0.0227, ROUGE-L=0.0787
+2025-09-20 11:40:53,410 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,413 [INFO] Evaluated idx=929: Coverage=0, ROUGE-1=0.3800, ROUGE-2=0.2121, ROUGE-L=0.2300
+2025-09-20 11:40:53,417 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,419 [INFO] Evaluated idx=930: Coverage=0, ROUGE-1=0.2128, ROUGE-2=0.0430, ROUGE-L=0.1383
+2025-09-20 11:40:53,423 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,425 [INFO] Evaluated idx=931: Coverage=0, ROUGE-1=0.3152, ROUGE-2=0.0491, ROUGE-L=0.1697
+2025-09-20 11:40:53,429 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,431 [INFO] Evaluated idx=932: Coverage=0, ROUGE-1=0.2727, ROUGE-2=0.1053, ROUGE-L=0.1688
+2025-09-20 11:40:53,435 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,437 [INFO] Evaluated idx=933: Coverage=0, ROUGE-1=0.2424, ROUGE-2=0.1350, ROUGE-L=0.1939
+2025-09-20 11:40:53,442 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,445 [INFO] Evaluated idx=934: Coverage=0, ROUGE-1=0.2771, ROUGE-2=0.0961, ROUGE-L=0.1645
+2025-09-20 11:40:53,449 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,451 [INFO] Evaluated idx=935: Coverage=0, ROUGE-1=0.1650, ROUGE-2=0.0588, ROUGE-L=0.1165
+2025-09-20 11:40:53,454 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,456 [INFO] Evaluated idx=936: Coverage=0, ROUGE-1=0.3313, ROUGE-2=0.1366, ROUGE-L=0.2209
+2025-09-20 11:40:53,459 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,460 [INFO] Evaluated idx=937: Coverage=0, ROUGE-1=0.1947, ROUGE-2=0.0541, ROUGE-L=0.1770
+2025-09-20 11:40:53,465 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,468 [INFO] Evaluated idx=938: Coverage=0, ROUGE-1=0.2769, ROUGE-2=0.1140, ROUGE-L=0.1641
+2025-09-20 11:40:53,474 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,478 [INFO] Evaluated idx=939: Coverage=0, ROUGE-1=0.2807, ROUGE-2=0.0777, ROUGE-L=0.1544
+2025-09-20 11:40:53,482 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,484 [INFO] Evaluated idx=940: Coverage=0, ROUGE-1=0.3354, ROUGE-2=0.1132, ROUGE-L=0.2360
+2025-09-20 11:40:53,489 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,491 [INFO] Evaluated idx=941: Coverage=0, ROUGE-1=0.2243, ROUGE-2=0.0377, ROUGE-L=0.1215
+2025-09-20 11:40:53,495 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,497 [INFO] Evaluated idx=942: Coverage=0, ROUGE-1=0.2875, ROUGE-2=0.1519, ROUGE-L=0.2000
+2025-09-20 11:40:53,502 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,504 [INFO] Evaluated idx=943: Coverage=0, ROUGE-1=0.1538, ROUGE-2=0.0274, ROUGE-L=0.0995
+2025-09-20 11:40:53,508 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,510 [INFO] Evaluated idx=944: Coverage=0, ROUGE-1=0.2041, ROUGE-2=0.0414, ROUGE-L=0.1633
+2025-09-20 11:40:53,515 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,517 [INFO] Evaluated idx=945: Coverage=0, ROUGE-1=0.1880, ROUGE-2=0.0948, ROUGE-L=0.1453
+2025-09-20 11:40:53,522 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,524 [INFO] Evaluated idx=946: Coverage=0, ROUGE-1=0.3280, ROUGE-2=0.1070, ROUGE-L=0.2540
+2025-09-20 11:40:53,530 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,532 [INFO] Evaluated idx=947: Coverage=0, ROUGE-1=0.1674, ROUGE-2=0.0800, ROUGE-L=0.1322
+2025-09-20 11:40:53,537 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,540 [INFO] Evaluated idx=948: Coverage=0, ROUGE-1=0.2844, ROUGE-2=0.1531, ROUGE-L=0.1991
+2025-09-20 11:40:53,550 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,556 [INFO] Evaluated idx=949: Coverage=0, ROUGE-1=0.1548, ROUGE-2=0.0518, ROUGE-L=0.0989
+2025-09-20 11:40:53,559 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,561 [INFO] Evaluated idx=950: Coverage=0, ROUGE-1=0.1299, ROUGE-2=0.0132, ROUGE-L=0.1039
+2025-09-20 11:40:53,565 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,566 [INFO] Evaluated idx=951: Coverage=0, ROUGE-1=0.2625, ROUGE-2=0.0886, ROUGE-L=0.1875
+2025-09-20 11:40:53,570 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,572 [INFO] Evaluated idx=952: Coverage=0, ROUGE-1=0.1685, ROUGE-2=0.0795, ROUGE-L=0.1236
+2025-09-20 11:40:53,576 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,577 [INFO] Evaluated idx=953: Coverage=0, ROUGE-1=0.2822, ROUGE-2=0.0994, ROUGE-L=0.1840
+2025-09-20 11:40:53,582 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,584 [INFO] Evaluated idx=954: Coverage=0, ROUGE-1=0.1905, ROUGE-2=0.0321, ROUGE-L=0.1376
+2025-09-20 11:40:53,587 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,589 [INFO] Evaluated idx=955: Coverage=0, ROUGE-1=0.3108, ROUGE-2=0.1644, ROUGE-L=0.2027
+2025-09-20 11:40:53,594 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,598 [INFO] Evaluated idx=956: Coverage=0, ROUGE-1=0.2414, ROUGE-2=0.0435, ROUGE-L=0.1379
+2025-09-20 11:40:53,604 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,609 [INFO] Evaluated idx=957: Coverage=0, ROUGE-1=0.2310, ROUGE-2=0.0266, ROUGE-L=0.1254
+2025-09-20 11:40:53,613 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,614 [INFO] Evaluated idx=958: Coverage=0, ROUGE-1=0.1111, ROUGE-2=0.0250, ROUGE-L=0.1111
+2025-09-20 11:40:53,618 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,620 [INFO] Evaluated idx=959: Coverage=0, ROUGE-1=0.2083, ROUGE-2=0.0421, ROUGE-L=0.1250
+2025-09-20 11:40:53,625 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,627 [INFO] Evaluated idx=960: Coverage=0, ROUGE-1=0.2388, ROUGE-2=0.0804, ROUGE-L=0.1791
+2025-09-20 11:40:53,633 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,637 [INFO] Evaluated idx=961: Coverage=0, ROUGE-1=0.3436, ROUGE-2=0.1511, ROUGE-L=0.2379
+2025-09-20 11:40:53,646 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,651 [INFO] Evaluated idx=962: Coverage=0, ROUGE-1=0.3059, ROUGE-2=0.1368, ROUGE-L=0.2096
+2025-09-20 11:40:53,658 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,661 [INFO] Evaluated idx=963: Coverage=0, ROUGE-1=0.3175, ROUGE-2=0.1120, ROUGE-L=0.1825
+2025-09-20 11:40:53,664 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,665 [INFO] Evaluated idx=964: Coverage=0, ROUGE-1=0.2188, ROUGE-2=0.1587, ROUGE-L=0.2188
+2025-09-20 11:40:53,669 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,671 [INFO] Evaluated idx=965: Coverage=0, ROUGE-1=0.2674, ROUGE-2=0.0235, ROUGE-L=0.1395
+2025-09-20 11:40:53,677 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,680 [INFO] Evaluated idx=966: Coverage=0, ROUGE-1=0.1124, ROUGE-2=0.0324, ROUGE-L=0.0964
+2025-09-20 11:40:53,684 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,685 [INFO] Evaluated idx=967: Coverage=0, ROUGE-1=0.2316, ROUGE-2=0.1064, ROUGE-L=0.1789
+2025-09-20 11:40:53,688 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,689 [INFO] Evaluated idx=968: Coverage=0, ROUGE-1=0.4112, ROUGE-2=0.2286, ROUGE-L=0.2991
+2025-09-20 11:40:53,694 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,696 [INFO] Evaluated idx=969: Coverage=0, ROUGE-1=0.4444, ROUGE-2=0.1302, ROUGE-L=0.2924
+2025-09-20 11:40:53,700 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,703 [INFO] Evaluated idx=970: Coverage=0, ROUGE-1=0.1704, ROUGE-2=0.0543, ROUGE-L=0.1256
+2025-09-20 11:40:53,706 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,708 [INFO] Evaluated idx=971: Coverage=0, ROUGE-1=0.1557, ROUGE-2=0.1091, ROUGE-L=0.1198
+2025-09-20 11:40:53,711 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,713 [INFO] Evaluated idx=972: Coverage=0, ROUGE-1=0.2993, ROUGE-2=0.0690, ROUGE-L=0.2041
+2025-09-20 11:40:53,717 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,718 [INFO] Evaluated idx=973: Coverage=0, ROUGE-1=0.2406, ROUGE-2=0.0916, ROUGE-L=0.1654
+2025-09-20 11:40:53,722 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,725 [INFO] Evaluated idx=974: Coverage=0, ROUGE-1=0.3487, ROUGE-2=0.1969, ROUGE-L=0.2974
+2025-09-20 11:40:53,730 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,733 [INFO] Evaluated idx=975: Coverage=0, ROUGE-1=0.2066, ROUGE-2=0.1083, ROUGE-L=0.1488
+2025-09-20 11:40:53,743 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,750 [INFO] Evaluated idx=976: Coverage=0, ROUGE-1=0.0901, ROUGE-2=0.0452, ROUGE-L=0.0713
+2025-09-20 11:40:53,754 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,756 [INFO] Evaluated idx=977: Coverage=0, ROUGE-1=0.2000, ROUGE-2=0.0449, ROUGE-L=0.1333
+2025-09-20 11:40:53,762 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,766 [INFO] Evaluated idx=978: Coverage=0, ROUGE-1=0.2000, ROUGE-2=0.1042, ROUGE-L=0.1241
+2025-09-20 11:40:53,770 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,773 [INFO] Evaluated idx=979: Coverage=0, ROUGE-1=0.2136, ROUGE-2=0.0882, ROUGE-L=0.1456
+2025-09-20 11:40:53,780 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,783 [INFO] Evaluated idx=980: Coverage=0, ROUGE-1=0.1830, ROUGE-2=0.0724, ROUGE-L=0.1503
+2025-09-20 11:40:53,788 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,790 [INFO] Evaluated idx=981: Coverage=0, ROUGE-1=0.2816, ROUGE-2=0.1176, ROUGE-L=0.1942
+2025-09-20 11:40:53,796 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,799 [INFO] Evaluated idx=982: Coverage=0, ROUGE-1=0.1920, ROUGE-2=0.0887, ROUGE-L=0.1360
+2025-09-20 11:40:53,802 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,804 [INFO] Evaluated idx=983: Coverage=0, ROUGE-1=0.4405, ROUGE-2=0.2530, ROUGE-L=0.3095
+2025-09-20 11:40:53,810 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,813 [INFO] Evaluated idx=984: Coverage=0, ROUGE-1=0.1646, ROUGE-2=0.0415, ROUGE-L=0.0988
+2025-09-20 11:40:53,816 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,818 [INFO] Evaluated idx=985: Coverage=0, ROUGE-1=0.2044, ROUGE-2=0.1037, ROUGE-L=0.1752
+2025-09-20 11:40:53,821 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,823 [INFO] Evaluated idx=986: Coverage=0, ROUGE-1=0.2099, ROUGE-2=0.0875, ROUGE-L=0.1605
+2025-09-20 11:40:53,827 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,829 [INFO] Evaluated idx=987: Coverage=0, ROUGE-1=0.2130, ROUGE-2=0.0838, ROUGE-L=0.1302
+2025-09-20 11:40:53,834 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,836 [INFO] Evaluated idx=988: Coverage=0, ROUGE-1=0.2139, ROUGE-2=0.1081, ROUGE-L=0.1497
+2025-09-20 11:40:53,840 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,843 [INFO] Evaluated idx=989: Coverage=0, ROUGE-1=0.3137, ROUGE-2=0.0792, ROUGE-L=0.1569
+2025-09-20 11:40:53,846 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,849 [INFO] Evaluated idx=990: Coverage=0, ROUGE-1=0.3261, ROUGE-2=0.1099, ROUGE-L=0.2174
+2025-09-20 11:40:53,855 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,858 [INFO] Evaluated idx=991: Coverage=0, ROUGE-1=0.3025, ROUGE-2=0.1017, ROUGE-L=0.1681
+2025-09-20 11:40:53,863 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,865 [INFO] Evaluated idx=992: Coverage=0, ROUGE-1=0.2319, ROUGE-2=0.0683, ROUGE-L=0.1643
+2025-09-20 11:40:53,869 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,870 [INFO] Evaluated idx=993: Coverage=0, ROUGE-1=0.1911, ROUGE-2=0.0387, ROUGE-L=0.1529
+2025-09-20 11:40:53,874 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,876 [INFO] Evaluated idx=994: Coverage=0, ROUGE-1=0.2092, ROUGE-2=0.0662, ROUGE-L=0.1438
+2025-09-20 11:40:53,880 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,881 [INFO] Evaluated idx=995: Coverage=0, ROUGE-1=0.2378, ROUGE-2=0.1135, ROUGE-L=0.1678
+2025-09-20 11:40:53,885 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,887 [INFO] Evaluated idx=996: Coverage=0, ROUGE-1=0.0723, ROUGE-2=0.0122, ROUGE-L=0.0723
+2025-09-20 11:40:53,892 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,894 [INFO] Evaluated idx=997: Coverage=0, ROUGE-1=0.2277, ROUGE-2=0.1300, ROUGE-L=0.1287
+2025-09-20 11:40:53,898 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,900 [INFO] Evaluated idx=998: Coverage=0, ROUGE-1=0.3077, ROUGE-2=0.0838, ROUGE-L=0.1657
+2025-09-20 11:40:53,907 [INFO] Using default tokenizer.
+2025-09-20 11:40:53,910 [INFO] Evaluated idx=999: Coverage=0, ROUGE-1=0.1444, ROUGE-2=0.0364, ROUGE-L=0.0722
+2025-09-20 11:40:56,321 [INFO] Using GPU (cuda) for BERTScore evaluation.
+2025-09-20 11:40:56,322 [INFO] Starting BERTScore evaluation...
+2025-09-20 11:41:09,865 [INFO] BERTScore evaluation finished.
+2025-09-20 11:41:09,869 [INFO] 评测完成，报告已保存到 data/evaluation/model_result/qwen3-8b-sft-ckpt-3000-pubmedqa-bert.txt
