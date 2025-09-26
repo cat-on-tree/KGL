@@ -1,0 +1,847 @@
+2025-09-23 19:17:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:12 [INFO] 第4条成功生成。
+2025-09-23 19:17:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:12 [INFO] 第2条成功生成。
+2025-09-23 19:17:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:12 [INFO] 第1条成功生成。
+2025-09-23 19:17:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:12 [INFO] 第3条成功生成。
+2025-09-23 19:17:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:13 [INFO] 第7条成功生成。
+2025-09-23 19:17:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:13 [INFO] 第6条成功生成。
+2025-09-23 19:17:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:13 [INFO] 第5条成功生成。
+2025-09-23 19:17:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:13 [INFO] 第8条成功生成。
+2025-09-23 19:17:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:13 [INFO] 第9条成功生成。
+2025-09-23 19:17:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:13 [INFO] 第12条成功生成。
+2025-09-23 19:17:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:13 [INFO] 第10条成功生成。
+2025-09-23 19:17:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:13 [INFO] 第11条成功生成。
+2025-09-23 19:17:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:14 [INFO] 第13条成功生成。
+2025-09-23 19:17:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:14 [INFO] 第15条成功生成。
+2025-09-23 19:17:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:14 [INFO] 第14条成功生成。
+2025-09-23 19:17:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:14 [INFO] 第16条成功生成。
+2025-09-23 19:17:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:15 [INFO] 第17条成功生成。
+2025-09-23 19:17:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:15 [INFO] 第19条成功生成。
+2025-09-23 19:17:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:15 [INFO] 第20条成功生成。
+2025-09-23 19:17:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:15 [INFO] 第18条成功生成。
+2025-09-23 19:17:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:15 [INFO] 第21条成功生成。
+2025-09-23 19:17:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:15 [INFO] 第22条成功生成。
+2025-09-23 19:17:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:15 [INFO] 第23条成功生成。
+2025-09-23 19:17:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:15 [INFO] 第24条成功生成。
+2025-09-23 19:17:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:16 [INFO] 第26条成功生成。
+2025-09-23 19:17:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:16 [INFO] 第25条成功生成。
+2025-09-23 19:17:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:16 [INFO] 第27条成功生成。
+2025-09-23 19:17:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:16 [INFO] 第28条成功生成。
+2025-09-23 19:17:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:17 [INFO] 第29条成功生成。
+2025-09-23 19:17:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:17 [INFO] 第30条成功生成。
+2025-09-23 19:17:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:17 [INFO] 第31条成功生成。
+2025-09-23 19:17:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:17 [INFO] 第32条成功生成。
+2025-09-23 19:17:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:17 [INFO] 第33条成功生成。
+2025-09-23 19:17:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:17 [INFO] 第34条成功生成。
+2025-09-23 19:17:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:18 [INFO] 第35条成功生成。
+2025-09-23 19:17:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:18 [INFO] 第36条成功生成。
+2025-09-23 19:17:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:18 [INFO] 第37条成功生成。
+2025-09-23 19:17:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:18 [INFO] 第38条成功生成。
+2025-09-23 19:17:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:18 [INFO] 第39条成功生成。
+2025-09-23 19:17:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:18 [INFO] 第40条成功生成。
+2025-09-23 19:17:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:19 [INFO] 第41条成功生成。
+2025-09-23 19:17:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:19 [INFO] 第42条成功生成。
+2025-09-23 19:17:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:19 [INFO] 第43条成功生成。
+2025-09-23 19:17:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:19 [INFO] 第44条成功生成。
+2025-09-23 19:17:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:19 [INFO] 第45条成功生成。
+2025-09-23 19:17:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:19 [INFO] 第47条成功生成。
+2025-09-23 19:17:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:20 [INFO] 第46条成功生成。
+2025-09-23 19:17:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:20 [INFO] 第48条成功生成。
+2025-09-23 19:17:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:20 [INFO] 第49条成功生成。
+2025-09-23 19:17:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:20 [INFO] 第50条成功生成。
+2025-09-23 19:17:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:20 [INFO] 第51条成功生成。
+2025-09-23 19:17:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:20 [INFO] 第52条成功生成。
+2025-09-23 19:17:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:21 [INFO] 第53条成功生成。
+2025-09-23 19:17:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:21 [INFO] 第55条成功生成。
+2025-09-23 19:17:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:21 [INFO] 第54条成功生成。
+2025-09-23 19:17:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:21 [INFO] 第56条成功生成。
+2025-09-23 19:17:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:21 [INFO] 第57条成功生成。
+2025-09-23 19:17:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:22 [INFO] 第58条成功生成。
+2025-09-23 19:17:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:22 [INFO] 第60条成功生成。
+2025-09-23 19:17:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:22 [INFO] 第59条成功生成。
+2025-09-23 19:17:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:22 [INFO] 第63条成功生成。
+2025-09-23 19:17:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:22 [INFO] 第62条成功生成。
+2025-09-23 19:17:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:22 [INFO] 第64条成功生成。
+2025-09-23 19:17:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:23 [INFO] 第61条成功生成。
+2025-09-23 19:17:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:23 [INFO] 第66条成功生成。
+2025-09-23 19:17:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:23 [INFO] 第67条成功生成。
+2025-09-23 19:17:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:23 [INFO] 第65条成功生成。
+2025-09-23 19:17:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:23 [INFO] 第68条成功生成。
+2025-09-23 19:17:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:24 [INFO] 第70条成功生成。
+2025-09-23 19:17:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:24 [INFO] 第71条成功生成。
+2025-09-23 19:17:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:24 [INFO] 第72条成功生成。
+2025-09-23 19:17:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:24 [INFO] 第69条成功生成。
+2025-09-23 19:17:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:24 [INFO] 第74条成功生成。
+2025-09-23 19:17:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:24 [INFO] 第73条成功生成。
+2025-09-23 19:17:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:25 [INFO] 第75条成功生成。
+2025-09-23 19:17:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:25 [INFO] 第76条成功生成。
+2025-09-23 19:17:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:25 [INFO] 第77条成功生成。
+2025-09-23 19:17:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:25 [INFO] 第78条成功生成。
+2025-09-23 19:17:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:25 [INFO] 第80条成功生成。
+2025-09-23 19:17:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:25 [INFO] 第79条成功生成。
+2025-09-23 19:17:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:26 [INFO] 第81条成功生成。
+2025-09-23 19:17:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:26 [INFO] 第82条成功生成。
+2025-09-23 19:17:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:26 [INFO] 第83条成功生成。
+2025-09-23 19:17:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:26 [INFO] 第84条成功生成。
+2025-09-23 19:17:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:26 [INFO] 第85条成功生成。
+2025-09-23 19:17:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:26 [INFO] 第86条成功生成。
+2025-09-23 19:17:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:27 [INFO] 第87条成功生成。
+2025-09-23 19:17:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:27 [INFO] 第88条成功生成。
+2025-09-23 19:17:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:27 [INFO] 第89条成功生成。
+2025-09-23 19:17:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:27 [INFO] 第90条成功生成。
+2025-09-23 19:17:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:27 [INFO] 第91条成功生成。
+2025-09-23 19:17:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:27 [INFO] 第92条成功生成。
+2025-09-23 19:17:27 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:27 [INFO] 第93条成功生成。
+2025-09-23 19:17:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:28 [INFO] 第94条成功生成。
+2025-09-23 19:17:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:28 [INFO] 第95条成功生成。
+2025-09-23 19:17:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:28 [INFO] 第96条成功生成。
+2025-09-23 19:17:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:28 [INFO] 第97条成功生成。
+2025-09-23 19:17:28 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:28 [INFO] 第98条成功生成。
+2025-09-23 19:17:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:29 [INFO] 第99条成功生成。
+2025-09-23 19:17:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:29 [INFO] 第100条成功生成。
+2025-09-23 19:17:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:29 [INFO] 第101条成功生成。
+2025-09-23 19:17:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:29 [INFO] 第102条成功生成。
+2025-09-23 19:17:29 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:29 [INFO] 第104条成功生成。
+2025-09-23 19:17:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:30 [INFO] 第105条成功生成。
+2025-09-23 19:17:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:30 [INFO] 第103条成功生成。
+2025-09-23 19:17:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:30 [INFO] 第106条成功生成。
+2025-09-23 19:17:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:30 [INFO] 第107条成功生成。
+2025-09-23 19:17:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:30 [INFO] 第108条成功生成。
+2025-09-23 19:17:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:30 [INFO] 第109条成功生成。
+2025-09-23 19:17:30 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:30 [INFO] 第110条成功生成。
+2025-09-23 19:17:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:31 [INFO] 第111条成功生成。
+2025-09-23 19:17:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:31 [INFO] 第112条成功生成。
+2025-09-23 19:17:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:31 [INFO] 第114条成功生成。
+2025-09-23 19:17:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:31 [INFO] 第113条成功生成。
+2025-09-23 19:17:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:31 [INFO] 第115条成功生成。
+2025-09-23 19:17:31 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:31 [INFO] 第116条成功生成。
+2025-09-23 19:17:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:32 [INFO] 第117条成功生成。
+2025-09-23 19:17:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:32 [INFO] 第118条成功生成。
+2025-09-23 19:17:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:32 [INFO] 第119条成功生成。
+2025-09-23 19:17:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:32 [INFO] 第120条成功生成。
+2025-09-23 19:17:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:32 [INFO] 第121条成功生成。
+2025-09-23 19:17:32 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:32 [INFO] 第122条成功生成。
+2025-09-23 19:17:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:33 [INFO] 第123条成功生成。
+2025-09-23 19:17:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:33 [INFO] 第124条成功生成。
+2025-09-23 19:17:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:33 [INFO] 第125条成功生成。
+2025-09-23 19:17:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:33 [INFO] 第126条成功生成。
+2025-09-23 19:17:33 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:33 [INFO] 第127条成功生成。
+2025-09-23 19:17:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:34 [INFO] 第130条成功生成。
+2025-09-23 19:17:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:34 [INFO] 第128条成功生成。
+2025-09-23 19:17:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:34 [INFO] 第131条成功生成。
+2025-09-23 19:17:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:34 [INFO] 第129条成功生成。
+2025-09-23 19:17:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:34 [INFO] 第132条成功生成。
+2025-09-23 19:17:34 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:34 [INFO] 第133条成功生成。
+2025-09-23 19:17:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:35 [INFO] 第135条成功生成。
+2025-09-23 19:17:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:35 [INFO] 第134条成功生成。
+2025-09-23 19:17:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:35 [INFO] 第137条成功生成。
+2025-09-23 19:17:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:35 [INFO] 第136条成功生成。
+2025-09-23 19:17:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:35 [INFO] 第138条成功生成。
+2025-09-23 19:17:35 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:35 [INFO] 第139条成功生成。
+2025-09-23 19:17:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:36 [INFO] 第140条成功生成。
+2025-09-23 19:17:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:36 [INFO] 第141条成功生成。
+2025-09-23 19:17:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:36 [INFO] 第142条成功生成。
+2025-09-23 19:17:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:36 [INFO] 第143条成功生成。
+2025-09-23 19:17:36 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:36 [INFO] 第144条成功生成。
+2025-09-23 19:17:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:37 [INFO] 第145条成功生成。
+2025-09-23 19:17:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:37 [INFO] 第146条成功生成。
+2025-09-23 19:17:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:37 [INFO] 第147条成功生成。
+2025-09-23 19:17:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:37 [INFO] 第148条成功生成。
+2025-09-23 19:17:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:37 [INFO] 第149条成功生成。
+2025-09-23 19:17:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:37 [INFO] 第150条成功生成。
+2025-09-23 19:17:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:37 [INFO] 第151条成功生成。
+2025-09-23 19:17:37 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:37 [INFO] 第152条成功生成。
+2025-09-23 19:17:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:38 [INFO] 第153条成功生成。
+2025-09-23 19:17:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:38 [INFO] 第154条成功生成。
+2025-09-23 19:17:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:38 [INFO] 第155条成功生成。
+2025-09-23 19:17:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:38 [INFO] 第156条成功生成。
+2025-09-23 19:17:38 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:38 [INFO] 第158条成功生成。
+2025-09-23 19:17:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:39 [INFO] 第157条成功生成。
+2025-09-23 19:17:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:39 [INFO] 第159条成功生成。
+2025-09-23 19:17:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:39 [INFO] 第160条成功生成。
+2025-09-23 19:17:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:39 [INFO] 第161条成功生成。
+2025-09-23 19:17:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:39 [INFO] 第162条成功生成。
+2025-09-23 19:17:39 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:39 [INFO] 第163条成功生成。
+2025-09-23 19:17:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:40 [INFO] 第164条成功生成。
+2025-09-23 19:17:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:40 [INFO] 第166条成功生成。
+2025-09-23 19:17:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:40 [INFO] 第167条成功生成。
+2025-09-23 19:17:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:40 [INFO] 第168条成功生成。
+2025-09-23 19:17:40 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:40 [INFO] 第169条成功生成。
+2025-09-23 19:17:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:41 [INFO] 第165条成功生成。
+2025-09-23 19:17:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:41 [INFO] 第170条成功生成。
+2025-09-23 19:17:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:41 [INFO] 第172条成功生成。
+2025-09-23 19:17:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:41 [INFO] 第171条成功生成。
+2025-09-23 19:17:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:41 [INFO] 第174条成功生成。
+2025-09-23 19:17:41 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:41 [INFO] 第173条成功生成。
+2025-09-23 19:17:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:42 [INFO] 第175条成功生成。
+2025-09-23 19:17:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:42 [INFO] 第176条成功生成。
+2025-09-23 19:17:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:42 [INFO] 第177条成功生成。
+2025-09-23 19:17:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:42 [INFO] 第178条成功生成。
+2025-09-23 19:17:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:42 [INFO] 第179条成功生成。
+2025-09-23 19:17:42 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:42 [INFO] 第180条成功生成。
+2025-09-23 19:17:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:43 [INFO] 第182条成功生成。
+2025-09-23 19:17:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:43 [INFO] 第181条成功生成。
+2025-09-23 19:17:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:43 [INFO] 第183条成功生成。
+2025-09-23 19:17:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:43 [INFO] 第184条成功生成。
+2025-09-23 19:17:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:43 [INFO] 第185条成功生成。
+2025-09-23 19:17:43 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:43 [INFO] 第186条成功生成。
+2025-09-23 19:17:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:44 [INFO] 第188条成功生成。
+2025-09-23 19:17:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:44 [INFO] 第187条成功生成。
+2025-09-23 19:17:44 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:44 [INFO] 第190条成功生成。
+2025-09-23 19:17:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:45 [INFO] 第191条成功生成。
+2025-09-23 19:17:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:45 [INFO] 第192条成功生成。
+2025-09-23 19:17:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:45 [INFO] 第193条成功生成。
+2025-09-23 19:17:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:45 [INFO] 第189条成功生成。
+2025-09-23 19:17:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:45 [INFO] 第194条成功生成。
+2025-09-23 19:17:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:45 [INFO] 第195条成功生成。
+2025-09-23 19:17:45 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:45 [INFO] 第196条成功生成。
+2025-09-23 19:17:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:46 [INFO] 第198条成功生成。
+2025-09-23 19:17:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:46 [INFO] 第199条成功生成。
+2025-09-23 19:17:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:46 [INFO] 第197条成功生成。
+2025-09-23 19:17:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:46 [INFO] 第200条成功生成。
+2025-09-23 19:17:46 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:46 [INFO] 第201条成功生成。
+2025-09-23 19:17:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:47 [INFO] 第203条成功生成。
+2025-09-23 19:17:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:47 [INFO] 第204条成功生成。
+2025-09-23 19:17:47 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:47 [INFO] 第207条成功生成。
+2025-09-23 19:17:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:48 [INFO] 第202条成功生成。
+2025-09-23 19:17:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:48 [INFO] 第206条成功生成。
+2025-09-23 19:17:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:48 [INFO] 第205条成功生成。
+2025-09-23 19:17:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:48 [INFO] 第208条成功生成。
+2025-09-23 19:17:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:48 [INFO] 第209条成功生成。
+2025-09-23 19:17:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:48 [INFO] 第210条成功生成。
+2025-09-23 19:17:48 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:48 [INFO] 第211条成功生成。
+2025-09-23 19:17:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:49 [INFO] 第213条成功生成。
+2025-09-23 19:17:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:49 [INFO] 第212条成功生成。
+2025-09-23 19:17:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:49 [INFO] 第214条成功生成。
+2025-09-23 19:17:49 [INFO] 第215条成功生成。
+2025-09-23 19:17:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:49 [INFO] 第216条成功生成。
+2025-09-23 19:17:49 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:49 [INFO] 第217条成功生成。
+2025-09-23 19:17:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:50 [INFO] 第219条成功生成。
+2025-09-23 19:17:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:50 [INFO] 第218条成功生成。
+2025-09-23 19:17:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:50 [INFO] 第220条成功生成。
+2025-09-23 19:17:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:50 [INFO] 第221条成功生成。
+2025-09-23 19:17:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:50 [INFO] 第222条成功生成。
+2025-09-23 19:17:50 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:50 [INFO] 第223条成功生成。
+2025-09-23 19:17:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:51 [INFO] 第224条成功生成。
+2025-09-23 19:17:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:51 [INFO] 第225条成功生成。
+2025-09-23 19:17:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:51 [INFO] 第226条成功生成。
+2025-09-23 19:17:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:51 [INFO] 第227条成功生成。
+2025-09-23 19:17:51 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:51 [INFO] 第228条成功生成。
+2025-09-23 19:17:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:52 [INFO] 第229条成功生成。
+2025-09-23 19:17:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:52 [INFO] 第230条成功生成。
+2025-09-23 19:17:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:52 [INFO] 第232条成功生成。
+2025-09-23 19:17:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:52 [INFO] 第233条成功生成。
+2025-09-23 19:17:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:52 [INFO] 第231条成功生成。
+2025-09-23 19:17:52 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:52 [INFO] 第234条成功生成。
+2025-09-23 19:17:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:53 [INFO] 第236条成功生成。
+2025-09-23 19:17:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:53 [INFO] 第237条成功生成。
+2025-09-23 19:17:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:53 [INFO] 第235条成功生成。
+2025-09-23 19:17:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:53 [INFO] 第238条成功生成。
+2025-09-23 19:17:53 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:53 [INFO] 第239条成功生成。
+2025-09-23 19:17:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:54 [INFO] 第241条成功生成。
+2025-09-23 19:17:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:54 [INFO] 第240条成功生成。
+2025-09-23 19:17:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:54 [INFO] 第242条成功生成。
+2025-09-23 19:17:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:54 [INFO] 第243条成功生成。
+2025-09-23 19:17:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:54 [INFO] 第246条成功生成。
+2025-09-23 19:17:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:54 [INFO] 第245条成功生成。
+2025-09-23 19:17:54 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:54 [INFO] 第244条成功生成。
+2025-09-23 19:17:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:55 [INFO] 第247条成功生成。
+2025-09-23 19:17:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:55 [INFO] 第248条成功生成。
+2025-09-23 19:17:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:55 [INFO] 第250条成功生成。
+2025-09-23 19:17:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:55 [INFO] 第249条成功生成。
+2025-09-23 19:17:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:55 [INFO] 第251条成功生成。
+2025-09-23 19:17:55 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:55 [INFO] 第252条成功生成。
+2025-09-23 19:17:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:56 [INFO] 第253条成功生成。
+2025-09-23 19:17:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:56 [INFO] 第254条成功生成。
+2025-09-23 19:17:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:56 [INFO] 第255条成功生成。
+2025-09-23 19:17:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:56 [INFO] 第256条成功生成。
+2025-09-23 19:17:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:56 [INFO] 第257条成功生成。
+2025-09-23 19:17:56 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:56 [INFO] 第258条成功生成。
+2025-09-23 19:17:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:57 [INFO] 第259条成功生成。
+2025-09-23 19:17:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:57 [INFO] 第260条成功生成。
+2025-09-23 19:17:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:57 [INFO] 第261条成功生成。
+2025-09-23 19:17:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:57 [INFO] 第262条成功生成。
+2025-09-23 19:17:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:57 [INFO] 第264条成功生成。
+2025-09-23 19:17:57 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:57 [INFO] 第263条成功生成。
+2025-09-23 19:17:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:58 [INFO] 第265条成功生成。
+2025-09-23 19:17:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:58 [INFO] 第266条成功生成。
+2025-09-23 19:17:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:58 [INFO] 第268条成功生成。
+2025-09-23 19:17:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:58 [INFO] 第267条成功生成。
+2025-09-23 19:17:58 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:58 [INFO] 第270条成功生成。
+2025-09-23 19:17:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:59 [INFO] 第271条成功生成。
+2025-09-23 19:17:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:59 [INFO] 第272条成功生成。
+2025-09-23 19:17:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:59 [INFO] 第273条成功生成。
+2025-09-23 19:17:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:59 [INFO] 第269条成功生成。
+2025-09-23 19:17:59 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:17:59 [INFO] 第275条成功生成。
+2025-09-23 19:18:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:00 [INFO] 第274条成功生成。
+2025-09-23 19:18:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:00 [INFO] 第276条成功生成。
+2025-09-23 19:18:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:00 [INFO] 第277条成功生成。
+2025-09-23 19:18:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:00 [INFO] 第278条成功生成。
+2025-09-23 19:18:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:00 [INFO] 第279条成功生成。
+2025-09-23 19:18:00 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:00 [INFO] 第280条成功生成。
+2025-09-23 19:18:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:01 [INFO] 第282条成功生成。
+2025-09-23 19:18:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:01 [INFO] 第281条成功生成。
+2025-09-23 19:18:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:01 [INFO] 第283条成功生成。
+2025-09-23 19:18:01 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:01 [INFO] 第284条成功生成。
+2025-09-23 19:18:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:02 [INFO] 第287条成功生成。
+2025-09-23 19:18:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:02 [INFO] 第285条成功生成。
+2025-09-23 19:18:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:02 [INFO] 第286条成功生成。
+2025-09-23 19:18:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:02 [INFO] 第288条成功生成。
+2025-09-23 19:18:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:02 [INFO] 第290条成功生成。
+2025-09-23 19:18:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:02 [INFO] 第289条成功生成。
+2025-09-23 19:18:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:02 [INFO] 第291条成功生成。
+2025-09-23 19:18:02 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:02 [INFO] 第292条成功生成。
+2025-09-23 19:18:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:03 [INFO] 第294条成功生成。
+2025-09-23 19:18:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:03 [INFO] 第293条成功生成。
+2025-09-23 19:18:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:03 [INFO] 第295条成功生成。
+2025-09-23 19:18:03 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:03 [INFO] 第296条成功生成。
+2025-09-23 19:18:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:04 [INFO] 第297条成功生成。
+2025-09-23 19:18:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:04 [INFO] 第298条成功生成。
+2025-09-23 19:18:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:04 [INFO] 第299条成功生成。
+2025-09-23 19:18:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:04 [INFO] 第300条成功生成。
+2025-09-23 19:18:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:04 [INFO] 第302条成功生成。
+2025-09-23 19:18:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:04 [INFO] 第301条成功生成。
+2025-09-23 19:18:04 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:04 [INFO] 第303条成功生成。
+2025-09-23 19:18:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:05 [INFO] 第304条成功生成。
+2025-09-23 19:18:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:05 [INFO] 第305条成功生成。
+2025-09-23 19:18:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:05 [INFO] 第306条成功生成。
+2025-09-23 19:18:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:05 [INFO] 第307条成功生成。
+2025-09-23 19:18:05 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:05 [INFO] 第308条成功生成。
+2025-09-23 19:18:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:06 [INFO] 第309条成功生成。
+2025-09-23 19:18:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:06 [INFO] 第310条成功生成。
+2025-09-23 19:18:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:06 [INFO] 第312条成功生成。
+2025-09-23 19:18:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:06 [INFO] 第311条成功生成。
+2025-09-23 19:18:06 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:06 [INFO] 第313条成功生成。
+2025-09-23 19:18:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:07 [INFO] 第315条成功生成。
+2025-09-23 19:18:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:07 [INFO] 第316条成功生成。
+2025-09-23 19:18:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:07 [INFO] 第314条成功生成。
+2025-09-23 19:18:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:07 [INFO] 第317条成功生成。
+2025-09-23 19:18:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:07 [INFO] 第320条成功生成。
+2025-09-23 19:18:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:07 [INFO] 第319条成功生成。
+2025-09-23 19:18:07 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:07 [INFO] 第318条成功生成。
+2025-09-23 19:18:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:08 [INFO] 第321条成功生成。
+2025-09-23 19:18:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:08 [INFO] 第323条成功生成。
+2025-09-23 19:18:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:08 [INFO] 第324条成功生成。
+2025-09-23 19:18:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:08 [INFO] 第322条成功生成。
+2025-09-23 19:18:08 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:08 [INFO] 第325条成功生成。
+2025-09-23 19:18:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:09 [INFO] 第326条成功生成。
+2025-09-23 19:18:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:09 [INFO] 第328条成功生成。
+2025-09-23 19:18:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:09 [INFO] 第327条成功生成。
+2025-09-23 19:18:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:09 [INFO] 第330条成功生成。
+2025-09-23 19:18:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:09 [INFO] 第329条成功生成。
+2025-09-23 19:18:09 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:09 [INFO] 第331条成功生成。
+2025-09-23 19:18:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:10 [INFO] 第332条成功生成。
+2025-09-23 19:18:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:10 [INFO] 第333条成功生成。
+2025-09-23 19:18:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:10 [INFO] 第334条成功生成。
+2025-09-23 19:18:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:10 [INFO] 第335条成功生成。
+2025-09-23 19:18:10 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:10 [INFO] 第336条成功生成。
+2025-09-23 19:18:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:11 [INFO] 第337条成功生成。
+2025-09-23 19:18:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:11 [INFO] 第339条成功生成。
+2025-09-23 19:18:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:11 [INFO] 第338条成功生成。
+2025-09-23 19:18:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:11 [INFO] 第340条成功生成。
+2025-09-23 19:18:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:11 [INFO] 第341条成功生成。
+2025-09-23 19:18:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:11 [INFO] 第342条成功生成。
+2025-09-23 19:18:11 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:11 [INFO] 第343条成功生成。
+2025-09-23 19:18:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:12 [INFO] 第344条成功生成。
+2025-09-23 19:18:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:12 [INFO] 第345条成功生成。
+2025-09-23 19:18:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:12 [INFO] 第347条成功生成。
+2025-09-23 19:18:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:12 [INFO] 第348条成功生成。
+2025-09-23 19:18:12 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:12 [INFO] 第346条成功生成。
+2025-09-23 19:18:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:13 [INFO] 第349条成功生成。
+2025-09-23 19:18:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:13 [INFO] 第350条成功生成。
+2025-09-23 19:18:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:13 [INFO] 第352条成功生成。
+2025-09-23 19:18:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:13 [INFO] 第351条成功生成。
+2025-09-23 19:18:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:13 [INFO] 第353条成功生成。
+2025-09-23 19:18:13 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:13 [INFO] 第354条成功生成。
+2025-09-23 19:18:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:14 [INFO] 第355条成功生成。
+2025-09-23 19:18:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:14 [INFO] 第356条成功生成。
+2025-09-23 19:18:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:14 [INFO] 第357条成功生成。
+2025-09-23 19:18:14 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:14 [INFO] 第358条成功生成。
+2025-09-23 19:18:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:15 [INFO] 第359条成功生成。
+2025-09-23 19:18:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:15 [INFO] 第361条成功生成。
+2025-09-23 19:18:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:15 [INFO] 第360条成功生成。
+2025-09-23 19:18:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:15 [INFO] 第362条成功生成。
+2025-09-23 19:18:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:15 [INFO] 第363条成功生成。
+2025-09-23 19:18:15 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:15 [INFO] 第364条成功生成。
+2025-09-23 19:18:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:16 [INFO] 第365条成功生成。
+2025-09-23 19:18:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:16 [INFO] 第366条成功生成。
+2025-09-23 19:18:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:16 [INFO] 第367条成功生成。
+2025-09-23 19:18:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:16 [INFO] 第369条成功生成。
+2025-09-23 19:18:16 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:16 [INFO] 第368条成功生成。
+2025-09-23 19:18:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:17 [INFO] 第371条成功生成。
+2025-09-23 19:18:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:17 [INFO] 第370条成功生成。
+2025-09-23 19:18:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:17 [INFO] 第372条成功生成。
+2025-09-23 19:18:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:17 [INFO] 第373条成功生成。
+2025-09-23 19:18:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:17 [INFO] 第374条成功生成。
+2025-09-23 19:18:17 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:17 [INFO] 第375条成功生成。
+2025-09-23 19:18:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:18 [INFO] 第376条成功生成。
+2025-09-23 19:18:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:18 [INFO] 第377条成功生成。
+2025-09-23 19:18:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:18 [INFO] 第378条成功生成。
+2025-09-23 19:18:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:18 [INFO] 第379条成功生成。
+2025-09-23 19:18:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:18 [INFO] 第381条成功生成。
+2025-09-23 19:18:18 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:18 [INFO] 第380条成功生成。
+2025-09-23 19:18:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:19 [INFO] 第382条成功生成。
+2025-09-23 19:18:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:19 [INFO] 第383条成功生成。
+2025-09-23 19:18:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:19 [INFO] 第385条成功生成。
+2025-09-23 19:18:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:19 [INFO] 第384条成功生成。
+2025-09-23 19:18:19 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:19 [INFO] 第386条成功生成。
+2025-09-23 19:18:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:20 [INFO] 第388条成功生成。
+2025-09-23 19:18:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:20 [INFO] 第387条成功生成。
+2025-09-23 19:18:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:20 [INFO] 第389条成功生成。
+2025-09-23 19:18:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:20 [INFO] 第390条成功生成。
+2025-09-23 19:18:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:20 [INFO] 第391条成功生成。
+2025-09-23 19:18:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:20 [INFO] 第393条成功生成。
+2025-09-23 19:18:20 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:20 [INFO] 第392条成功生成。
+2025-09-23 19:18:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:21 [INFO] 第394条成功生成。
+2025-09-23 19:18:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:21 [INFO] 第395条成功生成。
+2025-09-23 19:18:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:21 [INFO] 第397条成功生成。
+2025-09-23 19:18:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:21 [INFO] 第396条成功生成。
+2025-09-23 19:18:21 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:21 [INFO] 第398条成功生成。
+2025-09-23 19:18:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:22 [INFO] 第399条成功生成。
+2025-09-23 19:18:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:22 [INFO] 第400条成功生成。
+2025-09-23 19:18:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:22 [INFO] 第401条成功生成。
+2025-09-23 19:18:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:22 [INFO] 第402条成功生成。
+2025-09-23 19:18:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:22 [INFO] 第403条成功生成。
+2025-09-23 19:18:22 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:22 [INFO] 第404条成功生成。
+2025-09-23 19:18:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:23 [INFO] 第405条成功生成。
+2025-09-23 19:18:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:23 [INFO] 第406条成功生成。
+2025-09-23 19:18:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:23 [INFO] 第408条成功生成。
+2025-09-23 19:18:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:23 [INFO] 第407条成功生成。
+2025-09-23 19:18:23 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:23 [INFO] 第409条成功生成。
+2025-09-23 19:18:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:24 [INFO] 第410条成功生成。
+2025-09-23 19:18:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:24 [INFO] 第413条成功生成。
+2025-09-23 19:18:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:24 [INFO] 第411条成功生成。
+2025-09-23 19:18:24 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:24 [INFO] 第414条成功生成。
+2025-09-23 19:18:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:25 [INFO] 第415条成功生成。
+2025-09-23 19:18:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:25 [INFO] 第416条成功生成。
+2025-09-23 19:18:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:25 [INFO] 第417条成功生成。
+2025-09-23 19:18:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:25 [INFO] 第412条成功生成。
+2025-09-23 19:18:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:25 [INFO] 第418条成功生成。
+2025-09-23 19:18:25 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:25 [INFO] 第419条成功生成。
+2025-09-23 19:18:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:26 [INFO] 第420条成功生成。
+2025-09-23 19:18:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:26 [INFO] 第421条成功生成。
+2025-09-23 19:18:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:26 [INFO] 第422条成功生成。
+2025-09-23 19:18:26 [INFO] HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-23 19:18:26 [INFO] 第423条成功生成。
+2025-09-23 19:18:26 [INFO] 全部处理完成，结果保存在 data/evaluation/model_test/qwen3-8b-kto-pharmacy-test.json

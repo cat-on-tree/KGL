@@ -94,15 +94,22 @@ You will receive for each sample:
 - Gold Answer (reference answer)
 Please rate the model's answer according to the following criteria:
 Scoring reference:
-- 5: The model answer is semantically equivalent to the gold answer and provides additional, relevant, and accurate details or explanations that go beyond the gold answer, enhancing the scientific or clinical value of the response. The answer covers all key points, and any length extension is justified by added relevant information.
-- 4: The model answer is semantically equivalent to the gold answer and is complete, but does not provide additional relevant details or scientific explanations beyond the gold answer. Any additional content is minor, redundant, or lacks added scientific value.
-- 3: The model answer is close in meaning to the gold answer, but is either verbose with irrelevant information, lacks key details, or contains mixed relevant and irrelevant content. 
-- 2: The model answer is not semantically equivalent to the gold answer but is present in context. It covers little of the gold answer and does not logically support the question.
+- 5: The model answer is semantically equivalent to the gold answer and provides comprehensive subgroup-specific data, additional experimental details, or mechanistic/clinical context that enriches scientific value. For example, it reports both overall and subgroup results, adds statistical methods, or discusses implications.
+- 4: The model answer is semantically equivalent to the gold answer and is complete, but does not provide scientifically meaningful detail beyond the gold answer; any expansion is minor or redundant.
+- 3: The model answer is close in meaning, but verbose, missing key details, or mixes relevant and irrelevant content.
+- 2: The model answer is not semantically equivalent, covers little of the gold answer, or does not logically support the question.
 - 1: The model answer is irrelevant, incorrect, or mainly generated content not from context, and does not logically support the gold answer.
 Special notes:
-- For 5 points, encourage model answers that go beyond the gold standard in a scientifically valid way. Do NOT penalize answers for being lengthy or detailed if the extra information is correct and enhances the response. Penalize only for irrelevant or incorrect expansion.
-- Penalize answers for unnecessary verbosity, irrelevant information, or content not present in the context.
-- Reward answers that are concise and directly address the gold answer; penalize those that are needlessly long or off-topic.
+- “match” is true if the scientific conclusion and reasoning are the same; false if opposite or substantially different.
+- Penalize answers that introduce contradictory or incorrect science, or contradict the gold answer.
+- Reward answers that provide subgroup and overall data, mechanism, or clinical context.
+- Penalize verbosity and irrelevant information, unless it enhances scientific understanding.
+- Answers should be data-driven, mechanistic, and domain-specific when possible.
+Scoring workflow:
+1. Determine semantic equivalence (“match”).
+2. Assess for scientific enrichment (subgroup, mechanism, clinical impact).
+3. Identify irrelevant, redundant, or contradictory content.
+4. Apply scoring standard and explain reasoning.
 Output a JSON object with only:
 - "score": integer, 1 (very poor) to 5 (excellent)
 - "reason": string, explaining your score, especially the reasoning evaluation

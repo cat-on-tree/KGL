@@ -53,18 +53,22 @@ def extract_assistant_response(result):
         return match.group(1).strip()
     return result.strip()
 
-def local_generate(model, tokenizer, system_prompt, user_prompt, max_new_tokens=4096, device="cpu", use_qwen_template=False):
+def local_generate(model, tokenizer, system_prompt, user_prompt, max_new_tokens=4096, device="cpu", use_qwen_template=False, enable_thinking=None):
     # Qwen系列支持chat_template，否则直接拼接
     if use_qwen_template and hasattr(tokenizer, "apply_chat_template"):
         messages = [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
         ]
-        prompt = tokenizer.apply_chat_template(
+        chat_template_kwargs = dict(
             conversation=messages,
             tokenize=False,
             add_generation_prompt=True
         )
+        # 只在Qwen chat模板支持的情况下传递enable_thinking参数
+        if enable_thinking is not None:
+            chat_template_kwargs["enable_thinking"] = enable_thinking
+        prompt = tokenizer.apply_chat_template(**chat_template_kwargs)
     else:
         prompt = system_prompt + "\n" + user_prompt
 
@@ -91,6 +95,9 @@ def main():
     parser.add_argument("--retry_base_wait", type=float, default=10, help="出错后等待的基础秒数，指数退避")
     parser.add_argument("--max_new_tokens", type=int, default=4096)
     parser.add_argument("--device", default="cpu", help="cpu、cuda 或 mps")
+    parser.add_argument("--enable_thinking", action="store_true",
+                        help="出现此参数时，显式关闭思考模式（即传 enable_thinking=False），不传则保持模型默认")
+
     args = parser.parse_args()
 
     logging.basicConfig(
@@ -129,13 +136,19 @@ def main():
         user_prompt = construct_user_prompt(obj)
         last_error = None
 
+        # 判断是否需要传enable_thinking参数
+        enable_thinking = None
+        if args.enable_thinking:
+            enable_thinking = False
+
         for attempt in range(max_retries):
             try:
                 result = local_generate(
                     model, tokenizer, system_prompt, user_prompt,
                     max_new_tokens=args.max_new_tokens,
                     device=device,
-                    use_qwen_template=use_qwen_template
+                    use_qwen_template=use_qwen_template,
+                    enable_thinking=enable_thinking
                 )
                 logging.info(f"第{out_idx + 1}条成功生成。")
                 return {

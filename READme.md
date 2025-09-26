@@ -10,6 +10,12 @@ python xx.py --model xx --output xx.json --threads 4 --log logs/xx-answer.log #e
 python xx.py --model_dir model/自己的模型 --output xx.json --device mps/cuda/cpu --log logs/xx-answer.log
 ```
 
+超参数分析：
+
+```apache
+python xx.py --model_dir model/自己的模型 --output xx.json --device mps/cuda/cpu --log logs/xx-answer.log --temperature (取值[0,2)) --top_k (取值[0,100))
+```
+
 model test中的脚本用法：
 
 ```apache
