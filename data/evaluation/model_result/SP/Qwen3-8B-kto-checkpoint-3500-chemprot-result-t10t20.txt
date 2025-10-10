@@ -1,0 +1,13 @@
+==== Classification Report ====
+              precision    recall  f1-score   support
+
+       CPR:3       0.08      0.87      0.14        15
+       CPR:4       0.31      0.59      0.40       134
+       CPR:5       0.08      0.70      0.15        33
+       CPR:6       0.28      0.46      0.35        50
+       CPR:9       0.13      0.35      0.19        31
+       false       0.82      0.15      0.25       737
+
+    accuracy                           0.26      1000
+   macro avg       0.28      0.52      0.25      1000
+weighted avg       0.66      0.26      0.27      1000
